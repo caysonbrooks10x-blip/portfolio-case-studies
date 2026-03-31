@@ -4,428 +4,355 @@
 
 ---
 
-## Phase 1: Market Assessment & Opportunity Identification
+## Phase 1: Strategic Assessment
 
-### 1.1 Market Assessment Report
-**Description:** Comprehensive analysis of market landscape and opportunities
+### 1.1 Strategic Assessment Report
+**Description:** Comprehensive analysis of current business state and growth opportunities
 **Components:**
-- Market sizing (TAM, SAM, SOM)
-- Market segmentation analysis
-- Growth trend analysis by segment
-- Regulatory landscape assessment
-- Technology trends impact analysis
-- Market entry barrier analysis
+- Financial analysis (revenue, margins, utilization)
+- Business model assessment
+- Growth ceiling identification
+- Competitive position analysis
+- Market opportunity assessment
 
-**Format:** 45-page report + presentation
-**Owner:** Cayson Brooks, Market Research Analyst
-**Reviewer:** Richard Thornton
-
----
-
-### 1.2 Competitive Intelligence Report
-**Description:** Analysis of competitive landscape and competitive positioning
-**Components:**
-- Competitor mapping (15+ competitors)
-- Competitive positioning analysis
-- Win/loss analysis (internal data)
-- Competitive pricing analysis
-- Competitive capability assessment
-- Competitive threat assessment
-
-**Format:** 30-page report + competitive matrix
-**Owner:** Market Research Analyst
-**Reviewer:** Thomas Park, Richard Thornton
-
----
-
-### 1.3 Customer Research Summary
-**Description:** Analysis of customer needs, pain points, and decision criteria
-**Components:**
-- Customer interview synthesis (12 interviews)
-- Unmet needs identification
-- Pain point prioritization
-- Decision criteria analysis
-- Customer value chain mapping
-- Customer satisfaction drivers
-
-**Format:** 25-page report + interview summaries
+**Format:** 35-page report + presentation
 **Owner:** Cayson Brooks
-**Reviewer:** Thomas Park, Richard Thornton
+**Reviewer:** Richard Kowalski
 
 ---
 
-### 1.4 Growth Opportunity Landscape
-**Description:** Ranked analysis of growth opportunities
+### 1.2 Competitive Landscape Analysis
+**Description:** Analysis of competitive environment and positioning
 **Components:**
-- Opportunity listing (20+ opportunities)
-- Opportunity sizing and attractiveness
-- Capability fit assessment
+- Competitor identification (direct, indirect, substitute)
+- Competitor capabilities and positioning
+- Competitive pricing analysis
+- Competitive advantages and vulnerabilities
+- Market share analysis
+- Competitive response forecasting
+
+**Format:** Analysis document + competitive matrix
+**Owner:** Cayson Brooks
+**Reviewer:** Richard Kowalski
+
+---
+
+### 1.3 Market Segmentation Study
+**Description:** Analysis of market segments and attractiveness
+**Components:**
+- Segment identification (aerospace, defense, medical, industrial)
+- Segment sizing and growth rates
+- Segment profitability analysis
+- Segment accessibility assessment
+- Segment-specific needs and requirements
+- Prioritization by attractiveness
+
+**Format:** Study document + segmentation map
+**Owner:** Cayson Brooks
+**Reviewer:** Richard Kowalski, Michael Kowalski
+
+---
+
+### 1.4 Growth Opportunity Map
+**Description:** Ranked growth opportunities with strategic rationale
+**Components:**
+- Opportunity identification (by segment, product, geography)
+- Opportunity sizing
+- Competitive fit assessment
+- Resource requirements
 - Risk assessment
 - Prioritization matrix
-- Market entry requirements
 
-**Format:** Prioritized matrix + opportunity cards
+**Format:** Map visualization + opportunity descriptions
 **Owner:** Cayson Brooks
-**Reviewer:** Richard Thornton, Leadership Team
+**Reviewer:** Richard Kowalski
 
 ---
 
-### 1.5 Strategic Options Analysis
-**Description:** Analysis of strategic options for growth
+### 1.5 Digital Presence Audit
+**Description:** Analysis of current digital footprint and gaps
 **Components:**
-- Strategic option identification
-- Option evaluation (size, attractiveness, fit, risk)
-- Option comparison matrix
-- Recommended strategic direction
-- Resource implications
-- Timeline implications
+- Website audit (functionality, content, SEO)
+- Social media audit (LinkedIn, Facebook)
+- Digital presence benchmarking
+- Competitor digital comparison
+- Buyer journey digital touchpoints
+- Gap analysis
 
-**Format:** Analysis document + workshop output
-**Owner:** Cayson Brooks
-**Reviewer:** Richard Thornton
+**Format:** Audit report + recommendations
+**Owner:** Digital Marketing Consultant
+**Reviewer:** Richard Kowalski, David Kim
 
 ---
 
-### 1.6 CEO Workshop: Strategic Priorities
-**Description:** Facilitated workshop to align on strategic priorities
+### 1.6 Capacity Utilization Analysis
+**Description:** Analysis of production capacity and optimization opportunities
 **Components:**
-- Market insights presentation
-- Competitive positioning discussion
-- Strategic options evaluation
-- Priority selection and alignment
-- Resource allocation discussion
-- Next steps commitment
+- Equipment inventory and capabilities
+- Utilization analysis (by shift, by equipment)
+- Bottleneck identification
+- Capacity expansion scenarios
+- Scheduling optimization opportunities
+- Night shift utilization improvement
 
-**Format:** Workshop facilitation + output summary
-**Owner:** Cayson Brooks
-**Reviewer:** Richard Thornton, Leadership Team
+**Format:** Analysis document + capacity model
+**Owner:** Operations Consultant
+**Reviewer:** Richard Kowalski, Michael Kowalski
 
 ---
 
 ## Phase 2: Growth Strategy Development
 
 ### 2.1 Growth Strategy Document
-**Description:** Comprehensive growth strategy with 4 pillars and 12 initiatives
+**Description:** Comprehensive growth strategy with 5-year vision
 **Components:**
 - Executive summary
 - Vision and strategic intent
-- Strategic pillars (4 pillars)
-- Initiative descriptions (12 initiatives)
-- Initiative timelines
-- Initiative owners and teams
+- Market positioning strategy
+- Customer acquisition strategy
+- Capacity optimization strategy
+- Talent development strategy
 - Investment requirements
-- Expected outcomes
+- Implementation roadmap
+- Success metrics
 
-**Format:** 40-page strategy document
+**Format:** 50-page strategy document
 **Owner:** Cayson Brooks
-**Reviewer:** Richard Thornton, Leadership Team
+**Reviewer:** Richard Kowalski, Michael Kowalski
 
 ---
 
-### 2.2 Value Proposition Framework
-**Description:** Differentiated value proposition and messaging framework
+### 2.2 Market Repositioning Plan
+**Description:** Plan for repositioning in higher-value segments
 **Components:**
-- Current state assessment
-- Differentiation opportunities
-- Value proposition architecture
-- Messaging framework (by segment)
-- Proof points and evidence
-- ROI calculator tool design
-- Sales enablement materials
-
-**Format:** Framework document + sales playbook
-**Owner:** Cayson Brooks
-**Reviewer:** Thomas Park
-
----
-
-### 2.3 Market Expansion Business Cases
-**Description:** Business cases for 2 adjacent market entries
-**Components:**
-- Semiconductor equipment market entry business case
-- Electric vehicle components market entry business case
-- Market sizing and attractiveness
-- Competitive landscape analysis
-- Customer needs assessment
+- Segment prioritization (aerospace, medical, legacy)
+- Certification roadmap (AS9100, ISO 13485)
 - Capability gap analysis
 - Investment requirements
-- Revenue projections (3 scenarios)
-- Risk assessment
+- Migration strategy (legacy → aerospace/medical)
+- Pricing strategy by segment
+- Timeline and milestones
 
-**Format:** 2 business case documents (30 pages each)
-**Owner:** Cayson Brooks, Market Research Analyst
-**Reviewer:** Richard Thornton, Leadership Team
-
----
-
-### 2.4 Customer Acquisition Playbook
-**Description:** Sales playbook for customer acquisition
-**Components:**
-- Target account identification methodology
-- Account prioritization framework
-- Outreach strategy and scripts
-- Discovery question guide
-- Solution presentation framework
-- Proposal framework
-- Negotiation playbooks
-- Account management framework
-
-**Format:** Playbook document + digital resources
+**Format:** Plan document + certification roadmap
 **Owner:** Cayson Brooks
-**Reviewer:** Thomas Park
+**Reviewer:** Richard Kowalski
 
 ---
 
-### 2.5 Sales Process and CRM Design
-**Description:** HubSpot CRM configuration and sales process design
+### 2.3 Customer Acquisition Playbook
+**Description:** Playbook for systematic customer acquisition
 **Components:**
-- Sales process mapping
-- Stage definitions and criteria
-- CRM field design
-- Workflow automation design
-- Dashboard and reporting design
-- Training curriculum
-- Adoption metrics
+- Ideal customer profile
+- Target account list (by segment)
+- Outreach strategy (LinkedIn, email, phone)
+- Proposal template and pricing playbook
+- New customer onboarding process
+- CRM configuration (HubSpot)
+- Sales person job description and hiring criteria
 
-**Format:** Process maps + HubSpot configuration + training
+**Format:** Playbook + CRM templates + job description
 **Owner:** Cayson Brooks
-**Reviewer:** Thomas Park
+**Reviewer:** Richard Kowalski
 
 ---
 
-### 2.6 Operational Roadmap for Growth
-**Description:** Operational investments required to support growth
+### 2.4 Capacity Optimization Plan
+**Description:** Plan for maximizing utilization and efficiency
 **Components:**
-- Capacity assessment (current vs. required)
-- Equipment investment plan
-- ERP implementation plan (NetSuite)
-- Supplier partnership development
-- Quality management enhancements
-- Talent acquisition plan
-- Operational KPIs
-
-**Format:** Roadmap document + investment model
-**Owner:** Cayson Brooks, Michael Foster
-**Reviewer:** Richard Thornton, Michael Foster
-
----
-
-## Phase 3: Strategic Plan Development
-
-### 3.1 3-Year Strategic Plan (2024-2026)
-**Description:** Comprehensive 3-year strategic plan
-**Components:**
-- Strategic context and situation analysis
-- Vision and strategic intent
-- 3-year goals and metrics
-- Initiative roadmap (by year)
-- Resource allocation plan
-- Capital investment plan
-- Risk mitigation strategies
-- Governance model
-
-**Format:** 50-page strategic plan + executive summary
-**Owner:** Cayson Brooks
-**Reviewer:** Richard Thornton, Board of Directors
-
----
-
-### 3.2 Financial Model (3 Scenarios)
-**Description:** 3-year financial model with conservative, base, and aggressive scenarios
-**Components:**
-- Revenue model (by segment, customer, product)
-- Cost structure model
-- EBITDA and margin projections
-- Cash flow projections
-- Balance sheet projections
-- Scenario comparison (conservative, base, aggressive)
-- Key assumption sensitivity analysis
-- Capital requirement analysis
-
-**Format:** Excel workbook + summary presentation
-**Owner:** Cayson Brooks, Market Research Analyst
-**Reviewer:** Jennifer Walsh, Richard Thornton
-
----
-
-### 3.3 Initiative Prioritization Matrix
-**Description:** Ranked initiatives with impact and effort analysis
-**Components:**
-- Initiative listing (12 initiatives)
-- Impact scoring (strategic, financial, operational)
-- Effort scoring (time, cost, complexity)
-- ROI calculation for each initiative
-- Prioritization ranking
-- Quick wins vs. strategic investments
-- Implementation sequencing
-
-**Format:** Prioritized matrix + rationale document
-**Owner:** Cayson Brooks
-**Reviewer:** Richard Thornton, Leadership Team
-
----
-
-### 3.4 Resource Plan
-**Description:** Hiring, capital, and capability development plan
-**Components:**
-- Hiring plan (sales, engineering, operations)
-- Capital investment plan (equipment, technology)
-- Capability development plan (training, certifications)
-- Budget allocation by initiative
-- Timeline for resource deployment
-- Resource risk assessment
-
-**Format:** Plan document + budget spreadsheet
-**Owner:** Cayson Brooks
-**Reviewer:** Richard Thornton, Jennifer Walsh
-
----
-
-### 3.5 KPI Dashboard Design
-**Description:** Executive and operational KPI dashboard design
-**Components:**
-- KPI framework (strategic, operational, financial)
-- Metric definitions and calculations
-- Dashboard wireframes
-- Reporting cadence
-- Alert thresholds
-- Review meeting structure
-
-**Format:** Dashboard designs (Tableau) + metric definitions
-**Owner:** Cayson Brooks
-**Reviewer:** Richard Thornton, Leadership Team
-
----
-
-### 3.6 Governance Charter
-**Description:** Strategic planning governance and execution model
-**Components:**
-- Governance structure (executive sponsor, steering committee)
-- Meeting cadence (monthly, quarterly, annually)
-- Escalation procedures
-- Decision-making framework
-- Accountability model
-- Strategic review process
-- Plan update process
-
-**Format:** Charter document
-**Owner:** Cayson Brooks
-**Reviewer:** Richard Thornton
-
----
-
-### 3.7 Board Presentation Materials
-**Description:** Presentation materials for board approval
-**Components:**
-- Strategic plan executive summary
-- Market opportunity analysis
-- Growth strategy overview
-- Financial projections
+- Scheduling optimization recommendations
+- Night shift marketing program
+- Flex capacity offering design
+- Supplier network for overflow
+- Utilization tracking dashboard
 - Investment requirements
-- Risk mitigation
-- Recommendation and request
+- Timeline and expected impact
 
-**Format:** 30-slide presentation + appendix
-**Owner:** Cayson Brooks
-**Reviewer:** Richard Thornton
-
----
-
-## Phase 4: Implementation Support
-
-### 4.1 Initiative Launch Plans
-**Description:** 90-day launch plans for top 3 initiatives
-**Components:**
-- Initiative owner and team
-- 90-day milestones
-- Resource requirements
-- Dependencies and risks
-- Success metrics
-- Quick wins identification
-
-**Format:** 3 initiative plans (5 pages each)
-**Owner:** Cayson Brooks
-**Reviewer:** Initiative owners, Richard Thornton
+**Format:** Plan document + dashboard design
+**Owner:** Operations Consultant
+**Reviewer:** Richard Kowalski, Michael Kowalski
 
 ---
 
-### 4.2 HubSpot CRM Implementation
-**Description:** Configured and operational HubSpot CRM
+### 2.5 Digital Presence Roadmap
+**Description:** Roadmap for building digital presence
 **Components:**
-- CRM configuration (fields, workflows, automation)
-- Data migration (customer records, opportunities)
-- Pipeline and stage configuration
-- Dashboard setup
-- User training (Thomas Park + sales team)
+- Website redesign requirements
+- LinkedIn presence strategy
+- Content marketing strategy
+- SEO keyword targets
+- Digital proof points (case studies, testimonials)
+- Trade show and event strategy
+- Timeline and budget
+
+**Format:** Roadmap document + content calendar
+**Owner:** Digital Marketing Consultant
+**Reviewer:** Richard Kowalski
+
+---
+
+### 2.6 Talent Development Framework
+**Description:** Framework for talent development and knowledge management
+**Components:**
+- Critical knowledge identification
+- Process documentation plan (40 processes)
+- Training program curriculum
+- Knowledge management system (Notion)
+- Apprenticeship program design
+- Mentor program structure
+- Retention program (profit sharing, career pathing)
+
+**Format:** Framework document + program designs
+**Owner:** Cayson Brooks
+**Reviewer:** Richard Kowalski, Patricia Brennan
+
+---
+
+## Phase 3: Implementation Support
+
+### 3.1 Sales Hire and Onboarding
+**Description:** Hired and onboarded first dedicated sales person
+**Components:**
+- Job description and hiring process
+- Interview guides and evaluation criteria
+- Offer and onboarding plan
+- Sales training program (2 weeks)
+- CRM training
+- Territory and account assignments
+
+**Format:** Job description + onboarding plan + training materials
+**Owner:** Cayson Brooks
+**Reviewer:** Richard Kowalski
+
+---
+
+### 3.2 HubSpot CRM Implementation
+**Description:** Configured and operational CRM
+**Components:**
+- CRM configuration (contacts, companies, deals)
+- Pipeline stages and deal tracking
+- Email templates and sequences
+- Reporting dashboards
+- User training
 - Go-live support
 
 **Format:** Live operational CRM + training materials
 **Owner:** Cayson Brooks
-**Reviewer:** Thomas Park
+**Reviewer:** Richard Kowalski
 
 ---
 
-### 4.3 First Strategic Hire Support
-**Description:** Job description and sourcing for first strategic hire
+### 3.3 New Website Launch
+**Description:** Launched new website with modern design and capabilities
 **Components:**
-- Strategic account executive job description
-- Sourcing strategy and channels
-- Interview process design
-- Offer framework
-- Onboarding plan
+- Website design and development
+- 3D part viewer integration
+- Capability showcases
+- Case studies and testimonials
+- Certifications display
+- SEO optimization
+- Virtual tour of facility
 
-**Format:** Job description + sourcing plan + interview guide
-**Owner:** Cayson Brooks
-**Reviewer:** Richard Thornton, Thomas Park
+**Format:** Live operational website
+**Owner:** WordPress developer (oversight by Cayson)
+**Reviewer:** Richard Kowalski
 
 ---
 
-### 4.4 90-Day Action Plans
-**Description:** Detailed 90-day action plans for each pillar
+### 3.4 LinkedIn Presence Established
+**Description:** Established LinkedIn presence for company and executives
 **Components:**
-- 90-day milestones by pillar
-- Resource allocation
-- Key decisions required
-- Risks and mitigations
-- Success metrics
+- Company page setup and optimization
+- Executive personal branding (Richard, Michael)
+- Content strategy and posting calendar
+- LinkedIn advertising campaign
+- Connection building strategy
+- Lead generation setup
 
-**Format:** 4 pillar plans (3 pages each)
-**Owner:** Cayson Brooks
-**Reviewer:** Pillar owners, Richard Thornton
+**Format:** Live LinkedIn presence + content calendar
+**Owner:** Digital Marketing Consultant
+**Reviewer:** Richard Kowalski
 
 ---
 
-### 4.5 Executive Alignment Session
-**Description:** Leadership team alignment on strategic plan
+### 3.5 Scheduling Optimization Implemented
+**Description:** Implemented production scheduling improvements
 **Components:**
-- Strategic plan review
-- Initiative ownership confirmation
-- Resource commitment sign-off
-- Governance agreement
-- Timeline confirmation
-- Q&A and concerns addressed
+- MasterCAM optimization review
+- Changeover time reduction program
+- Shift scheduling optimization
+- Night shift utilization improvement
+- Utilization dashboard setup
+- KPI tracking and reporting
 
-**Format:** Facilitated session + output summary
+**Format:** Optimized scheduling system + dashboards
+**Owner:** Operations Consultant
+**Reviewer:** Michael Kowalski, James Wright
+
+---
+
+### 3.6 Process Documentation Initiated
+**Description:** First 20 critical processes documented
+**Components:**
+- Process identification and prioritization
+- SOP templates
+- Documentation of first 20 processes
+- Notion knowledge base setup
+- Training on documentation standards
+- Ongoing documentation plan
+
+**Format:** Notion knowledge base + SOPs
 **Owner:** Cayson Brooks
-**Reviewer:** Richard Thornton, Leadership Team
+**Reviewer:** James Wright, Thomas Chen
+
+---
+
+### 3.7 Apprenticeship Program Launched
+**Description:** Launched apprenticeship program with local technical school
+**Components:**
+- Partnership agreement with technical school
+- Curriculum alignment
+- Student recruitment process
+- Mentoring and supervision plan
+- Stipend and benefits structure
+- First cohort (8 students) enrolled
+
+**Format:** Partnership agreement + program materials
+**Owner:** Cayson Brooks
+**Reviewer:** Richard Kowalski, Patricia Brennan
+
+---
+
+### 3.8 Trade Show Presence (IMTS)
+**Description:** First trade show presence at IMTS
+**Components:**
+- Booth design and materials
+- Show selection and registration
+- Staff training
+- Lead capture system
+- Follow-up process
+- ROI analysis
+
+**Format:** Trade show presence + lead follow-up system
+**Owner:** Cayson Brooks
+**Reviewer:** Richard Kowalski
 
 ---
 
 ## Supporting Deliverables
 
 ### Success Playbook
-**Description:** Lessons learned and best practices from engagement
+**Description:** Lessons learned and best practices
 **Components:**
 - What worked (and why)
 - What didn't work (and what we changed)
-- Critical success factors
+- Critical success factors for manufacturing growth
 - Risk mitigation strategies
-- Advice for future strategic planning
-- Manufacturing-specific insights
+- Advice for future initiatives
+- Family business succession insights
 
 **Format:** 15-page playbook
 **Owner:** Cayson Brooks
-**Reviewer:** Richard Thornton
+**Reviewer:** Richard Kowalski
 
 ---
 
@@ -433,12 +360,11 @@
 
 | Phase | Deliverables | Format |
 |-------|-------------|--------|
-| Phase 1 | 6 major deliverables | Reports, Matrices, Workshops |
-| Phase 2 | 6 major deliverables | Strategy Documents, Playbooks, Designs |
-| Phase 3 | 7 major deliverables | Plans, Models, Dashboards, Charters |
-| Phase 4 | 5 major deliverables | Plans, CRM, Hire Support |
+| Phase 1 | 6 major deliverables | Reports, Analyses, Studies |
+| Phase 2 | 6 major deliverables | Strategies, Plans, Playbooks |
+| Phase 3 | 8 major deliverables | Implementations, Launches |
 | Supporting | 1 playbook | Document |
-| **Total** | **25 deliverables** | |
+| **Total** | **21 deliverables** | |
 
 ---
 
@@ -446,34 +372,29 @@
 
 ```
 Apex_Manufacturing/
-├── Phase_1_Market_Assessment/
-│   ├── 1.1_Market_Assessment_Report.pdf
-│   ├── 1.2_Competitive_Intelligence_Report.pdf
-│   ├── 1.3_Customer_Research_Summary.pdf
-│   ├── 1.4_Growth_Opportunity_Landscape.xlsx
-│   ├── 1.5_Strategic_Options_Analysis.pdf
-│   └── 1.6_CEO_Workshop_Output.pdf
+├── Phase_1_Assessment/
+│   ├── 1.1_Strategic_Assessment_Report.pdf
+│   ├── 1.2_Competitive_Landscape_Analysis.pdf
+│   ├── 1.3_Market_Segmentation_Study.pdf
+│   ├── 1.4_Growth_Opportunity_Map.pdf
+│   ├── 1.5_Digital_Presence_Audit.pdf
+│   └── 1.6_Capacity_Utilization_Analysis.pdf
 ├── Phase_2_Strategy_Development/
 │   ├── 2.1_Growth_Strategy_Document.pdf
-│   ├── 2.2_Value_Proposition_Framework.pdf
-│   ├── 2.3_Market_Expansion_Business_Cases/
-│   ├── 2.4_Customer_Acquisition_Playbook.pdf
-│   ├── 2.5_Sales_Process_CRM_Design.pdf
-│   └── 2.6_Operational_Roadmap.pdf
-├── Phase_3_Strategic_Plan/
-│   ├── 3.1_3_Year_Strategic_Plan.pdf
-│   ├── 3.2_Financial_Model.xlsx
-│   ├── 3.3_Initiative_Prioritization_Matrix.xlsx
-│   ├── 3.4_Resource_Plan.pdf
-│   ├── 3.5_KPI_Dashboard_Design.pdf
-│   ├── 3.6_Governance_Charter.pdf
-│   └── 3.7_Board_Presentation.pptx
-├── Phase_4_Implementation/
-│   ├── 4.1_Initiative_Launch_Plans/
-│   ├── 4.2_HubSpot_CRM_Implementation/
-│   ├── 4.3_Strategic_Hire_Support/
-│   ├── 4.4_90_Day_Action_Plans/
-│   └── 4.5_Executive_Alignment_Session.pdf
+│   ├── 2.2_Market_Repositioning_Plan.pdf
+│   ├── 2.3_Customer_Acquisition_Playbook.pdf
+│   ├── 2.4_Capacity_Optimization_Plan.pdf
+│   ├── 2.5_Digital_Presence_Roadmap.pdf
+│   └── 2.6_Talent_Development_Framework.pdf
+├── Phase_3_Implementation/
+│   ├── 3.1_Sales_Hire_and_Onboarding/
+│   ├── 3.2_HubSpot_CRM_Implementation/
+│   ├── 3.3_New_Website_Launch/
+│   ├── 3.4_LinkedIn_Presence/
+│   ├── 3.5_Scheduling_Optimization/
+│   ├── 3.6_Process_Documentation/
+│   ├── 3.7_Apprenticeship_Program/
+│   └── 3.8_IMTS_Trade_Show/
 └── Supporting/
     └── Success_Playbook.pdf
 ```

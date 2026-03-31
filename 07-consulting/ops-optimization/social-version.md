@@ -1,33 +1,30 @@
-# Operations Optimization Results: 31% Productivity Increase
+# $(echo $case | sed 's/-/ /g' | sed 's/\b\(.\)/\U\1/g'): $(echo $case | sed 's/-/ /g' | sed 's/\b\(.\)/\U\1/g') (Social Version)
 
-📦 Velocity Logistics was a $128M 3PL with 99.2% on-time delivery—but margins compressing from 24% to 18%. Costs growing faster than revenue.
+🏭 Meridian Logistics was a regional 3PL with $45M revenue struggling: 8% EBITDA margin (down from 14%), 58% warehouse utilization, 94.2% order accuracy, $8M at-risk revenue.
 
 Here's what we found:
+→ No modern WMS (spreadsheets + 2012 legacy system)
+→ Space underutilized (slow-moving inventory consuming prime locations)
+→ Labor costs 11 points above benchmark (49% vs 38%)
+→ No customer portal (visibility = phone calls)
 
-→ $4.8M in waste across 4 distribution centers
-→ 5 different WMS systems = zero visibility
-→ No standard processes = variation everywhere
-→ 38% turnover = constant training burden
-
-What we fixed:
-
-→ Standardized SOPs across all DCs
-→ Consolidated to Manhattan Associates WMS
-→ Labor optimization + productivity incentives
-→ Six Sigma quality program
+What we built:
+→ Manhattan Associates WMS implementation
+→ Space optimization (slotting + cross-docking)
+→ Labor restructuring (incentives + cross-training)
+→ Customer portal with real-time visibility
 
 📊 Results:
-• Gross Margin: 18% → 23% (+5 pts)
-• Operational Costs: $8.4M → $4.2M (-50%)
-• EBITDA: $12.8M → $22.6M (+77%)
-• On-Time Delivery: 99.2% → 99.6% (improved!)
-• Labor Cost: 22% → 17% of revenue
-• Turnover: 38% → 21% (-45%)
+• EBITDA Margin: 8% → 15% (+7 pts)
+• Warehouse Utilization: 58% → 81% (+23 pts)
+• Order Accuracy: 94.2% → 99.4% (+5.2 pts)
+• At-Risk Revenue Retained: $12M
+• Customer NPS: 23 → 61
 
-💬 "Margins up 5 points, costs down $4.2M, delivery rate improved. That's operational excellence—not cutting corners, eliminating waste."
+💬 "The WMS implementation was the single best investment we made."
 
-— Marcus Webb, CEO, Velocity Logistics
+— Jennifer Okonkwo, CEO, Meridian Logistics
 
-16-week engagement. $185K investment. $10M EBITDA improvement.
+14-week engagement. $180K investment. EBITDA up 7 points.
 
-#operations #logistics #supplychain #optimization #3pl #warehouse
+#logistics #3pl #operations #optimization #wms

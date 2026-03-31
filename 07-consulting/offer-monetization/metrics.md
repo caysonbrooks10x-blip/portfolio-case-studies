@@ -1,283 +1,338 @@
-# Offer Design + Monetization Strategy: Metrics Reference
+# Offer Design + Monetization: Metrics Reference
 
-## Elevate Digital — Key Performance Indicators
-
----
-
-## 1. Financial Metrics
-
-### Revenue Metrics
-| Metric | Baseline | 6-Month | 12-Month | Change |
-|--------|----------|---------|----------|--------|
-| Annual Revenue | $4.2M | $6.0M | $7.8M | +86% |
-| Monthly Recurring Revenue | $0 | $720K | $1.2M | New |
-| Average Project Size | $85K | $220K | $340K | +300% |
-| Revenue per Employee | $150K | $200K | $260K | +73% |
-| Monthly Avg Revenue | $350K | $500K | $650K | +86% |
-
-### Profitability Metrics
-| Metric | Baseline | 12-Month | Change |
-|--------|----------|----------|--------|
-| Net Profit Margin | 18% | 34% | +16 pts |
-| Gross Margin | 52% | 71% | +19 pts |
-| EBITDA | $756K | $2.65M | +250% |
-| Revenue per Senior Hour | $145 | $380 | +162% |
-| Revenue per Junior Hour | $85 | $120 | +41% |
-| Utilization-Adjusted Revenue/FTE | $195K | $312K | +60% |
-
-### Revenue Mix Transformation
-| Metric | Baseline | 12-Month | Change |
-|--------|----------|----------|--------|
-| Project-Based Revenue | 100% | 55% | Restructured |
-| Retainer Revenue | 0% | 35% | New |
-| Performance-Based Revenue | 0% | 10% | New |
-| Average Retainer Value | N/A | $15K/mo | New |
-| Annual Contract Value | $85K | $180K | +112% |
+## Nexus Digital — Key Performance Indicators
 
 ---
 
-## 2. Client Metrics
+## 1. Pre-Engagement Baseline Metrics
 
-### Client Base Metrics
-| Metric | Baseline | 12-Month | Change |
-|--------|----------|----------|--------|
-| Active Clients | 52 | 48 | Optimized |
-| Average Client Tenure | 14 months | 24 months | +71% |
-| Client Retention Rate | 94% | 96% | +2 pts |
-| Annual Client Attrition | 6% | 4% | -33% |
-| Clients Lost to Attrition | 3.1/yr | 1.9/yr | -39% |
-
-### Client Satisfaction Metrics
-| Metric | Baseline | 12-Month | Change |
-|--------|----------|----------|--------|
-| Client Satisfaction Score | 4.2/5.0 | 4.7/5.0 | +12% |
-| Net Promoter Score (NPS) | 52 | 71 | +19 pts |
-| Client Effort Score | 3.6/5.0 | 4.4/5.0 | +22% |
-| Service Quality Rating | 4.1/5.0 | 4.6/5.0 | +12% |
-
-### Client Acquisition Metrics
-| Metric | Baseline | 12-Month | Change |
-|--------|----------|----------|--------|
-| Proposal Win Rate | 31% | 58% | +87% |
-| Sales Cycle (Avg) | 10 weeks | 4 weeks | -60% |
-| Pipeline Value | $3.2M | $8.4M | +163% |
-| Pipeline Coverage Ratio | 3.2x | 5.6x | +75% |
-| Lead-to-Client Rate | 12% | 24% | +100% |
-| Cost per Client Acquisition | $18.5K | $12.2K | -34% |
-
-### Value Metrics
-| Metric | Baseline | 12-Month | Change |
-|--------|----------|----------|--------|
-| Value-to-Fee Ratio | 12:1 | 8:1 | Improved capture |
-| Client Value Created | $50.4M | $62.4M | +24% |
-| Value Capture Rate | 8.3% | 12.5% | +4.2 pts |
-| Client ROI Multiple | 12x | 8x | Improved efficiency |
-
----
-
-## 3. Offer Tier Metrics
-
-### Tier Distribution
-| Tier | Tier Description | 6-Month | 12-Month | Avg Value |
-|------|------------------|---------|----------|-----------|
-| Activate | 200 qualified leads/mo | 12 clients | 18 clients | $15K/mo |
-| Accelerate | 350 leads + conversion | 8 clients | 14 clients | $28K/mo |
-| Amplify | 500 leads + full funnel | 5 clients | 10 clients | $45K/mo |
-| Architect | Enterprise/custom | 2 clients | 6 clients | $120K/mo |
-
-### Tier Adoption Metrics
+### Company Baseline
 | Metric | Value |
 |--------|-------|
-| Clients Upgraded to Higher Tier | 18 |
-| Clients Downgrading Tier | 2 |
-| Self-Selection Rate (Inbound) | 78% |
-| Proposal-Required Rate | 22% |
-| Average Time to Tier Decision | 2.3 weeks |
-| Custom Scoping Rate | 11% |
+| Monthly Recurring Revenue | $540K |
+| Annual Recurring Revenue | $6.5M |
+| Average Revenue per User (ARPU) | $299/month |
+| Average Revenue per Account | $3,000 |
+| Number of Paying Customers | 180 |
+| Customer Acquisition Cost | $1,200 |
+| Monthly Churn Rate | 8% |
+| Logo Retention (12-month) | 62% |
+| Net Revenue Retention | 85% |
+| Gross Margin | 72% |
+| Seed Funding Raised | $4.2M |
+| Employees | 24 |
+| Founded | 2021 |
+| Location | San Francisco, CA |
 
-### Pricing Metrics by Tier
-| Tier | Starting Price | Avg Contract | Win Rate |
-|------|---------------|--------------|----------|
-| Activate | $15K/mo | $180K/yr | 72% |
-| Accelerate | $28K/mo | $336K/yr | 64% |
-| Amplify | $45K/mo | $540K/yr | 58% |
-| Architect | Custom | $400K+ | 48% |
+### Unit Economics Baseline
+| Metric | Value |
+|--------|-------|
+| Customer LTV | $800 |
+| LTV:CAC Ratio | 0.67x |
+| CAC Payback Period | 18 months |
+| Gross Profit per Customer | $216 |
+
+### Customer Metrics
+| Metric | Value |
+|--------|-------|
+| NPS Score | 52 |
+| Free Trial Conversion Rate | 12% |
+| Sales Cycle (Average) | 45 days |
+| Inbound vs. Outbound Revenue | 30%/70% |
+| New Customers per Month | 15 |
+
+### Pricing Baseline
+| Metric | Value |
+|--------|-------|
+| Pricing Model | Per-user |
+| Price Point | $299/user/month |
+| Number of Tiers | 1 (single offering) |
+| Annual Plan Discount | 0% |
+| Add-ons | None |
+| Self-Service Available | No |
+
+### Demand Generation Baseline
+| Metric | Value |
+|--------|-------|
+| Inbound Leads | 120/month |
+| Marketing Qualified Leads | 48/month |
+| Sales Qualified Leads | 18/month |
+| Free Trial Starts | 125/month |
+| Website Visitors | 8,500/month |
 
 ---
 
-## 4. Team Metrics
+## 2. Post-Engagement Revenue Metrics
+
+### Revenue Transformation
+| Metric | Before | After (12 mo) | Change |
+|--------|--------|---------------|--------|
+| Monthly Recurring Revenue | $540K | $1.8M | +233% |
+| Annual Recurring Revenue | $6.5M | $21.6M | +232% |
+| Average Revenue per User | $299 | $480 | +61% |
+| Average Revenue per Account | $3,000 | $7,200 | +140% |
+| Gross Margin | 72% | 84% | +12 pts |
+| Gross Profit | $389K/mo | $1.51M/mo | +288% |
+
+### Revenue by Tier (12-Month)
+| Tier | Before | After | Customers | Revenue |
+|------|--------|-------|----------|---------|
+| Starter ($99/mo) | 0% | 35% | 87 | $8,613/mo |
+| Professional ($349/mo) | 100% | 48% | 120 | $41,880/mo |
+| Enterprise (Custom) | 0% | 17% | 42 | $180K/mo |
+| **Total** | **100%** | **100%** | **249** | **$1.8M** |
+
+### Add-On Revenue (12-Month)
+| Add-On | Price | Customers | MRR |
+|--------|-------|----------|-----|
+| Advanced AI Module | $199/mo | 68 | $13,532 |
+| API Access | $299/mo | 42 | $12,558 |
+| Integrations Bundle | $149/mo | 56 | $8,344 |
+| Priority Support | $499/mo | 18 | $8,982 |
+| **Total Add-Ons** | | | **$43,416** |
+
+---
+
+## 3. Customer Acquisition Metrics
+
+### Acquisition Funnel Transformation
+| Metric | Before | After (12 mo) | Change |
+|--------|--------|---------------|--------|
+| Customer Acquisition Cost | $1,200 | $340 | -72% |
+| Free Trial Conversion Rate | 12% | 24% | +12 pts |
+| Sales Cycle (Average) | 45 days | 18 days | -60% |
+| New Customers per Month | 15 | 85 | +467% |
+| Inbound vs. Outbound | 30%/70% | 65%/35% | Flipped |
+
+### Lead Funnel (12-Month)
+| Stage | Before | 6 mo | 12 mo |
+|-------|--------|------|-------|
+| Website Visitors | 8,500/mo | 18,200/mo | 32,400/mo |
+| Inbound Leads | 120/mo | 310/mo | 580/mo |
+| Marketing Qualified Leads | 48/mo | 124/mo | 232/mo |
+| Sales Qualified Leads | 18/mo | 52/mo | 98/mo |
+| Free Trial Starts | 125/mo | 320/mo | 540/mo |
+| New Customers | 15/mo | 42/mo | 85/mo |
+
+### CAC by Channel (After)
+| Channel | CAC | Conversion | % of Customers |
+|---------|-----|-----------|----------------|
+| Organic Search | $180 | 28% | 35% |
+| Content Marketing | $220 | 24% | 22% |
+| Paid Search | $480 | 18% | 18% |
+| Referral | $90 | 42% | 15% |
+| Outbound Sales | $890 | 12% | 10% |
+
+---
+
+## 4. Retention & Expansion Metrics
+
+### Retention Transformation
+| Metric | Before | After (12 mo) | Change |
+|--------|--------|---------------|--------|
+| Monthly Churn Rate | 8% | 2.5% | -69% |
+| Customer Retention (12-mo) | 38% | 74% | +36 pts |
+| Logo Retention | 62% | 89% | +27 pts |
+| Net Revenue Retention | 85% | 128% | +43 pts |
+| Gross Revenue Retention | 85% | 97% | +12 pts |
+
+### Churn Analysis (After)
+| Metric | Value |
+|--------|-------|
+| Monthly Churn | 2.5% |
+| Annual Churn | 26% |
+| Churned Revenue (Monthly) | $45K |
+| Saved vs. Baseline | $198K/mo |
+
+### Expansion Revenue (After)
+| Metric | Value |
+|--------|-------|
+| Expansion Revenue (% MRR) | 18% |
+| Seat Expansion MRR | $162K |
+| Upgrade MRR | $108K |
+| Add-on MRR | $54K |
+| Expansion Customers | 89 |
+| Expansion Rate | 36% |
+
+### Net Revenue Retention by Cohort
+| Cohort | GRR | Expansion | NRR |
+|--------|-----|-----------|-----|
+| Q1 2024 (Pre-engagement) | 85% | 0% | 85% |
+| Q2 2024 (During engagement) | 90% | 8% | 98% |
+| Q3 2024 (Post-launch) | 94% | 22% | 116% |
+| Q4 2024 (Optimization) | 96% | 32% | 128% |
+
+---
+
+## 5. Unit Economics Metrics
+
+### Unit Economics Transformation
+| Metric | Before | After | Change |
+|--------|--------|-------|--------|
+| Customer LTV | $800 | $4,200 | +425% |
+| LTV:CAC Ratio | 0.67x | 12.4x | +1,750% |
+| CAC Payback Period | 18 months | 3 months | -83% |
+| Gross Profit per Customer | $216 | $403 | +87% |
+
+### LTV Calculation (After)
+| Component | Value |
+|-----------|-------|
+| Average MRR per Customer | $480 |
+| Gross Margin | 84% |
+| Gross Profit per Customer | $403 |
+| Average Customer Lifetime | 40 months |
+| Customer LTV | $16,120 |
+| Fully-Loaded LTV (incl. CAC) | $4,200 |
+
+### CAC Payback Analysis (After)
+| Metric | SMB | Mid-Market | Enterprise |
+|--------|-----|------------|------------|
+| CAC | $340 | $520 | $1,200 |
+| ACV | $1,188 | $4,188 | $36,000 |
+| Gross Margin | 84% | 84% | 84% |
+| Gross Profit | $998 | $3,518 | $30,240 |
+| Payback Period | 4.1 months | 1.8 months | 0.5 months |
+
+---
+
+## 6. Product & Usage Metrics
+
+### Product Usage (After)
+| Metric | Value |
+|--------|-------|
+| DAU/MAU Ratio | 42% |
+| Weekly Active Users | 1,420 |
+| Feature Adoption Rate | 68% |
+| Core Feature Usage | 89% |
+| Advanced Feature Usage | 34% |
+| Average Session Duration | 24 minutes |
+
+### Free Trial Performance (After)
+| Metric | Before | After |
+|--------|--------|-------|
+| Free Trial Length | 14 days | 30 days |
+| Trial Conversion Rate | 12% | 24% |
+| Time to "Aha Moment" | 8 days | 4 days |
+| Trial Completion Rate | 62% | 84% |
+| Upgrade Intent Signals | 18% | 41% |
+
+### Self-Service vs. Sales-Assisted (After)
+| Metric | Self-Service | Sales-Assisted |
+|--------|--------------|----------------|
+| % of New Customers | 65% | 35% |
+| CAC | $180 | $640 |
+| Monthly Churn | 2.1% | 3.2% |
+| Expansion Rate | 22% | 15% |
+| Average ACV | $3,600 | $9,600 |
+| Time to Conversion | 8 days | 32 days |
+
+---
+
+## 7. Sales & Marketing Metrics
+
+### Sales Performance (After)
+| Metric | Before | After |
+|--------|--------|-------|
+| Average Sales Cycle | 45 days | 18 days |
+| Win Rate | 18% | 34% |
+| Average Deal Size | $3,000 | $7,200 |
+| Pipeline Coverage | 2.5x | 4.2x |
+| Quota Attainment | 52% | 84% |
+
+### Marketing Performance (After)
+| Metric | Before | After |
+|--------|--------|-------|
+| Inbound Leads | 120/mo | 580/mo |
+| MQL to SQL Conversion | 38% | 41% |
+| SQL to Opportunity | 72% | 78% |
+| Opportunity to Close | 25% | 34% |
+| Revenue per Marketing Dollar | $1.80 | $6.40 |
+
+### Content Marketing (After)
+| Metric | 6 mo | 12 mo |
+|--------|------|-------|
+| Blog Articles | 12 | 28 |
+| Website Traffic | 18,200/mo | 32,400/mo |
+| Organic Search Traffic | 8,400/mo | 18,200/mo |
+| SEO Keywords (Top 10) | 24 | 86 |
+| Inbound Demo Requests | 45/mo | 124/mo |
+
+---
+
+## 8. Financial Metrics
+
+### Investment & ROI
+| Phase | Duration | Investment |
+|-------|----------|------------|
+| Phase 1: Audit | 3 weeks | $20,000 |
+| Phase 2: Design | 4 weeks | $35,000 |
+| Phase 3: Implementation | 3 weeks | $20,000 |
+| **Total** | **10 weeks** | **$75,000** |
 
 ### Team Composition
-| Metric | Baseline | 12-Month | Change |
-|--------|----------|----------|--------|
-| Total Team Size | 28 | 30 | +7% |
-| Specialists | 22 | 24 | +9% |
-| Operations | 6 | 6 | No change |
-| Senior:Junior Ratio | 1:2.2 | 1:1.8 | Improved |
+| Role | Weeks | Count |
+|------|-------|-------|
+| Lead Monetization Strategist | 10 | 1 |
+| Product Analytics Consultant | 6 | 1 |
 
-### Team Utilization
-| Metric | Baseline | 12-Month | Change |
-|--------|----------|----------|--------|
-| Team Utilization Rate | 78% | 85% | +7 pts |
-| Senior Utilization Rate | 65% | 72% | +7 pts |
-| Junior Utilization Rate | 84% | 91% | +7 pts |
-| Billable Hours per Week | 38 | 42 | +11% |
-| Non-Billable Hours per Week | 11 | 7 | -36% |
-
-### Project Efficiency
-| Metric | Baseline | 12-Month | Change |
-|--------|----------|----------|--------|
-| Avg Hours per Project | 340 hrs | 187 hrs | -45% |
-| Senior Hours per Project | 180 hrs | 72 hrs | -60% |
-| Junior Hours per Project | 160 hrs | 115 hrs | -28% |
-| Senior:Junior Ratio per Project | 1:1.1 | 1:1.6 | Improved |
-| Project Margin | 42% | 71% | +29 pts |
-
-### Founder/Leadership Metrics
-| Metric | Baseline | 12-Month | Change |
-|--------|----------|----------|--------|
-| Founder Hours per Week | 55 | 30 | -45% |
-| Founder Billable Hours | 20 hrs/wk | 5 hrs/wk | -75% |
-| Founder Strategic Hours | 10 hrs/wk | 20 hrs/wk | +100% |
-| Leadership Team Hours per Week | 40 | 35 | -13% |
-
-### Team Satisfaction
-| Metric | Baseline | 12-Month | Change |
-|--------|----------|----------|--------|
-| Overall Team Satisfaction | 3.4/5.0 | 4.2/5.0 | +24% |
-| Work-Life Balance | 3.1/5.0 | 4.0/5.0 | +29% |
-| Career Growth | 3.2/5.0 | 4.1/5.0 | +28% |
-| Compensation Satisfaction | 3.8/5.0 | 4.1/5.0 | +8% |
-| Tools and Systems | 3.0/5.0 | 4.3/5.0 | +43% |
+### Return on Investment
+| Metric | Value |
+|--------|-------|
+| Total Investment | $75,000 |
+| MRR Increase | $1,260,000 |
+| Annual Revenue Increase | $15,120,000 |
+| Annual Gross Profit Increase | $12,700,000 |
+| ROI | 16,933% |
+| Payback Period | 2 months |
 
 ---
 
-## 5. Sales & Pipeline Metrics
+## 9. Industry Benchmarks
 
-### Sales Performance
-| Metric | Baseline | 12-Month | Change |
-|--------|----------|----------|--------|
-| Proposals Sent | 68/quarter | 42/quarter | -38% |
-| Proposals Won | 21/quarter | 24/quarter | +14% |
-| Proposal Win Rate | 31% | 58% | +87% |
-| Avg Proposal Value | $95K | $285K | +200% |
-| Proposal Creation Time | 32 hrs | 9 hrs | -72% |
-| BD Team Utilization | 82% | 68% | -14 pts |
+### SaaS Benchmarks
+| Metric | Industry Median | Nexus Before | Nexus After | Percentile |
+|--------|---------------|--------------|-------------|------------|
+| MRR Growth | 10-15%/mo | 0% | 19%/mo | 92nd |
+| CAC | $500-1,000 | $1,200 | $340 | 91st |
+| Churn Rate | 5% | 8% | 2.5% | 94th |
+| NRR | 100-110% | 85% | 128% | 88th |
+| LTV:CAC | 3x | 0.67x | 12.4x | 98th |
+| Free Trial Conversion | 15-25% | 12% | 24% | 76th |
 
-### Pipeline Metrics
-| Metric | Baseline | 12-Month | Change |
-|--------|----------|----------|--------|
-| Active Pipeline | $3.2M | $8.4M | +163% |
-| Pipeline by Stage | — | — | — |
-| Lead | $800K | $1.5M | +88% |
-| Qualified | $1.0M | $2.2M | +120% |
-| Proposal | $900K | $2.1M | +133% |
-| Negotiation | $500K | $2.6M | +420% |
-
-### Retainer Metrics
-| Metric | Baseline | 12-Month | Change |
-|--------|----------|----------|--------|
-| Retainer Clients | 0 | 42 | New |
-| Avg Retainer Value | N/A | $15K/mo | New |
-| Retainer Revenue | $0 | $630K/mo | New |
-| Retainer Gross Margin | N/A | 78% | — |
-| Retainer Renewal Rate | N/A | 94% | — |
+### Performance vs. Benchmarks
+| Metric | Benchmark | Nexus After | vs. Benchmark |
+|--------|-----------|-------------|---------------|
+| MRR Growth | 10-15%/mo | 19%/mo | +33-83% |
+| CAC | $500-1,000 | $340 | 32-66% below |
+| Churn Rate | 5% | 2.5% | 50% below |
+| NRR | 100-110% | 128% | +16-28 pts |
+| LTV:CAC | 3x | 12.4x | 4.1x above |
+| Payback Period | 12 months | 3 months | 75% faster |
 
 ---
 
-## 6. Marketing & Growth Metrics
+## 10. Post-Engagement Traction (12-Month)
 
-### Inbound Metrics
-| Metric | Baseline | 12-Month | Change |
-|--------|----------|----------|--------|
-| Inbound Leads | 24/mo | 68/mo | +183% |
-| Website Visitors | 4,200/mo | 12,800/mo | +205% |
-| Lead-to-Inquiry Rate | 0.6% | 0.5% | Stable |
-| Inquiry-to-Lead Rate | 35% | 42% | +20% |
-| Inbound Conversion to Client | 12% | 24% | +100% |
+### Revenue Traction
+| Metric | Start | 3 mo | 6 mo | 12 mo |
+|--------|-------|------|------|-------|
+| MRR | $540K | $680K | $1.05M | $1.8M |
+| ARR | $6.5M | $8.2M | $12.6M | $21.6M |
+| Customers | 180 | 198 | 218 | 249 |
+| ARPU | $299 | $342 | $481 | $480 |
+| Gross Margin | 72% | 76% | 80% | 84% |
 
-### Content & Thought Leadership
-| Metric | Baseline | 12-Month | Change |
-|--------|----------|----------|--------|
-| Blog Posts/Month | 2 | 6 | +200% |
-| LinkedIn Followers | 1,240 | 4,800 | +287% |
-| Email Subscribers | 890 | 3,200 | +260% |
-| Case Studies Published | 2 | 8 | +300% |
-| Speaking Engagements | 0 | 4 | New |
+### Funnel Traction
+| Metric | 3 mo | 6 mo | 12 mo |
+|--------|------|------|-------|
+| Free Trial Conversion | 16% | 20% | 24% |
+| New Customers/Month | 22 | 38 | 85 |
+| CAC | $680 | $480 | $340 |
+| Inbound % | 42% | 55% | 65% |
 
-### Referral Program
-| Metric | Baseline | 12-Month | Change |
-|--------|----------|----------|--------|
-| Referral Rate | 18% | 34% | +89% |
-| Referral Volume | 9/quarter | 16/quarter | +78% |
-| Referral Conversion Rate | 52% | 71% | +37% |
-| Referral Quality Score | 4.0/5 | 4.5/5 | +13% |
-| Referral Value | $95K | $245K | +158% |
-
----
-
-## 7. Technology Utilization Metrics
-
-### HubSpot Usage
-| Metric | Baseline | 12-Month | Change |
-|--------|----------|----------|--------|
-| CRM Adoption | 100% | 100% | Stable |
-| Deal Stage Tracking | 65% | 95% | +30 pts |
-| Activity Logging | 45% | 92% | +47 pts |
-| Email Sequencing | 12% | 78% | +66 pts |
-| Automation Rules | 8 | 34 | +325% |
-| Report Usage | 5 | 23 | +360% |
-
-### Project Management & Operations
-| Metric | Baseline | 12-Month | Change |
-|--------|----------|----------|--------|
-| Airtable Utilization | 40% | 88% | +48 pts |
-| Notion Documentation | 25% | 85% | +60 pts |
-| Slack Channels | 12 | 24 | +100% |
-| Meeting Hours/Week | 8 | 5 | -38% |
-| Async Communication Rate | 20% | 65% | +45 pts |
-
----
-
-## 8. Engagement ROI Metrics
-
-### Investment
-| Item | Amount |
-|------|--------|
-| Engagement Fee | $85,000 |
-| Internal Time Investment | 180 hours |
-| Technology Investment | $12,000 |
-| Training Investment | $8,500 |
-| Total Investment | $105,500 |
-
-### Return
-| Item | Value |
-|------|-------|
-| First-Year Revenue Increase | $3,600,000 |
-| Margin Improvement | $1,250,000 |
-| EBITDA Improvement | $1,894,000 |
-| Total First-Year Return | $5,494,000 |
-| ROI | 5,208% |
-| Payback Period | 60 days |
-
----
-
-## 9. Benchmark Comparisons
-
-### Industry Benchmarks (Marketing Agencies)
-| Metric | Elevate Baseline | Industry Avg | Elevate After |
-|--------|------------------|--------------|---------------|
-| Revenue per Employee | $150K | $175K | $260K |
-| Net Margin | 18% | 22% | 34% |
-| Gross Margin | 52% | 58% | 71% |
-| Proposal Win Rate | 31% | 35% | 58% |
-| Retainer Revenue % | 0% | 25% | 35% |
-
-### Performance Rankings
-| Metric | Percentile Before | Percentile After |
-|--------|-------------------|------------------|
-| Revenue per Employee | 32nd | 82nd |
-| Net Margin | 28th | 91st |
-| Proposal Win Rate | 25th | 88th |
-| Client Retention | 62nd | 89th |
-| Team Satisfaction | 38th | 81st |
+### Retention Traction
+| Metric | 3 mo | 6 mo | 12 mo |
+|--------|------|------|-------|
+| Monthly Churn | 6.5% | 4.2% | 2.5% |
+| NRR | 94% | 108% | 128% |
+| Expansion Revenue | 4% | 10% | 18% |

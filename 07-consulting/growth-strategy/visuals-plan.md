@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document outlines the visual assets required to bring the Apex Manufacturing business growth strategy case study to life. The visual identity should convey precision manufacturing expertise, strategic growth, and transformation from plateau to high growth.
+This document outlines the visual assets required to bring the Apex Manufacturing business growth strategy case study to life. The visual identity should convey manufacturing expertise, family business legacy, transformation from stagnation to growth, and exit readiness.
 
 ---
 
@@ -16,34 +16,30 @@ This document outlines the visual assets required to bring the Apex Manufacturin
 **Content:**
 - 6 key metrics with before/after comparison
 - Revenue transformation
-- Win rate improvement
-- Customer diversification
-
-**Design Direction:**
-- Industrial professional aesthetic
-- Steel blue/orange primary palette with green for growth
-- Clean data visualization with bold numbers
-- Manufacturing and strategic iconography
+- Customer growth
+- Margin improvement
+- Exit readiness
 
 **Layout:**
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│       APEX MANUFACTURING: GROWTH TRANSFORMATION            │
+│       APEX MANUFACTURING: GROWTH TRANSFORMATION           │
 │                                                             │
 │  ┌───────────────┐  ┌───────────────┐  ┌───────────────┐  │
-│  │   REVENUE    │  │   EBITDA     │  │   WIN RATE   │  │
-│  │   $47M→$72M│  │ $5.2M→$11.5M│  │   18%→34%   │  │
-│  │    +53%     │  │    +121%     │  │   +16 pts   │  │
+│  │   REVENUE  │  │    NEW      │  │   EBITDA   │  │
+│  │ $12M→$18.5M│  │ CUSTOMERS │  │   MARGIN   │  │
+│  │   +54%     │  │   28→51   │  │   8%→17%  │  │
+│  │             │  │   +82%    │  │  +9 pts   │  │
 │  └───────────────┘  └───────────────┘  └───────────────┘  │
 │                                                             │
 │  ┌───────────────┐  ┌───────────────┐  ┌───────────────┐  │
-│  │NEW CUSTOMERS │  │  CUSTOMER    │  │  REVENUE    │  │
-│  │  $2.1M→$18.5M│ │CONCENTRATION│  │   per EMP   │  │
-│  │    +781%     │  │   58%→44%   │  │ $165K→$240K│ │
-│  │             │  │   -14 pts    │  │    +45%     │  │
+│  │ FORTUNE 500 │  │  PIPELINE  │  │  EXIT      │  │
+│  │ CUSTOMERS │  │  VALUE    │  │  READINESS │  │
+│  │   0→4    │  │ $400K→$2.8M│  │  $24M     │  │
+│  │           │  │   +600%   │  │  OFFER    │  │
 │  └───────────────┘  └───────────────┘  └───────────────┘  │
 │                                                             │
-│  14-Week Strategy | $125K Investment | $25M Revenue Increase │
+│  16-Week Strategy | $125K Investment | $24M Acquisition Offer │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -53,85 +49,48 @@ This document outlines the visual assets required to bring the Apex Manufacturin
 
 ---
 
-### 2. Market Opportunity Visual
-**Purpose:** Strategy documents, proposals, presentations
-**Format:** Market sizing visualization
-**Dimensions:** 1920x1080px (presentation), 1200x800px (document)
-
-**Content:**
-- TAM: $4.2B
-- SAM: $680M
-- SOM: $45M
-- Adjacent markets: $1.2B
-
-**Layout:**
-```
-┌─────────────────────────────────────────────────────────────┐
-│              MARKET OPPORTUNITY: $4B+                       │
-│                                                             │
-│  TAM: $4.2B                                                │
-│  ┌─────────────────────────────────────────────────────┐   │
-│  │                   SAM: $680M                        │   │
-│  │  ┌───────────────────────────────────────────────┐ │   │
-│  │  │           SOM: $45M                          │ │   │
-│  │  │                                               │ │   │
-│  │  │   [Current Position: $47M]                   │ │   │
-│  │  └───────────────────────────────────────────────┘ │   │
-│  └─────────────────────────────────────────────────────┘   │
-│                                                             │
-│  Adjacent Markets: $1.2B (Semiconductor + EV)              │
-└─────────────────────────────────────────────────────────────┘
-```
-
-**File Names:**
-- `apex_market_opportunity.png`
-- `apex_tam_sam.png`
-
----
-
-### 3. Revenue Growth Trajectory
-**Purpose:** Investor materials, strategic reviews
-**Format:** Growth trajectory visualization
+### 2. Customer Concentration Transformation
+**Purpose:** Strategy documents, customer-focused materials
+**Format:** Before/after visualization
 **Dimensions:** 1200x800px
 
 **Content:**
-- 5 years flat at $45-47M
-- Strategy engagement
-- 18 months to $72M
-- Projected $100M+ trajectory
-
-**File Names:**
-- `apex_revenue_trajectory.png`
-
----
-
-### 4. Customer Diversification
-**Purpose:** Risk presentations, strategy documents
-**Format:** Pie chart / concentration visualization
-**Dimensions:** 1200x800px
-
-**Content:**
-- Before: 58% concentration (top 3)
-- After: 44% concentration (top 3)
-- New customer growth
+- Before: 60% concentration in top 3 customers
+- After: Diversified customer base with Fortune 500
+- Customer count growth
 
 **File Names:**
 - `apex_customer_diversification.png`
 
 ---
 
+### 3. Market Repositioning Visual
+**Purpose:** Marketing materials, segment-focused content
+**Format:** Segment breakdown visualization
+**Dimensions:** 1200x800px
+
+**Content:**
+- Revenue by segment before/after
+- Aerospace and medical device growth
+- Legacy vs. strategic segments
+
+**File Names:**
+- `apex_market_repositioning.png`
+
+---
+
 ## Platform-Specific Visuals
 
 ### LinkedIn Carousel (9 slides)
-**Slide 1:** Title — "How Apex Manufacturing Grew 53% in 18 Months"
-**Slide 2:** The challenge — 5 years flat, 58% customer concentration, 18% win rate
-**Slide 3:** What we found — $4B market with underserved segments
-**Slide 4:** The approach — 4 strategic pillars
-**Slide 5:** Value proposition development
-**Slide 6:** Customer acquisition system
-**Slide 7:** Market expansion strategy
+**Slide 1:** Title — "How Apex Manufacturing Broke Through 4 Years of Flat Growth"
+**Slide 2:** The challenge — $12M flat, 60% customer concentration, no sales function
+**Slide 3:** What we found — no go-to-market, digital invisibility, capacity underutilization
+**Slide 4:** The approach — growth strategy with 5 workstreams
+**Slide 5:** Market repositioning (aerospace + medical device)
+**Slide 6:** Customer acquisition engine (sales + CRM + LinkedIn)
+**Slide 7:** Digital presence and capacity optimization
 **Slide 8:** Results — all metrics
-**Slide 9:** $125K investment, $25M revenue increase + CTA
+**Slide 9:** $125K investment, $24M acquisition offer + CTA
 
 **Format:** 1080x1350px per slide
 **File Name:** `apex_linkedin_carousel.zip`
@@ -145,7 +104,7 @@ This document outlines the visual assets required to bring the Apex Manufacturin
 - Challenge statement
 - Approach summary
 - 6 key metrics
-- PE recapitalization callout
+- Exit readiness callout
 - Testimonial quote
 - CTA
 
@@ -156,74 +115,84 @@ This document outlines the visual assets required to bring the Apex Manufacturin
 
 ## Manufacturing-Specific Visual Elements
 
-### Precision Manufacturing Context
-- Modern CNC machining imagery
-- Aerospace and defense applications
-- Quality certifications and precision
-- Industrial professional aesthetic
-- Technology-enabled manufacturing
-
-### Strategic Growth
+### Family Business Legacy Theme
 **Visual Concept:**
-- Industrial to strategic journey
-- Plateau breaking visualization
-- Growth trajectory charts
-- Strategic planning frameworks
-- Capability building
+- Three-generation family business
+- American manufacturing heritage
+- Craftsmanship and precision
+- Legacy meets modern growth
+- Succession and exit readiness
 
 **Key Metrics:**
-- Revenue: $47M → $72M
-- Win rate: 18% → 34%
-- EBITDA margin: 11% → 16%
+- Founded 1962 → 61 years
+- 3 family generations
+- $24M acquisition offer
 
-### Value Proposition Impact
+### Growth and Transformation Theme
 **Visual Concept:**
-- Price competition → value competition
-- Total value vs. unit price
-- ROI calculator visualization
-- Margin expansion
+- From flat to growth trajectory
+- Plateau breaking
+- Customer diversification
+- Margin improvement
+- Exit readiness
 
 **Key Metrics:**
-- Gross margin: 32% → 38%
-- Price discount: 15% → 6%
-- Average deal size: $180K → $420K
+- Revenue: $12M → $18.5M
+- EBITDA margin: 8% → 17%
+- New customers: 23
+
+### Precision Manufacturing Theme
+**Visual Concept:**
+- Precision machining imagery
+- Aerospace and medical device components
+- Quality and accuracy
+- American-made
+- Modern technology
+
+**Key Metrics:**
+- Fortune 500 customers: 0 → 4
+- Aerospace revenue: 15% → 42%
+- On-time delivery: 87% → 96%
 
 ---
 
 ## Photography/Imagery Direction
 
-### Precision Manufacturing Context
-- Modern CNC machining centers
-- Aerospace precision components
-- Quality inspection and measurement
-- Clean industrial environments
-- Engineering and technical teams
-- Advanced manufacturing technology
+### Manufacturing Context
+- Precision machining equipment
+- Aerospace and medical components
+- Skilled machinists at work
+- Family business leadership (Richard and Michael)
+- Modern facility (clean, organized, technology-enabled)
+- Trade show presence (IMTS)
+- Apprenticeship and training
 
 ### Stock Recommendations
-- Unsplash: "CNC machining", "precision manufacturing", "aerospace manufacturing", "metalworking", "industrial machinery", "manufacturing facility"
-- Avoid: outdated manufacturing imagery, overly manual labor imagery, dirty shop floors
+- Unsplash: "precision machining", "CNC machine", "aerospace manufacturing", "medical device manufacturing", "manufacturing facility", "skilled worker", "family business", "American manufacturing"
+- Avoid: outdated factory imagery, unhealthy safety conditions, generic industrial stock
 
 ---
 
 ## Icon Library
 
-### Manufacturing & Strategy Icons
-- Gear/cog (manufacturing, operations)
+### Manufacturing & Growth Icons
+- Factory/Building (manufacturing, Apex)
+- Gear/Cog (precision, production)
 - Rocket (growth, trajectory)
-- Target (win rate, goals)
-- Chart/metrics (performance, KPIs)
-- Dollar/currency (revenue, margins)
-- Users/people (customers, team)
-- Building/factory (manufacturing)
-- Airplane (aerospace)
-- Shield (quality, certifications)
-- Layers/stack (strategy, tiers)
-- Calendar/clock (time, cycles)
-- Map/location (market expansion)
-- Magnet (customer acquisition)
-- Trophy (competitive wins)
-- Trophy (success, milestones)
+- Dollar/Currency (revenue, margins)
+- Users/Team (customers, employees)
+- Chart/Growth (revenue growth)
+- Target (goals, precision)
+- Award (quality, certifications)
+- Globe (aerospace, global)
+- Medical/Heart (medical device)
+- Shield (quality, reliability)
+- Calendar/Clock (history, legacy)
+- Family (family business)
+- Handshake (relationships, trust)
+- Wrench/Tool (craftsmanship)
+- Plane (aerospace)
+- Circuit (technology, precision)
 
 **Format:** SVG or PNG at 64x64, 128x128, 256x256
 
@@ -232,15 +201,15 @@ This document outlines the visual assets required to bring the Apex Manufacturin
 ## Brand Guidelines
 
 ### Color Palette
-- Primary: #1e3a5f (deep navy)
-- Secondary: #2d5a87 (steel blue)
-- Accent Orange: #f97316 (energy, growth, trajectory)
-- Accent Green: #22c55e (improvement, success)
-- Alert Red: #ef4444 (before, problem)
-- Background Light: #f8fafc (light gray)
+- Primary: #1e40af (deep blue - industrial, trustworthy)
+- Secondary: #475569 (slate - manufacturing, professional)
+- Accent Green: #22c55e (growth, success)
+- Accent Gold: #eab308 (legacy, family, premium)
+- Alert Red: #dc2626 (concentration risk, problems)
+- Background Light: #f8fafc (clean, modern)
 - Background Dark: #0f172a
 - Text Primary: #0f172a
-- Text Secondary: #475569
+- Text Secondary: #64748b
 
 ### Typography
 - Headlines: Inter Bold / Poppins Bold
@@ -250,11 +219,11 @@ This document outlines the visual assets required to bring the Apex Manufacturin
 
 ### Visual Style
 - Industrial professional aesthetic
-- Precision and quality connotation
+- Family business warmth
 - Data-forward storytelling
-- Before/after comparisons with clear improvement
-- Manufacturing and strategic iconography
-- Growth trajectory emphasis
+- Before/after comparisons
+- Growth and transformation narrative
+- American manufacturing heritage
 
 ---
 
@@ -265,22 +234,21 @@ visuals/
 ├── hero/
 │   ├── apex_dashboard_social.png
 │   ├── apex_dashboard_presentation.png
-│   └── apex_revenue_trajectory.png
+│   └── apex_customer_diversification.png
 ├── diagrams/
-│   ├── apex_market_opportunity.png
-│   ├── apex_tam_sam.png
-│   ├── apex_customer_diversification.png
-│   ├── apex_win_rate_improvement.png
-│   └── apex_value_proposition.png
+│   ├── apex_market_repositioning.png
+│   ├── apex_capacity_utilization.png
+│   ├── apex_exit_readiness.png
+│   └── apex_growth_trajectory.png
 ├── social/
 │   ├── apex_linkedin_carousel.zip
 │   └── apex_twitter_card.png
 ├── templates/
 │   ├── apex_case_study_pitch.pptx
 │   ├── apex_onepager.pdf
-│   └── apex_strategy_deck.pptx
+│   └── apex_growth_strategy_deck.pptx
 └── icons/
-    └── manufacturing_strategy_icons.svg
+    └── manufacturing_growth_icons.svg
 ```
 
 ---
@@ -288,10 +256,11 @@ visuals/
 ## Animation Guidelines
 
 ### Website Hero
-- Revenue builds from $47M to $72M
-- Win rate animates from 18% to 34%
-- EBITDA grows from $5.2M to $11.5M
-- Subtle manufacturing transitions
+- Revenue builds from $12M to $18.5M
+- Customer count grows from 28 to 51
+- EBITDA margin improves from 8% to 17%
+- Pipeline grows from $400K to $2.8M
+- Subtle transformation transitions
 
 ### Slide Transitions
 - Fade transitions between slides

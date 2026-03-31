@@ -1,32 +1,36 @@
-# Manufacturing Growth Strategy: 53% Revenue Growth in 18 Months
+# Apex Manufacturing: Business Growth Strategy (Social Version)
 
-🏭 Apex Manufacturing was a $47M precision components manufacturer stuck at $45-47M for 5 years. Customer concentration 58%, win rate 18%, no strategic plan. Price competition compressing margins.
+🏭 Apex Manufacturing was a 60-year-old precision machining company stuck flat at $12M for 4 years. Customer base aging (22-year avg tenure), 60% revenue concentration in top 3 customers, no sales function, no website, no LinkedIn. Owner 62, thinking succession—but business wasn't fundable or acquirable.
+
+Sound familiar? Many manufacturing companies confuse production excellence with growth capability.
 
 Here's what we found:
 
-→ $4B+ addressable market they weren't fully serving
-→ Win rate 18% vs. 35% industry benchmark (value prop gap)
-→ No CRM, no sales process, no market intelligence
-→ Customer concentration 58% = existential risk
+→ No go-to-market function (all relationships in Richard's head)
+→ Customer concentration = existential risk (60% from 3 customers)
+→ Digital invisibility (no website, no LinkedIn, no content)
+→ Capacity underutilization (65% utilization, night shift at 40%)
+→ Knowledge risk (critical tribal knowledge in 12 veteran machinists)
 
 What we built:
 
-→ "Precision Solutions" differentiated value proposition
-→ Customer acquisition playbook and CRM (HubSpot)
-→ Market expansion strategy (semiconductor, EV)
-→ 3-year strategic plan with governance
+→ Market repositioning (aerospace + medical device segments)
+→ Customer acquisition engine (sales person + HubSpot CRM + LinkedIn)
+→ Digital presence (new website with 3D viewer + LinkedIn + case studies)
+→ Capacity optimization (scheduling + night shift + flex capacity)
+→ Talent development (process docs + apprenticeship + mentorship)
 
-📊 Results (18 months):
-• Revenue: $47M → $72M (+53%)
-• EBITDA: $5.2M → $11.5M (+121%)
-• Win Rate: 18% → 34% (+16 pts)
-• New Customer Revenue: $2.1M → $18.5M (+781%)
-• Customer Concentration: 58% → 44% (-14 pts)
+📊 Results (24 months):
+• Revenue: $12M → $18.5M (+54%)
+• New Customers: 23 added (incl. 4 Fortune 500)
+• EBITDA Margin: 8% → 17% (+9 pts)
+• Pipeline: $400K → $2.8M (+600%)
+• Acquisition Offer: $24M
 
-💬 "Cayson helped us see what we couldn't see about ourselves. He showed us a $4B market with underserved segments, helped us develop a differentiated strategy, and built the capabilities to execute. Eighteen months later, we've grown from $47M to $72M."
+💬 "Cayson helped us see that our problem wasn't machining—it was marketing and sales. He helped us build a business that could survive and thrive after I'm gone."
 
-— Richard Thornton, CEO, Apex Manufacturing
+— Richard Kowalski, President and CEO, Apex Manufacturing
 
-14-week strategy engagement. $125K investment. $25M revenue increase.
+16-week engagement. $125K investment. $24M acquisition offer received.
 
-#manufacturing #growthstrategy #aerospace #precisionmachining #businessstrategy
+#manufacturing #growthstrategy #familybusiness #succession #precisionmachining

@@ -1,48 +1,29 @@
-# Operations Optimization Case Study: Velocity Logistics
+# Meridian Logistics: Operations Optimization
 
 ## The Challenge
 
-A $128M third-party logistics provider with 4 distribution centers and a 99.2% on-time delivery rate was facing margin compression—from 24% to 18% gross margin over five years. Fragmented technology (5 WMS systems), no standard processes, and reactive operations were driving inefficiency. Operational costs of $8.4M annually were growing faster than revenue.
+Regional 3PL provider with $45M revenue struggling with declining margins (14% → 8%), 58% warehouse utilization, 94.2% order accuracy, and $8M in at-risk revenue. Running on spreadsheets and a 2012 legacy system.
 
 ## The Approach
 
-Over 16 weeks, we conducted an operations optimization engagement:
-
-**Phase 1: Operations Assessment**
-Financial analysis, process mapping, technology assessment, labor analysis across all 4 DCs. We identified $4.8M in waste and fragmentation as the core problems.
-
-**Phase 2: Optimization Design**
-Four workstreams: SOP standardization, technology consolidation, labor optimization, and quality program. We developed comprehensive solutions for each.
-
-**Phase 3 & 4: Implementation & Optimization**
-SOPs rolled out across all DCs, Manhattan WMS deployed, labor management system live, quality program operational, continuous improvement cycle established.
+14-week operations optimization: Manhattan Associates WMS implementation, space optimization, labor restructuring, customer portal launch.
 
 ## The Results
 
 | Metric | Before | After |
 |--------|--------|-------|
-| Gross Margin | 18% | 23% |
-| Operational Costs | $8.4M | $4.2M |
-| EBITDA | $12.8M | $22.6M |
-| On-Time Delivery | 99.2% | 99.6% |
-| Labor Cost (% Revenue) | 22% | 17% |
-| Turnover Rate | 38% | 21% |
-
-## Tools & Methods
-
-This engagement leveraged:
-- Manhattan Associates WMS, SAP S/4HANA (enterprise systems)
-- Veridian LMS, RF Terminals (labor and warehouse tech)
-- Tableau, Power BI (analytics)
-- Minitab, IQMS (quality and process)
-- Smartsheet, Microsoft 365 (collaboration)
+| EBITDA Margin | 8% | 15% |
+| Warehouse Utilization | 58% | 81% |
+| Order Accuracy | 94.2% | 99.4% |
+| At-Risk Revenue Retained | — | $12M |
+| Customer NPS | 23 | 61 |
 
 ## Testimonial
 
-"Cayson transformed how we think about operations. Margins up 5 points, costs down $4.2M, delivery rate actually improved. That's operational excellence—not cutting corners, eliminating waste."
+"The WMS implementation was the single best investment we made: accuracy went to 99.4%, customers got real-time visibility, and we retained $12M in at-risk revenue. EBITDA margin recovered from 8% to 15%."
 
-— Marcus Webb, CEO, Velocity Logistics
+— Jennifer Okonkwo, CEO, Meridian Logistics
 
 ## Ready to Optimize Your Operations?
 
-Schedule a consultation to discuss how we can help you achieve operational excellence.
+Schedule a consultation to discuss improving efficiency, customer experience, and margins.

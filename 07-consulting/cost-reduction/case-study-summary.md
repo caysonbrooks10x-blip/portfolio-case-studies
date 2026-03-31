@@ -1,37 +1,19 @@
-# Meridian Healthcare: Cost Reduction + Process Redesign
+# Pinnacle Manufacturing — Cost Reduction + Process Redesign
 
-## The Situation
+## Summary
 
-A $1.8B regional healthcare system with 8 hospitals and 12,000 employees was facing operating margin decline—from 3.2% to 0.8% over three years. Cash reserves were depleting, and the board mandated $40M in cost reductions. Previous cost cutting had failed, compromising staff morale and increasing turnover.
+Pinnacle Manufacturing was a $78M contract manufacturer with declining margins (16% → 11%), rising material costs, labor costs 5 points above benchmark, and 4.2% scrap rate. After a 12-week cost reduction and process redesign engagement, $8.2M in annualized savings identified, EBITDA margin improved to 16%, material costs reduced 14%, labor productivity improved 23%, and a continuous improvement culture was built.
 
-## The Approach
+**The Problem:** Unmanaged material costs, below-benchmark labor productivity, high overhead, no continuous improvement culture.
 
-20-week cost reduction and process redesign project:
+**The Solution:** Supplier consolidation, lean manufacturing, cellular production, scrap reduction, Kaizen program.
 
-1. **Cost Analysis & Opportunity Identification** — Financial analysis, supply chain assessment, administrative overhead analysis, clinical workflow analysis
-2. **Process Redesign** — 4 workstreams: supply chain redesign, administrative redesign, clinical workflow redesign, technology implementation
-3. **Implementation** — New vendor contracts, Workday HRIS, ADP payroll, ScanVan inventory, BCMA deployment, RPA implementation
-4. **Optimization & Sustainability** — Performance monitoring, FTE transition, 12-month roadmap
+**Results:**
+- EBITDA Margin: 11% → 16%
+- Annualized Savings: $8.2M
+- Material Costs: $31M → $26.7M (-14%)
+- Labor Productivity: +23%
+- Scrap Rate: 4.2% → 2.1% (-50%)
+- Manufacturing Cycle Time: -31%
 
-## The Results
-
-| Metric | Before | After |
-|--------|--------|-------|
-| Operating Margin | 0.8% | 4.1% |
-| Annual Cost Savings | — | $47M |
-| Supply Chain Costs | $520M | $406M |
-| Administrative Overhead | $180M | $124M |
-| Nurse Turnover Rate | 24% | 14% |
-| Patient Satisfaction | 68th pct | 76th pct |
-
-## The Tools
-
-Workday, ADP Workforce Now, UiPath RPA, Epic EHR, ScanVan, BCMA, Power BI, Tableau, Oracle Financials, ServiceNow, Microsoft 365
-
-## Investment
-
-$420,000 fixed-fee | 20 weeks | 4-person team
-
----
-
-*"The $47M in savings exceeded our $40M target—but more importantly, patient satisfaction improved, nurse turnover dropped, and staff felt empowered instead of targeted."* — Patricia Hernandez, CFO, Meridian Healthcare
+**Investment:** $145K | **Timeline:** 12 weeks

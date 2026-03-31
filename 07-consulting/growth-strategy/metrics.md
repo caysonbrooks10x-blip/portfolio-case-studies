@@ -9,237 +9,268 @@
 ### Company Baseline
 | Metric | Value |
 |--------|-------|
-| Annual Revenue | $47M |
-| Revenue Growth (5-year) | 0% (flat) |
-| EBITDA | $5.2M |
-| EBITDA Margin | 11% |
+| Annual Revenue | $12M |
+| Revenue Growth (Prior 4 Years) | 0% (flat) |
+| EBITDA | $960K |
+| EBITDA Margin | 8% |
 | Gross Margin | 32% |
-| Employees | 285 |
-| Manufacturing Space | 120,000 sq ft |
-| CNC Machining Centers | 12 |
-| Location | Dayton, Ohio |
-| Years in Operation | 36 |
-| Certifications | ISO 9001:2015, AS9100D |
+| Net Profit | $380K |
+| Employees | 45 |
+| Machinists | 12 |
+| Location | Buffalo, NY |
+| Founded | 1962 |
+| Years in Operation | 61 |
+| Family Generations | 3 |
 
-### Revenue Breakdown
+### Customer Base Baseline
+| Metric | Value |
+|--------|-------|
+| Active Customers | 28 |
+| Average Customer Tenure | 22 years |
+| Top 3 Customer Concentration | 60% |
+| Fortune 500 Customers | 0 |
+| Average Deal Size | $85K |
+| Active Pipeline | $400K |
+| Inbound RFQs | 85/quarter |
+
+### Revenue by Segment Baseline
 | Segment | Revenue | % of Total |
 |---------|---------|------------|
-| Aerospace | $33.8M | 72% |
-| Defense | $13.2M | 28% |
-| Total | $47M | 100% |
+| Aerospace | $1.8M | 15% |
+| Defense | $3.6M | 30% |
+| Medical Device | $960K | 8% |
+| Industrial | $5.64M | 47% |
+| **Total** | **$12M** | **100%** |
 
-### Customer Concentration
+### Capacity Baseline
 | Metric | Value |
 |--------|-------|
-| Top 1 Customer | 34% of revenue |
-| Top 3 Customers | 58% of revenue |
-| Top 5 Customers | 72% of revenue |
-| Total Customers | 34 |
+| Overall Utilization | 65% |
+| Night Shift Utilization | 40% |
+| Equipment Capacity | $18-20M |
+| Changeover Time | 4.5 hours |
+| On-Time Delivery | 87% |
+| Scrap Rate | 3.2% |
 
-### Sales Baseline
+### Go-to-Market Baseline
 | Metric | Value |
 |--------|-------|
-| Win Rate (New Programs) | 18% |
-| Average Deal Size | $180K |
-| Gross Margin on New Business | 28% |
-| Competitive Deals Won | 4/year |
-| Price Discount Required | 15% |
-| Sales Pipeline Value | $3.2M |
-| Sales Cycle (Average) | 4.2 months |
-| Sales & Marketing Budget | $420K/year |
+| Sales Headcount | 0 |
+| CRM Contacts | 0 |
+| Website Traffic | 0 |
+| LinkedIn Followers | 0 |
+| Marketing Budget | $0 |
+| Trade Show Presence | Occasional |
+| Inbound vs. Outbound | 100% inbound |
 
-### Market Position
+### Talent Baseline
 | Metric | Value |
 |--------|-------|
-| TAM (Aerospace Precision Components) | $4.2B |
-| SAM (200-mile radius + certifications) | $680M |
-| SOM (Apex realistic share) | $45M |
-| Market Share (SAM) | 6.9% |
-| Revenue per Employee | $165K |
+| Average Machinist Age | 54 |
+| Turnover Rate | 18% |
+| Process Documentation | 0% |
+| Training Program | No |
+| Apprenticeship Program | No |
+| Knowledge Management | No |
+| Profit Sharing | No |
 
 ---
 
-## 2. Post-Engagement Financial Metrics
+## 2. Post-Engagement Revenue Metrics
 
-### Financial Transformation
-| Metric | Before | After (18 mo) | Change |
+### Revenue Transformation
+| Metric | Before | After (24 mo) | Change |
 |--------|--------|---------------|--------|
-| Revenue | $47M | $72M | +53% |
-| EBITDA | $5.2M | $11.5M | +121% |
-| EBITDA Margin | 11% | 16% | +5 pts |
-| Gross Margin | 32% | 38% | +6 pts |
-| Net Revenue per Employee | $165K | $240K | +45% |
-| Revenue Growth Rate | 0% | 53% (18 mo) | +53 pts |
+| Annual Revenue | $12M | $18.5M | +54% |
+| Revenue Growth Rate | 0% (4 yr) | 24% (2-yr CAGR) | +24 pts |
+| New Customer Revenue | 0% | 38% of revenue | Created |
+| Average Deal Size | $85K | $142K | +67% |
+| Pipeline Value | $400K | $2.8M | +600% |
+| EBITDA | $960K | $3.15M | +228% |
+| EBITDA Margin | 8% | 17% | +9 pts |
+| Gross Margin | 32% | 48% | +16 pts |
+| Net Profit | $380K | $2.1M | +453% |
 
-### Revenue by Segment (18-Month)
+### Revenue by Segment (24-Month)
 | Segment | Before | After | Growth |
 |---------|--------|-------|--------|
-| Aerospace (Core) | $33.8M | $52M | +54% |
-| Defense (Core) | $13.2M | $13M | -2% |
-| Semiconductor Equipment | $0 | $4.2M | New |
-| EV Components | $0 | $2.8M | New |
-| **Total** | **$47M** | **$72M** | **+53%** |
-
-### Customer Portfolio
-| Metric | Before | After | Change |
-|--------|--------|-------|--------|
-| Top 1 Customer | 34% | 24% | -10 pts |
-| Top 3 Customers | 58% | 44% | -14 pts |
-| Top 5 Customers | 72% | 58% | -14 pts |
-| New Customer Revenue | $2.1M | $18.5M | +781% |
+| Aerospace | $1.8M | $7.77M | +331% |
+| Defense | $3.6M | $4.25M | +18% |
+| Medical Device | $960K | $4.07M | +324% |
+| Industrial | $5.64M | $2.41M | -57% |
+| **Total** | **$12M** | **$18.5M** | **+54%** |
 
 ---
 
-## 3. Customer Acquisition Metrics
+## 3. Customer Base Metrics
 
-### Acquisition Funnel
-| Metric | Before | After (18 mo) | Change |
-|--------|--------|---------------|--------|
-| Target Accounts Identified | 0 | 45 | Created |
-| Accounts Contacted | 12 | 38 | +217% |
-| Qualified Opportunities | 8 | 62 | +675% |
-| Proposals Submitted | 6 | 48 | +700% |
-| Deals Won | 4 | 38 | +850% |
-| Win Rate | 18% | 34% | +16 pts |
-| Average Deal Size | $180K | $420K | +133% |
-| Sales Pipeline Value | $3.2M | $24M | +650% |
+### Customer Transformation
+| Metric | Before | After | Change |
+|--------|--------|-------|--------|
+| Active Customers | 28 | 51 | +82% |
+| New Customers Added | 0 | 23 | Created |
+| Average Customer Tenure | 22 years | 14 years | Diversified |
+| Top 3 Customer Concentration | 60% | 35% | -25 pts |
+| Fortune 500 Customers | 0 | 4 | Created |
+| Customer Retention | 88% | 95% | +7 pts |
 
-### Win Rate Analysis
-| Metric | Before | After | Benchmark |
-|--------|--------|-------|-----------|
-| Overall Win Rate | 18% | 34% | 35% |
-| Competitive Win Rate | 12% | 31% | 30% |
-| Price Win Rate | 8% | 18% | 20% |
-| Value Win Rate | 4% | 16% | 15% |
-| Referred Win Rate | 45% | 68% | 60% |
+### New Customer Acquisition (24-Month)
+| Metric | Value |
+|--------|-------|
+| New Customers | 23 |
+| New Fortune 500 Customers | 4 |
+| New Aerospace Customers | 8 |
+| New Medical Device Customers | 6 |
+| New Industrial Customers | 5 |
+| Average New Customer Revenue | $156K |
+| Pipeline Conversion Rate | 34% |
 
-### New Customer Growth
-| Metric | Before | After (18 mo) | Change |
-|--------|--------|---------------|--------|
-| New Customers Added | 2/year | 11/year | +450% |
-| New Customer Revenue | $2.1M | $18.5M | +781% |
-| Customer Acquisition Cost | $42K | $28K | -33% |
-| Time to First Purchase | N/A | 4.8 months | — |
+### Sales Funnel (After)
+| Stage | Volume |
+|-------|--------|
+| Target Accounts | 450 |
+| Initial Outreach | 280 |
+| Qualified Opportunities | 85 |
+| Proposals Sent | 52 |
+| Won Deals | 23 |
+| Win Rate | 44% |
 
 ---
 
-## 4. Value Proposition Metrics
+## 4. Profitability Metrics
 
-### Value Proposition Impact
+### Margin Improvement
 | Metric | Before | After | Change |
 |--------|--------|-------|--------|
-| Average Deal Size | $180K | $420K | +133% |
-| Gross Margin on New Business | 28% | 38% | +10 pts |
-| Price Discount Required | 15% | 6% | -9 pts |
-| Deals Won on Value | 22% | 47% | +25 pts |
-| Customer NPS | 42 | 64 | +22 pts |
-| Repeat Order Rate | 62% | 84% | +22 pts |
+| EBITDA Margin | 8% | 17% | +9 pts |
+| Gross Margin | 32% | 48% | +16 pts |
+| Net Margin | 3.2% | 11.4% | +8.2 pts |
+| EBITDA | $960K | $3.15M | +228% |
+| Gross Profit | $3.84M | $8.88M | +131% |
+| Net Profit | $380K | $2.1M | +453% |
 
-### Sales Enablement
+### Segment Profitability (After)
+| Segment | Gross Margin | EBITDA Margin |
+|---------|-------------|---------------|
+| Aerospace | 54% | 22% |
+| Defense | 45% | 18% |
+| Medical Device | 52% | 20% |
+| Industrial | 38% | 12% |
+
+---
+
+## 5. Capacity Utilization Metrics
+
+### Utilization Transformation
+| Metric | Before | After | Change |
+|--------|--------|-------|--------|
+| Overall Utilization | 65% | 89% | +24 pts |
+| Night Shift Utilization | 40% | 72% | +32 pts |
+| Day Shift Utilization | 78% | 92% | +14 pts |
+| Equipment Capacity | $18-20M | $18-20M | — |
+| Changeover Time | 4.5 hours | 2.1 hours | -53% |
+| On-Time Delivery | 87% | 96% | +9 pts |
+| Scrap Rate | 3.2% | 1.8% | -44% |
+
+### Production Efficiency (After)
+| Metric | Value |
+|--------|-------|
+| Jobs Completed/Month | 180 |
+| Average Lead Time | 12 days |
+| Rush Order % | 8% |
+| First-Pass Yield | 94% |
+| Machine Uptime | 91% |
+
+---
+
+## 6. Go-to-Market Metrics
+
+### Sales Capability
+| Metric | Before | After | Change |
+|--------|--------|-------|--------|
+| Sales Headcount | 0 | 2 | Created |
+| CRM Contacts | 0 | 1,400+ | Created |
+| Active Pipeline | $400K | $2.8M | +600% |
+| Average Sales Cycle | N/A (reactive) | 45 days | Established |
+| Win Rate | N/A | 44% | Established |
+
+### Lead Generation (After)
+| Metric | 6 mo | 12 mo | 24 mo |
+|--------|------|-------|-------|
+| Inbound RFQs | 95/qtr | 140/qtr | 180/qtr |
+| Website Visitors | 800/mo | 1,600/mo | 2,400/mo |
+| LinkedIn Followers | 120 | 680 | 1,800 |
+| Inbound Leads | 25/mo | 55/mo | 85/mo |
+| Trade Show Leads | 80/show | 120/show | 180/show |
+
+### Digital Presence (After)
+| Metric | Value |
+|--------|-------|
+| Website Traffic | 2,400/mo |
+| Organic Search Traffic | 1,400/mo |
+| LinkedIn Impressions | 45K/mo |
+| Content Assets | 24 |
+| SEO Keywords (Top 10) | 38 |
+| Case Studies Published | 8 |
+
+---
+
+## 7. Talent Development Metrics
+
+### Team Transformation
+| Metric | Before | After | Change |
+|--------|--------|-------|--------|
+| Total Employees | 45 | 52 | +16% |
+| Machinists | 12 | 16 | +33% |
+| Machinist Avg Age | 54 | 48 | -6 years |
+| Machinist Turnover | 18% | 8% | -10 pts |
+| New Hires (24 mo) | 4 | 14 | +250% |
+| Apprentices | 0 | 8 | Created |
+
+### Knowledge Management (After)
+| Metric | Value |
+|--------|-------|
+| Processes Documented | 40 |
+| SOP Completion | 65% |
+| Training Hours/Employee | 40 hrs/yr |
+| Knowledge Base Articles | 180 |
+| Mentor Pairings | 6 |
+| Certifications Obtained | 4 |
+
+### Employee Engagement (After)
+| Metric | Value |
+|--------|-------|
+| Employee Satisfaction | 78% |
+| eNPS Score | +32 |
+| Profit Sharing Participation | 85% |
+| Internal Promotions | 8 |
+| Career Path Plans | 18 |
+| Training Investment | $85K/yr |
+
+---
+
+## 8. Exit Readiness Metrics
+
+### Exit Readiness Transformation
 | Metric | Before | After |
 |--------|--------|-------|
-| Case Studies | 2 | 18 |
-| ROI Calculators | 0 | 3 |
-| Proposal Templates | 3 | 12 |
-| Sales Playbooks | 0 | 4 |
-| Training Hours per Rep | 8 | 40 |
+| Business Value | $12-15M | $24M offer |
+| EBITDA Multiple | ~4x | ~7x |
+| Revenue Multiple | ~1x | ~1.3x |
+| Strategic Acquirers | 0 | 4 |
+| PE Interest | None | 3 firms |
+| Succession Clarity | Unclear | Clear |
+| Management Team | Richard-dependent | Michael + team |
 
----
-
-## 5. Market Expansion Metrics
-
-### Semiconductor Equipment Market Entry
-| Metric | Target | Actual (18 mo) |
-|--------|--------|---------------|
-| Market Size | $800M | — |
-| Market Growth Rate | 24%/year | 24% |
-| Revenue Target | $2M (18 mo) | $4.2M |
-| Customers Target | 3 | 7 |
-| Win Rate Target | 30% | 34% |
-| Gross Margin Target | 35% | 38% |
-
-### EV Components Market Entry
-| Metric | Target | Actual (18 mo) |
-|--------|--------|---------------|
-| Market Size | $420M | — |
-| Market Growth Rate | 22%/year | 22% |
-| Revenue Target | $1.5M (18 mo) | $2.8M |
-| Customers Target | 2 | 4 |
-| Win Rate Target | 28% | 32% |
-| Gross Margin Target | 34% | 37% |
-
----
-
-## 6. Operational Metrics
-
-### Operational Performance
-| Metric | Before | After | Change |
-|--------|--------|-------|--------|
-| On-Time Delivery | 94% | 98.5% | +4.5 pts |
-| First-Pass Yield | 96.2% | 98.8% | +2.6 pts |
-| Lead Time (Standard) | 12 weeks | 6 weeks | -50% |
-| ERP System | Manual | NetSuite | Implemented |
-| Sales Process Defined | No | Yes | Created |
-| CRM System | None | HubSpot | Implemented |
-
-### Capacity Utilization
-| Metric | Before | After | Change |
-|--------|--------|-------|--------|
-| CNC Utilization | 72% | 84% | +12 pts |
-| Floor Space Utilization | 68% | 79% | +11 pts |
-| Labor Efficiency | 91% | 104% | +13 pts |
-| Overtime Hours | 18% | 8% | -10 pts |
-
----
-
-## 7. Sales & Marketing Metrics
-
-### Marketing Performance
-| Metric | Before | After (18 mo) |
-|--------|--------|---------------|
-| Website Visitors | 1,200/mo | 4,800/mo |
-| Inbound Leads | 8/mo | 62/mo |
-| MQL-to-SQL Rate | 15% | 38% |
-| Content Assets | 5 | 45 |
-| Trade Shows | 1/year | 4/year |
-
-### CRM & Pipeline
-| Metric | Before | After | Change |
-|--------|--------|-------|--------|
-| CRM Adoption | N/A | 94% | Implemented |
-| Pipeline Coverage Ratio | 1.2x | 3.8x | +2.6x |
-| Avg Days in Pipeline | 85 days | 62 days | -27% |
-| Forecast Accuracy | 45% | 82% | +37 pts |
-
-### Sales Team
-| Metric | Before | After | Change |
-|--------|--------|-------|--------|
-| Sales Headcount | 3 | 6 | +100% |
-| Sales per Rep | $2.1M | $4.2M | +100% |
-| Sales Cycle | 4.2 months | 3.8 months | -10% |
-| Quota Attainment | 62% | 91% | +29 pts |
-
----
-
-## 8. Competitive Metrics
-
-### Competitive Position
-| Metric | Before | After | Change |
-|--------|--------|-------|--------|
-| Win Rate vs. Competitor A | 15% | 32% | +17 pts |
-| Win Rate vs. Competitor B | 22% | 38% | +16 pts |
-| Win Rate vs. Competitor C | 18% | 35% | +17 pts |
-| Price Premium vs. Market | -8% | +4% | +12 pts |
-| Relative Market Share | 6.9% | 9.4% | +2.5 pts |
-
-### Competitive Win Analysis
-| Win Reason | Before | After |
-|------------|--------|-------|
-| Price | 22% | 12% |
-| Quality | 28% | 24% |
-| Lead Time | 18% | 22% |
-| Relationship | 25% | 18% |
-| Total Value Proposition | 7% | 24% |
+### Acquisition Interest (After)
+| Metric | Value |
+|--------|-------|
+| Strategic Acquisition Offers | 1 |
+| Strategic Offer Value | $24M |
+| PE Firms Inquired | 3 |
+| Estimated PE Value | $21-27M |
+| LBO Feasibility | Yes |
+| Family Succession Option | Viable |
 
 ---
 
@@ -248,96 +279,74 @@
 ### Engagement Investment
 | Phase | Duration | Investment |
 |-------|----------|------------|
-| Phase 1: Market Assessment | 5 weeks | $42,000 |
-| Phase 2: Strategy Development | 4 weeks | $38,000 |
-| Phase 3: Plan Development | 3 weeks | $28,000 |
-| Phase 4: Implementation Support | 2 weeks | $17,000 |
-| **Total** | **14 weeks** | **$125,000** |
+| Phase 1: Assessment | 4 weeks | $25,000 |
+| Phase 2: Strategy Development | 6 weeks | $55,000 |
+| Phase 3: Implementation | 6 weeks | $45,000 |
+| **Total** | **16 weeks** | **$125,000** |
 
 ### Team Composition
 | Role | Weeks | Count |
 |------|-------|-------|
-| Lead Strategy Consultant | 14 | 1 |
-| Market Research Analyst | 8 | 1 |
+| Lead Business Strategist | 16 | 1 |
+| Digital Marketing Consultant | 8 | 1 (part-time) |
+| Operations Consultant | 6 | 1 (part-time) |
 
 ### Return on Investment
 | Metric | Value |
 |--------|-------|
 | Total Investment | $125,000 |
-| Revenue Increase (18 months) | $25,000,000 |
-| EBITDA Increase (18 months) | $6,300,000 |
-| Gross Profit Increase (18 months) | $11,000,000 |
-| ROI | 20,000%+ |
-| Payback Period | 3 months |
+| Revenue Increase (24 months) | $6,500,000 |
+| EBITDA Increase (24 months) | $2,190,000 |
+| Gross Profit Increase (24 months) | $5,040,000 |
+| ROI | 5,200% |
+| Payback Period | 4 months |
 
 ---
 
-## 10. Private Equity Recapitalization
+## 10. Industry Benchmarks
 
-### Transaction Details
-| Metric | Value |
-|--------|-------|
-| Transaction Type | Recapitalization |
-| Equity Stake Sold | Minority (35%) |
-| Pre-Money Valuation | $180M (3.9x revenue) |
-| Post-Money Valuation | $302M (4.2x revenue) |
-| Investment Received | $63M |
-| Use of Proceeds | Growth capital, liquidity |
-
-### Valuation Metrics
-| Metric | Pre-Engagement | Post-Engagement | Change |
-|--------|---------------|-----------------|--------|
-| Revenue | $47M | $72M | +53% |
-| EBITDA | $5.2M | $11.5M | +121% |
-| EBITDA Margin | 11% | 16% | +5 pts |
-| Revenue Multiple | 3.2x | 4.2x | +1.0x |
-| Valuation | $150M | $302M | +$152M |
-
----
-
-## 11. Industry Benchmarks
-
-### Precision Manufacturing Benchmarks
-| Metric | Industry Median | Apex Before | Apex After |
-|--------|---------------|-------------|------------|
-| Revenue Growth | 8%/year | 0% (5 yr) | 26%/year |
-| EBITDA Margin | 13% | 11% | 16% |
-| Win Rate | 30% | 18% | 34% |
-| Customer Concentration (Top 3) | 45% | 58% | 44% |
-| Revenue per Employee | $180K | $165K | $240K |
+### Manufacturing Benchmarks
+| Metric | Industry Median | Apex Before | Apex After | Percentile |
+|--------|---------------|-------------|------------|------------|
+| Revenue Growth | 5%/year | 0% (4 yr) | 24% (2 yr) | 94th |
+| EBITDA Margin | 12% | 8% | 17% | 88th |
+| Gross Margin | 35% | 32% | 48% | 91st |
+| Utilization Rate | 75% | 65% | 89% | 86th |
+| Customer Concentration | 25% | 60% | 35% | 65th |
+| Customer Acquisition Cost | $15K | N/A | $8.5K | 42nd |
 
 ### Performance vs. Benchmarks
-| Metric | Benchmark | Apex After | Percentile |
-|--------|-----------|------------|------------|
-| Revenue Growth | 8%/year | 26%/year | 92nd |
-| EBITDA Margin | 13% | 16% | 82nd |
-| Win Rate | 30% | 34% | 78th |
-| Customer Concentration | 45% | 44% | 62nd |
-| Revenue per Employee | $180K | $240K | 88th |
+| Metric | Benchmark | Apex After | vs. Benchmark |
+|--------|-----------|------------|---------------|
+| Revenue Growth | 5%/year | 24%/year | 380% above |
+| EBITDA Margin | 12% | 17% | 42% above |
+| Gross Margin | 35% | 48% | 37% above |
+| Utilization Rate | 75% | 89% | 19% above |
+| Win Rate | 30% | 44% | 47% above |
 
 ---
 
-## 12. Post-Engagement Traction (18-Month)
+## 11. Post-Engagement Traction (24-Month)
 
-### Financial Traction
-| Metric | Start | 6 mo | 12 mo | 18 mo |
-|--------|-------|------|-------|-------|
-| Revenue | $47M | $52M | $62M | $72M |
-| EBITDA | $5.2M | $6.5M | $9.2M | $11.5M |
-| Gross Margin | 32% | 34% | 36% | 38% |
-| Win Rate | 18% | 22% | 28% | 34% |
+### Revenue Traction
+| Metric | Start | 6 mo | 12 mo | 18 mo | 24 mo |
+|--------|-------|------|-------|-------|-------|
+| Revenue | $12M | $12.8M | $14.5M | $16.2M | $18.5M |
+| New Customers | 28 | 31 | 38 | 45 | 51 |
+| Pipeline | $400K | $800K | $1.4M | $2.1M | $2.8M |
+| Utilization | 65% | 68% | 75% | 82% | 89% |
 
 ### Customer Acquisition Traction
-| Metric | 6 mo | 12 mo | 18 mo |
-|--------|------|-------|-------|
-| Target Accounts | 15 | 32 | 45 |
-| New Customers | 3 | 7 | 11 |
-| New Customer Revenue | $2.1M | $8.4M | $18.5M |
-| Pipeline Value | $6M | $14M | $24M |
+| Metric | 6 mo | 12 mo | 18 mo | 24 mo |
+|--------|------|-------|-------|-------|
+| New Customers | 3 | 10 | 18 | 23 |
+| Fortune 500 | 0 | 1 | 2 | 4 |
+| Aerospace Customers | 1 | 3 | 6 | 8 |
+| Medical Device | 1 | 3 | 5 | 6 |
 
-### Market Expansion Traction
-| Metric | 6 mo | 12 mo | 18 mo |
-|--------|------|-------|-------|
-| Semiconductor Revenue | $0 | $1.8M | $4.2M |
-| EV Components Revenue | $0 | $1.1M | $2.8M |
-| New Markets Revenue | $0 | $2.9M | $7M |
+### Profitability Traction
+| Metric | 6 mo | 12 mo | 18 mo | 24 mo |
+|--------|------|-------|-------|-------|
+| EBITDA Margin | 9% | 11% | 14% | 17% |
+| Gross Margin | 34% | 38% | 43% | 48% |
+| EBITDA | $1.15M | $1.6M | $2.27M | $3.15M |

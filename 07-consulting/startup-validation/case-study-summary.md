@@ -1,36 +1,18 @@
-# CareSync Health: Startup Validation + Product Strategy
+# Vela Health — Startup Validation + Product Strategy
 
-## The Situation
+## Summary
 
-A health-tech startup with $2.8M seed funding, impressive AI technology, 3 signed LOIs, but no pilots started. The founding team couldn't understand why deals weren't converting. They had 18 months of runway left.
+Vela Health was a digital health startup with impressive AI technology (87% burnout prediction accuracy) but no product-market fit after 18 months and $1.4M spent—only 12 customers and $28K ARR. After a 12-week startup validation and product strategy engagement, they pivoted from direct-to-employer to platform distribution, repositioned from "burnout prediction" to "workforce intelligence," and dropped burn rate 44%. Within 6 months: 85 customers, $420K ARR. Within 14 months: $6.2M Series A at $42M valuation.
 
-## The Approach
+**The Problem:** Wrong target market (direct employers), stigmatizing positioning ("burnout"), complex product, misaligned pricing ($15/employee).
 
-12-week validation and product strategy engagement:
+**The Solution:** Market pivot to HR tech platforms, product repositioning ("workforce intelligence"), API-first product, platform licensing model.
 
-1. **Customer Discovery & Validation** — 35+ interviews, decision mapping, value proposition testing, pricing validation
-2. **Product Strategy Redesign** — ICP refinement, feature prioritization, go-to-market redesign
-3. **Pivot Execution** — Product changes for health plans, go-to-market launch, Series A materials
+**Results:**
+- ARR: $28K → $420K (6 mo) → $1.4M (Series A)
+- Customers: 12 → 85
+- Platform Partners: 0 → 4 (6 mo) → 12 (Series A)
+- Burn Rate: $80K/mo → $45K/mo (-44%)
+- Series A: $6.2M at $42M valuation
 
-## The Results
-
-| Metric | Before | After |
-|--------|--------|-------|
-| Target Customer | Health Systems | Health Plans |
-| Sales Cycle | 18-24 months | 6-12 months |
-| Product Focus | Technology-led | Outcome-led |
-| Health Plan Pilots | 0 | 8 (within 3 months) |
-| ARR | $0 | $3.2M (within 12 months) |
-| Series A Raised | — | $12M |
-
-## The Tools
-
-Productboard, Figma, Jira, Snowflake, Tableau, HubSpot, Outreach, Notion, Slack, Zoom, DocuSign
-
-## Investment
-
-$65,000 fixed-fee | 12 weeks | 2-person team
-
----
-
-*"Cayson saved us from ourselves. Without his guidance, we would have burned through our runway chasing the wrong market. Instead, we closed a $12M Series A."* — Dr. Maya Richardson, CEO, CareSync Health
+**Investment:** $95K fixed-fee | **Timeline:** 12 weeks

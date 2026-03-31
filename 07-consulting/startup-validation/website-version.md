@@ -1,49 +1,38 @@
-# Startup Validation + Product Strategy Case Study: CareSync Health
+# Vela Health: Startup Validation + Product Strategy
 
 ## The Challenge
 
-A health-tech startup with $2.8M seed funding and an impressive AI platform had 3 signed LOIs with health systems—but no pilots had started. The founding team was burning runway without understanding why deals weren't converting. They had 18 months left.
+Vela Health had impressive AI technology (87% burnout prediction accuracy) but no product-market fit after 18 months and $1.4M spent. Only 12 customers, $28K ARR, burning $80K/month. Wrong target market (direct employers), stigmatizing positioning ("burnout"), complex product, misaligned pricing ($15/employee). Running out of runway.
 
 ## The Approach
 
-Over 12 weeks, we conducted rigorous validation and product strategy work:
+12-week startup validation and product strategy:
 
-**Phase 1: Customer Discovery**
-35+ interviews, decision mapping, value proposition testing. We discovered the real problem: health systems weren't the actual buyer—health plans were. The value proposition was wrong, the pricing was misaligned, and the sales cycle was too long for their runway.
+**Phase 1: Validation**
+Customer discovery interviews, competitive analysis, product usage analysis. Identified root causes: wrong market, wrong positioning, wrong pricing, wrong GTM.
 
-**Phase 2: Product Strategy Redesign**
-ICP refinement for health plans, feature prioritization, outcome dashboard redesign, go-to-market redesign.
+**Phase 2: Pivot Strategy**
+Market pivot (direct-to-employer → HR tech platforms), product repositioning ("burnout prediction" → "workforce intelligence"), API-first product, platform licensing model.
 
-**Phase 3: Pivot Execution**
-Product changes for health plan buyers, sales playbook, Series A materials, investor meetings.
+**Phase 3: Execution Support**
+Product rebuild for API-first architecture, integration connectors, platform partnership outreach, developer portal, Series A prep.
 
 ## The Results
 
-| Metric | Before | After |
-|--------|--------|-------|
-| Target Customer | Health Systems | Health Plans |
-| Sales Cycle | 18-24 months | 6-12 months |
-| Product Focus | Technology-led | Outcome-led |
-| Health Plan Pilots | 0 | 8 (within 3 months) |
-| ARR | $0 | $3.2M (within 12 months) |
-| Series A Raised | — | $12M |
-
-**Plus:** 18 health plan partnerships, 380,000 members covered
-
-## Tools & Methods
-
-This engagement leveraged:
-- Productboard, Figma, Jira (product management)
-- Snowflake, Tableau, Looker (data and analytics)
-- HubSpot, Outreach (sales and CRM)
-- Notion, Slack, Zoom (collaboration)
+| Metric | Before | After (6 mo) | After (14 mo) |
+|--------|--------|---------------|---------------|
+| ARR | $28K | $420K | $1.4M |
+| Customers | 12 | 85 | — |
+| Platform Partners | 0 | 4 | 12 |
+| Burn Rate | $80K/mo | $45K/mo | — |
+| Series A | — | — | $6.2M at $42M |
 
 ## Testimonial
 
-"Cayson saved us from ourselves. We were building what we thought was an incredible product without validating that anyone would actually pay for it. Without his guidance, we would have burned through our runway chasing the wrong market. Instead, we closed a $12M Series A."
+"Cayson helped us see our product was good, but our market strategy was broken. The pivot to platform distribution wasn't intuitive—but it was right. Six months after pivoting: 85 customers, $420K ARR. Fourteen months later: $6.2M Series A. Cayson didn't just help us pivot—he helped us survive."
 
-— Dr. Maya Richardson, CEO, CareSync Health
+— Marcus Webb, CPO and Co-Founder, Vela Health
 
-## Ready to Validate Your Startup's Business Model?
+## Ready to Validate Your Startup?
 
-Schedule a consultation to discuss how we can help you find product-market fit before you run out of runway.
+Schedule a consultation to discuss finding product-market fit before you run out of runway.

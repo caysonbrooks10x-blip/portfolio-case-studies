@@ -1,36 +1,18 @@
-# Apex Manufacturing: Business Growth Strategy
+# Apex Manufacturing — Business Growth Strategy
 
-## The Situation
+## Summary
 
-A $47M precision components manufacturer had plateaued at $45-47M revenue for 5 years. Customer concentration was high (top 3 = 58% of revenue), win rates were low (18% vs. 35% benchmark), and there was no strategic planning process. Margins were compressing due to price competition.
+Apex Manufacturing was a third-generation family-owned precision machining company with $12M in revenue stuck flat for 4 years, aging customer base (22-year average tenure), 60% revenue concentration in top 3 customers, and no sales/marketing function. After a 16-week growth strategy engagement, revenue grew to $18.5M (+54%), they added 23 new customers including 4 Fortune 500 companies, EBITDA margin improved from 8% to 17%, and they received a $24M strategic acquisition offer.
 
-## The Approach
+**The Problem:** No go-to-market function, customer concentration risk, digital invisibility, capacity underutilization (65%).
 
-14-week business growth strategy project:
+**The Solution:** Market repositioning (aerospace/medical), customer acquisition engine (sales + CRM + LinkedIn), capacity optimization, digital presence build-out, talent development.
 
-1. **Market Assessment** — Market sizing, competitive analysis, customer research, opportunity identification
-2. **Growth Strategy Development** — 4 strategic pillars: customer diversification, value proposition, market expansion, operational excellence
-3. **Strategic Plan Development** — 3-year financial model, initiative prioritization, resource planning, governance
-4. **Implementation Support** — HubSpot CRM, strategic hires, launch initiatives, governance established
+**Results (24 months):**
+- Revenue: $12M → $18.5M (+54%)
+- New Customers: 28 → 51 (+82%)
+- EBITDA Margin: 8% → 17% (+9 pts)
+- Fortune 500 Customers: 0 → 4
+- Acquisition Offer: $24M
 
-## The Results
-
-| Metric | Before | After (18 mo) |
-|--------|--------|----------------|
-| Revenue | $47M | $72M |
-| EBITDA | $5.2M (11%) | $11.5M (16%) |
-| Win Rate | 18% | 34% |
-| New Customer Revenue | $2.1M | $18.5M |
-| Customer Concentration | 58% | 44% |
-
-## The Tools
-
-HubSpot CRM, LinkedIn Sales Navigator, ZoomInfo, NetSuite ERP, Tableau, Smartsheet, Microsoft 365, Statista, IBISWorld
-
-## Investment
-
-$125,000 fixed-fee | 14 weeks | 2-person team
-
----
-
-*"Eighteen months later, we've grown from $47M to $72M, won customers we'd never competed for before, and positioned the company for a successful recapitalization."* — Richard Thornton, CEO, Apex Manufacturing
+**Investment:** $125K fixed-fee | **Timeline:** 16 weeks

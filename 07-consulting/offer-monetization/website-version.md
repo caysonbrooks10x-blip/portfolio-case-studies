@@ -1,49 +1,38 @@
-# Offer Design + Monetization Strategy Case Study: Elevate Digital
+# Nexus Digital: Offer Design + Monetization
 
 ## The Challenge
 
-A $4.2M marketing agency was stuck. They had 94% client retention and great work—but they were selling hours, not outcomes. Average project size was $85K, margins compressing to 18%, founder working 55+ hours per week, and a 31% proposal win rate. They were busy, not profitable.
+Nexus Digital had a B2B SaaS product users loved (NPS >50) but broken unit economics: CAC $1,200 > LTV $800, 8% monthly churn, and MRR stuck at $540K for 6 months. They had product-market fit—but weren't monetizing it.
 
 ## The Approach
 
-Over 16 weeks, we redesigned their offer architecture and monetization strategy:
+10-week offer redesign and monetization strategy:
 
-**Phase 1: Offer Architecture Audit**
-Financial analysis, value delivery assessment, competitive analysis. We found the core problem: clients received $12 in business value for every $1 they paid Elevate. They were selling hours while leaving millions on the table.
+**Phase 1: Monetization Audit**
+Revenue analysis, customer segmentation, churn root cause analysis, CAC analysis. Found misaligned pricing model (per-user vs. value), no tiered offerings, no expansion revenue engine.
 
-**Phase 2: Offer Architecture Redesign**
-Four-tier outcome-based suite (Activate, Accelerate, Amplify, Architect), proprietary value calculator, value-based pricing methodology, new package architecture.
+**Phase 2: Offer Redesign**
+Value-based pricing (per-workspace), 3-tier offering (Starter $99, Professional $349, Enterprise custom), expansion revenue engine, free-to-paid funnel optimization, ROI calculator.
 
-**Phase 3 & 4: Implementation & Optimization**
-New offers launched, custom pricing retired, sales playbook redesigned, value-based pricing implemented, retainer offerings created.
+**Phase 3: Implementation**
+New pricing in Stripe, website updated, free trial flow optimized, sales team trained, expansion playbooks operational.
 
 ## The Results
 
-| Metric | Before | After |
-|--------|--------|-------|
-| Annual Revenue | $4.2M | $7.8M |
-| Average Project Size | $85K | $340K |
-| Net Profit Margin | 18% | 34% |
-| Proposal Win Rate | 31% | 58% |
-| Monthly Recurring Revenue | $0 | $1.2M |
-| Founder Hours/Week | 55 | 30 |
-
-**Plus:** 35% of revenue now recurring retainers
-
-## Tools & Methods
-
-This engagement leveraged:
-- HubSpot, Miro, Airtable (strategy and operations)
-- Notion, Slack (internal systems)
-- Tableau, QuickBooks (finance and analytics)
-- Zoom, Figma (client delivery)
+| Metric | Before | After (12 mo) |
+|--------|--------|---------------|
+| MRR | $540K | $1.8M |
+| CAC | $1,200 | $340 |
+| Monthly Churn | 8% | 2.5% |
+| Net Revenue Retention | 85% | 128% |
+| LTV:CAC Ratio | 0.67x | 12.4x |
 
 ## Testimonial
 
-"The offer redesign was the most impactful thing we've ever done. Average project size went from $85K to $340K. Margins doubled. Cayson helped us see that we were leaving millions on the table—and showed us exactly how to capture it."
+"We thought we had a product-market fit problem—but we had a monetization problem. Cayson showed us our per-user pricing was misaligned with value delivery. We fixed it: MRR from $540K to $1.8M, CAC dropped 72%, churn from 8% to 2.5%. We went from burning cash to unit economics that work."
 
-— Jennifer Park, Founder and CEO, Elevate Digital
+— Marcus Chen, CEO, Nexus Digital
 
-## Ready to Escape the Time-for-Dollars Trap?
+## Ready to Fix Your Monetization?
 
-Schedule a consultation to discuss how we can help you redesign your offer and monetization strategy.
+Schedule a consultation to discuss redesigning your offer and unit economics.

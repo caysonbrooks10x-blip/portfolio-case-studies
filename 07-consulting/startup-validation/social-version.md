@@ -1,33 +1,36 @@
-# Startup Validation Results: From 0 to $12M Series A
+# Vela Health: Startup Validation (Social Version)
 
-🏥 CareSync Health had $2.8M seed, impressive AI tech, 3 LOIs—but no pilots. 18 months runway. Burning cash with no traction.
+🏥 Vela Health had impressive AI tech (87% burnout prediction accuracy) but was dying: 18 months, $1.4M spent, only 12 customers, $28K ARR, burning $80K/month.
+
+Sound familiar? Impressive technology + no traction = market strategy problem, not product problem.
 
 Here's what we found:
 
-→ Wrong buyer: targeting health systems instead of health plans
-→ Wrong value prop: "reduce readmissions" vs. "reduce costs"
-→ Wrong pricing: per-bed vs. outcome-based
-→ Wrong sales cycle: 18-24 months vs. their 18-month runway
+→ Wrong target market (direct-to-employer doesn't work for burnout)
+→ Stigmatizing positioning ("burnout" = accusation, not solution)
+→ Product too complex (API integration, 4-6 week data collection)
+→ Pricing misaligned ($15/employee for mid-market buyers)
+→ No GTM motion (founders doing all sales)
 
-What we fixed:
+What we built:
 
-→ Validated buyer: health plans (not health systems)
-→ Reframed value prop: total cost of care reduction
-→ New pricing: PMPM + outcomes bonus
-→ Aligned sales cycle to runway reality
+→ Market pivot to HR tech platforms (embeddable API)
+→ Reposition from "burnout prediction" to "workforce intelligence"
+→ API-first, white-label product
+→ Platform licensing model ($50K-200K/year)
+→ Developer relations program
 
 📊 Results:
-• Target: Health Systems → Health Plans
-• Sales Cycle: 18-24mo → 6-12mo
-• Pilots: 0 → 8 (within 3 months)
-• ARR: $0 → $3.2M (within 12 months)
-• Series A: $0 → $12M raised
-• Valuation: ~$10M → $48M
+• ARR: $28K → $420K (6 mo) → $1.4M (Series A, 14 mo)
+• Customers: 12 → 85
+• Platform Partners: 0 → 4 → 12
+• Burn Rate: $80K → $45K/month (-44%)
+• Series A: $6.2M at $42M valuation
 
-💬 "Cayson saved us from ourselves. Without his guidance, we would have burned through our runway chasing the wrong market."
+💬 "Cayson helped us see our product was good, but our market strategy was broken. He didn't just help us pivot—he helped us survive."
 
-— Dr. Maya Richardson, CEO, CareSync Health
+— Marcus Webb, CPO and Co-Founder, Vela Health
 
-12-week engagement. $65K investment. $12M Series A closed.
+12-week engagement. $95K investment. $6.2M Series A enabled.
 
-#healthtech #startup #productmarketfit #validation #healthcare #venturecapital
+#startup #pivot #productmarketfit #healthtech #hrtech #burnout

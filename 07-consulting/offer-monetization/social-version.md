@@ -1,33 +1,36 @@
-# Agency Offer Redesign Results: 86% Revenue Growth
+# Nexus Digital: Offer Design + Monetization (Social Version)
 
-🚀 Elevate Digital was a $4.2M marketing agency—great work, 94% retention, but barely profitable. Founder working 55 hrs/week. Revenue stuck.
+💰 Nexus Digital had product-market fit (NPS >50) but broken unit economics: CAC $1,200 > LTV $800, 8% monthly churn, MRR stuck at $540K for 6 months.
+
+Sound familiar? Many SaaS companies confuse product-market fit with monetization strategy.
 
 Here's what we found:
 
-→ Selling hours, not outcomes
-→ $12 in client value for every $1 they charged
-→ 100% custom projects (no leverage, no scale)
-→ 31% win rate (wasting half their BD effort)
+→ Per-user pricing misaligned with team-based value delivery
+→ No tiered offerings (missing enterprise segment entirely)
+→ Zero expansion revenue (no upsells, cross-sells, or add-ons)
+→ Free trial conversion only 12% (industry: 15-25%)
+→ Value communication gap (customers couldn't see ROI)
 
-What we fixed:
+What we built:
 
-→ Outcome-based offer tiers (Activate/Accelerate/Amplify/Architect)
-→ Proprietary value calculator + value-based pricing
-→ Retainer revenue model (35% of revenue now recurring)
-→ Standardized offers that clients can self-select
+→ Value-based pricing (per-workspace, not per-user)
+→ 3-tier model: Starter $99, Professional $349, Enterprise custom
+→ Expansion revenue engine (add-ons, upgrades, health scoring)
+→ Self-service growth motion (free trial → paid)
+→ ROI calculator for value communication
 
-📊 Results:
-• Revenue: $4.2M → $7.8M (+86%)
-• Average Project: $85K → $340K (+300%)
-• Margins: 18% → 34% (+89%)
-• Win Rate: 31% → 58% (+87%)
-• Recurring Revenue: $0 → $1.2M/mo
-• Founder Hours: 55 → 30/week
+📊 Results (12 months):
+• MRR: $540K → $1.8M (+233%)
+• CAC: $1,200 → $340 (-72%)
+• Monthly Churn: 8% → 2.5% (-69%)
+• Net Revenue Retention: 85% → 128%
+• LTV:CAC: 0.67x → 12.4x
 
-💬 "Average project size went from $85K to $340K. Margins doubled. That's what happens when you stop selling hours and start selling outcomes."
+💬 "We thought we had a product-market fit problem. We had a monetization problem. Cayson showed us the difference—and how to fix it."
 
-— Jennifer Park, Founder and CEO, Elevate Digital
+— Marcus Chen, CEO, Nexus Digital
 
-16-week engagement. $85K investment. 86% revenue growth.
+10-week engagement. $75K investment. Profitable unit economics unlocked.
 
-#agencylife #marketingagency #offerdesign #monetization #consulting #growth
+#saas #monetization #pricing #growth #unitconomics

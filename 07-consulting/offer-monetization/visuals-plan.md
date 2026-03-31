@@ -1,190 +1,99 @@
-# Offer Design + Monetization Strategy: Visual Assets Plan
+# Offer Design + Monetization: Visual Assets Plan
 
 ## Overview
 
-This document outlines the visual assets required to bring the Elevate Digital offer design and monetization strategy case study to life. The visual identity should convey marketing agency energy, transformation magnitude, and premium positioning.
+This document outlines the visual assets required to bring the Nexus Digital offer design and monetization case study to life. The visual identity should convey SaaS monetization transformation, unit economics improvement, and value-based pricing strategy.
 
 ---
 
 ## Primary Visual Assets
 
-### 1. Monetization Transformation Dashboard
+### 1. Unit Economics Transformation Dashboard
 **Purpose:** Hero visual for website, proposals, social media
 **Format:** Data visualization / Infographic
 **Dimensions:** 1200x628px (social), 1920x1080px (presentation)
 
 **Content:**
 - 6 key metrics with before/after comparison
-- Revenue growth (86% increase)
-- Project size transformation
-- Margin improvement
-- Win rate improvement
-- Founder time freedom
-
-**Design Direction:**
-- Modern marketing agency aesthetic
-- Purple/violet primary palette with pink accents
-- Clean data visualization with bold numbers
-- Energetic, creative-professional design
+- MRR transformation
+- CAC reduction
+- Churn improvement
+- LTV:CAC ratio improvement
 
 **Layout:**
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│          ELEVATE DIGITAL: OFFER TRANSFORMATION              │
+│       NEXUS DIGITAL: MONETIZATION TRANSFORMATION            │
 │                                                             │
 │  ┌───────────────┐  ┌───────────────┐  ┌───────────────┐  │
-│  │   REVENUE    │  │    AVG       │  │    MARGIN     │  │
-│  │   GROWTH     │  │   PROJECT    │  │   EXPANSION   │  │
-│  │ $4.2M→$7.8M │  │   $85K→$340K │  │   18%→34%   │  │
-│  │    +86%     │  │    +300%     │  │    +89%     │  │
+│  │     MRR     │  │     CAC     │  │  MONTHLY    │  │
+│  │ $540K→$1.8M │  │ $1.2K→$340 │  │   CHURN     │  │
+│  │   +233%     │  │    -72%     │  │  8%→2.5%   │  │
+│  │             │  │             │  │   -69%      │  │
 │  └───────────────┘  └───────────────┘  └───────────────┘  │
 │                                                             │
 │  ┌───────────────┐  ┌───────────────┐  ┌───────────────┐  │
-│  │   WIN RATE   │  │  RECURRING   │  │   FOUNDER    │  │
-│  │   31%→58%   │  │   REVENUE    │  │   HOURS      │  │
-│  │    +87%     │  │   $0→$1.2M  │  │   55→30/wk  │  │
-│  │             │  │             │  │    -45%     │  │
+│  │  NRR       │  │  LTV:CAC   │  │   ARPU     │  │
+│  │  85%→128%  │  │  0.67x→12.4x│  │  $299→$480  │  │
+│  │   +43 pts  │  │  +1,750%   │  │   +61%     │  │
 │  └───────────────┘  └───────────────┘  └───────────────┘  │
 │                                                             │
-│  16-Week Engagement | $85K Investment | 86% Revenue Growth │
+│  10-Week Engagement | $75K Investment | 233% MRR Growth     │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 **File Names:**
-- `elevate_monetization_dashboard_social.png`
-- `elevate_monetization_dashboard_presentation.png`
+- `nexus_dashboard_social.png`
+- `nexus_dashboard_presentation.png`
 
 ---
 
-### 2. Outcome-Based Offer Tiers
-**Purpose:** Strategy documents, proposals, presentations
-**Format:** Framework diagram / Tier visual
-**Dimensions:** 1920x1080px (presentation), 1200x800px (document)
-
-**Content:**
-- 4 tiers: Activate, Accelerate, Amplify, Architect
-- Outcome specifications per tier
-- Pricing architecture per tier
-- Qualification criteria
-
-**Design Direction:**
-- Modern marketing agency aesthetic
-- Tier colors: Blue (Activate), Purple (Accelerate), Pink (Amplify), Gold (Architect)
-- Clean, professional typography
-- Outcome-focused design
-
-**Layout:**
-```
-┌─────────────────────────────────────────────────────────────┐
-│              ELEVATE OUTCOME-BASED OFFERS                    │
-│                                                             │
-│  ┌────────────┐  ┌────────────┐  ┌────────────┐  ┌─────┐│
-│  │  ACTIVATE │  │ ACCELERATE │  │  AMPLIFY   │  │ARCH.││
-│  │    💙      │  │    💜      │  │    💗      │  │  👑  ││
-│  ├────────────┤ ├────────────┤ ├────────────┤ ├─────┤│
-│  │ 200 leads  │  │ 350 leads  │  │ 500 leads  │  │Custom│
-│  │ per month  │  │ +conversion│  │ +full funnel│  │      ││
-│  │ Basic      │  │ Intermediate│  │ Advanced   │  │Enter-│
-│  │ Analytics  │  │ Reporting   │  │ Attribution │  │prise ││
-│  │ Email      │  │ Content     │  │ Strategy   │  │      ││
-│  │ Marketing  │  │ Marketing   │  │ Marketing  │  │Full  ││
-│  │            │  │ Ops        │  │ Automation  │  │Suit  ││
-│  │ $15K/mo   │  │ $28K/mo   │  │ $45K/mo   │  │Custom││
-│  └────────────┘  └────────────┘  └────────────┘  └─────┘│
-│                                                             │
-│  Outcome-Based Pricing | Self-Selection | Clear ROI         │
-└─────────────────────────────────────────────────────────────┘
-```
-
-**File Names:**
-- `elevate_offer_tiers.png`
-- `elevate_pricing_tiers.png`
-
----
-
-### 3. Value-to-Fee Transformation
-**Purpose:** Financial presentations, sales materials
-**Format:** Value capture visualization
+### 2. Pricing Model Transformation Visual
+**Purpose:** Strategy documents, pricing-focused materials
+**Format:** Before/after comparison visualization
 **Dimensions:** 1200x800px
 
 **Content:**
-- Value-to-fee ratio before (12:1)
-- Value capture improvement
-- Value-to-fee ratio after (8:1)
-- Revenue impact
-
-**Layout:**
-```
-┌─────────────────────────────────────────────────────────────┐
-│              VALUE CAPTURE TRANSFORMATION                   │
-│                                                             │
-│   BEFORE                     AFTER                          │
-│                                                             │
-│   $12 in value          $8 in value                        │
-│   ┌─────┐                ┌─────┐                            │
-│   │Client│ for $1       │Client│ for $1                     │
-│   │Value │ ──────────→  │Value │                            │
-│   │$12   │               │$8   │                            │
-│   └─────┘                └─────┘                            │
-│                                                             │
-│   $4 captured → $6-8 captured                              │
-│                                                             │
-│   Result: 86% more revenue, 89% better margins             │
-└─────────────────────────────────────────────────────────────┘
-```
+- Before: Per-user pricing diagram
+- After: Per-workspace + tiered pricing diagram
+- Value metric alignment
 
 **File Names:**
-- `elevate_value_capture.png`
+- `nexus_pricing_transformation.png`
 
 ---
 
-### 4. Retainer Revenue Growth
-**Purpose:** Recurring revenue presentations, investor materials
-**Format:** Revenue stream visualization
+### 3. Expansion Revenue Funnel
+**Purpose:** Marketing materials, growth visualizations
+**Format:** Revenue flow visualization
 **Dimensions:** 1200x800px
 
 **Content:**
-- Retainer revenue before ($0)
-- Retainer growth curve
-- Retainer revenue after ($1.2M/month)
-- Revenue mix transformation
+- Seat expansion revenue
+- Upgrade revenue
+- Add-on revenue
+- Net revenue retention improvement
 
 **File Names:**
-- `elevate_retainer_growth.png`
-
----
-
-### 5. Sales Transformation Visual
-**Purpose:** Sales presentations, process documentation
-**Format:** Before/after comparison
-**Dimensions:** 1200x800px
-
-**Content:**
-- Sales cycle before/after (10 weeks → 4 weeks)
-- Win rate improvement
-- Proposal volume reduction
-- Quality improvement
-
-**File Names:**
-- `elevate_sales_transformation.png`
+- `nexus_expansion_revenue.png`
 
 ---
 
 ## Platform-Specific Visuals
 
 ### LinkedIn Carousel (9 slides)
-**Slide 1:** Title — "How Elevate Digital Grew Revenue 86%"
-**Slide 2:** The challenge — busy but not profitable
-**Slide 3:** What we found — 12:1 value-to-fee ratio
-**Slide 4:** The approach — outcome-based offer suite
-**Slide 5:** Four tiers explained
-**Slide 6:** Value-based pricing implementation
-**Slide 7:** Financial results
-**Slide 8:** Team and founder impact
-**Slide 9:** $85K investment, massive return + CTA
+**Slide 1:** Title — "How Nexus Digital Fixed Broken Unit Economics"
+**Slide 2:** The challenge — CAC $1,200 > LTV $800, 8% churn, MRR stuck
+**Slide 3:** What we found — misaligned pricing, no tiers, no expansion revenue
+**Slide 4:** The approach — value-based pricing, tiered offerings, expansion engine
+**Slide 5:** Pricing model redesign
+**Slide 6:** Tiered offering structure
+**Slide 7:** Expansion revenue engine
+**Slide 8:** Results — all metrics
+**Slide 9:** $75K investment, 233% MRR growth, unit economics fixed + CTA
 
 **Format:** 1080x1350px per slide
-**File Name:** `elevate_linkedin_carousel.zip`
+**File Name:** `nexus_linkedin_carousel.zip`
 
 ---
 
@@ -195,87 +104,92 @@ This document outlines the visual assets required to bring the Elevate Digital o
 - Challenge statement
 - Approach summary
 - 6 key metrics
-- 86% revenue growth callout
+- Unit economics improvement callout
 - Testimonial quote
 - CTA
 
 **Format:** Letter size, PDF
-**File Name:** `elevate_onepager.pdf`
+**File Name:** `nexus_onepager.pdf`
 
 ---
 
-## Marketing Agency-Specific Visual Elements
+## SaaS Monetization Visual Elements
 
-### Offer Tier Journey
+### Unit Economics Theme
 **Visual Concept:**
-- Client progression through tiers
-- Value delivered at each tier
-- Revenue generation
+- CAC vs. LTV comparison
+- Negative to positive unit economics
+- LTV:CAC ratio transformation
+- Payback period improvement
+- Sustainable growth
 
 **Key Metrics:**
-- Activate: 200 leads/mo at $15K/mo
-- Accelerate: 350 leads + conversion at $28K/mo
-- Amplify: 500 leads + full funnel at $45K/mo
-- Architect: Custom enterprise at $400K+
+- LTV:CAC: 0.67x → 12.4x
+- CAC payback: 18 months → 3 months
+- LTV: $800 → $4,200
 
----
-
-### Profit Per Hour Transformation
+### Pricing Model Evolution
 **Visual Concept:**
-- Senior hour value before/after
-- Project margin improvement
-- Team utilization gains
+- Per-user → per-workspace
+- Single tier → 3 tiers
+- Transactional → expansion revenue
+- Price increase → value alignment
 
 **Key Metrics:**
-- Revenue per senior hour: $145 → $380
-- Project margin: 42% → 71%
-- Hours per project: 340 → 187
+- ARPU: $299 → $480
+- Tier mix: 100% single → 35% Starter, 48% Pro, 17% Enterprise
+- Add-ons: 0% → 12% of revenue
 
----
-
-### Founder Time Freedom
+### Revenue Growth Trajectory
 **Visual Concept:**
-- Hours worked before/after
-- Strategic vs. billable time
-- Business impact
+- MRR growth curve
+- Customer growth
+- ARPU improvement
+- Expansion revenue compounding
+- Efficient growth
 
 **Key Metrics:**
-- Founder hours: 55 → 30/week
-- Founder billable: 20 → 5 hrs/week
-- Founder strategic: 10 → 20 hrs/week
+- MRR: $540K → $1.8M
+- Customers: 180 → 249
+- NRR: 85% → 128%
 
 ---
 
 ## Photography/Imagery Direction
 
-### Marketing Agency Context
-- Modern creative office environment
-- Energetic team collaboration
-- Digital marketing/tech atmosphere
-- Creative work in progress
-- Premium but approachable aesthetic
+### SaaS Context
+- Modern tech office environments
+- Dashboard and data visualization
+- AI/technology themes
+- Growth and scaling
+- Monetization and revenue
+- Product screens and interfaces
 
 ### Stock Recommendations
-- Unsplash: "marketing agency", "creative office", "digital marketing", "team collaboration", "creative workspace"
-- Avoid: outdated advertising imagery, overly corporate stock photos, cheesy marketing imagery
+- Unsplash: "saas dashboard", "startup office", "data visualization", "growth chart", "artificial intelligence", "marketing technology"
+- Avoid: stressed entrepreneurs, overly casual settings, generic stock business imagery
 
 ---
 
 ## Icon Library
 
-### Marketing & Agency Icons
-- Target (outcomes/goals)
-- Rocket (growth/launch)
-- Dollar/currency (revenue/pricing)
-- Chart/metrics (performance)
-- Layers/stack (tiers/packages)
-- Users/people (team/clients)
-- Calendar (timeline/scheduling)
-- Gear/cog (processes)
-- Lightbulb (ideas/strategy)
-- Megaphone (marketing/amplify)
-- Handshake (partnership/relationships)
-- Trophy (success/achievement)
+### SaaS & Monetization Icons
+- Dollar/Currency (revenue, pricing)
+- Users/Team (seats, workspace)
+- Rocket (growth, scaling)
+- Chart/Growth (MRR, ARR)
+- Layers/Tiers (tiered offerings)
+- Puzzle/Add-on (add-ons, integrations)
+- Funnel (conversion, trial)
+- Heart (retention, NPS)
+- Gear/Cog (settings, configuration)
+- Lightning (speed, efficiency)
+- Target (goals, KPIs)
+- Star (premium, enterprise)
+- Calendar (annual plans, contracts)
+- User Plus (expansion, seat growth)
+- Trending Up (NRR, expansion)
+- Shield (ROI, value)
 
 **Format:** SVG or PNG at 64x64, 128x128, 256x256
 
@@ -284,16 +198,15 @@ This document outlines the visual assets required to bring the Elevate Digital o
 ## Brand Guidelines
 
 ### Color Palette
-- Primary: #7c3aed (purple)
-- Secondary: #a855f7 (light purple)
-- Accent Pink: #ec4899 (pink)
-- Accent Blue: #3b82f6 (blue)
-- Accent Gold: #f59e0b (gold for premium)
-- Success Green: #22c55e (improvement)
-- Background Light: #faf5ff (light purple tint)
-- Background Dark: #1e1b4b
-- Text Primary: #1e1b4b
-- Text Secondary: #6b7280
+- Primary: #3b82f6 (blue - trust, SaaS)
+- Secondary: #8b5cf6 (purple - premium, AI)
+- Accent Green: #22c55e (growth, success, positive unit economics)
+- Accent Orange: #f97316 (expansion, urgency)
+- Alert Red: #ef4444 (before, problem, negative)
+- Background Light: #f0f9ff (light blue tint)
+- Background Dark: #0f172a
+- Text Primary: #0f172a
+- Text Secondary: #64748b
 
 ### Typography
 - Headlines: Inter Bold / Poppins Bold
@@ -302,11 +215,12 @@ This document outlines the visual assets required to bring the Elevate Digital o
 - Font sizes: 48px (hero), 32px (H1), 24px (H2), 18px (body), 14px (caption)
 
 ### Visual Style
-- Modern, creative, energetic
+- SaaS professional aesthetic
 - Data-forward storytelling
 - Before/after comparisons with clear improvement
-- Marketing/creative industry iconography
-- Premium but approachable aesthetic
+- Unit economics and growth iconography
+- Transformation narrative
+- Technology and AI themes
 
 ---
 
@@ -315,24 +229,23 @@ This document outlines the visual assets required to bring the Elevate Digital o
 ```
 visuals/
 ├── hero/
-│   ├── elevate_monetization_dashboard_social.png
-│   ├── elevate_monetization_dashboard_presentation.png
-│   └── elevate_value_capture.png
+│   ├── nexus_dashboard_social.png
+│   ├── nexus_dashboard_presentation.png
+│   └── nexus_pricing_transformation.png
 ├── diagrams/
-│   ├── elevate_offer_tiers.png
-│   ├── elevate_pricing_tiers.png
-│   ├── elevate_retainer_growth.png
-│   ├── elevate_sales_transformation.png
-│   └── elevate_profit_hour.png
+│   ├── nexus_expansion_revenue.png
+│   ├── nexus_tiered_offerings.png
+│   ├── nexus_free_trial_funnel.png
+│   └── nexus_unit_economics.png
 ├── social/
-│   ├── elevate_linkedin_carousel.zip
-│   └── elevate_twitter_card.png
+│   ├── nexus_linkedin_carousel.zip
+│   └── nexus_twitter_card.png
 ├── templates/
-│   ├── elevate_case_study_pitch.pptx
-│   ├── elevate_onepager.pdf
-│   └── elevate_proposal_deck.pptx
+│   ├── nexus_case_study_pitch.pptx
+│   ├── nexus_onepager.pdf
+│   └── nexus_monitization_deck.pptx
 └── icons/
-    └── marketing_agency_icons.svg
+    └── saas_monetization_icons.svg
 ```
 
 ---
@@ -340,15 +253,16 @@ visuals/
 ## Animation Guidelines
 
 ### Website Hero
-- Revenue number builds from $4.2M to $7.8M
-- Project size animates from $85K to $340K
-- Margin percentage animates up
-- Subtle, energetic transitions
+- MRR builds from $540K to $1.8M
+- CAC drops from $1,200 to $340
+- Churn decreases from 8% to 2.5%
+- LTV:CAC ratio animates from 0.67x to 12.4x
+- Subtle transformation transitions
 
 ### Slide Transitions
 - Fade transitions between slides
 - Charts animate on click
-- Tier progression builds over time
+- Unit economics build over time
 
 ### Social Media
 - Static optimized images

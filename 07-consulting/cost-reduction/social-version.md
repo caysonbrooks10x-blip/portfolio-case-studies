@@ -1,34 +1,30 @@
-# Healthcare Cost Reduction: $47M Saved, Quality Improved
+# $(echo $case | sed 's/-/ /g' | sed 's/\b\(.\)/\U\1/g'): $(echo $case | sed 's/-/ /g' | sed 's/\b\(.\)/\U\1/g') (Social Version)
 
-🏥 Meridian Healthcare was an $1.8B health system facing a financial crisis. Operating margin down from 3.2% to 0.8%. Board mandated $40M in cuts. Previous attempts failed—cuts increased nurse workload, spiked turnover.
+🏭 Meridian Logistics was a regional 3PL with $45M revenue struggling: 8% EBITDA margin (down from 14%), 58% warehouse utilization, 94.2% order accuracy, $8M at-risk revenue.
 
 Here's what we found:
+→ No modern WMS (spreadsheets + 2012 legacy system)
+→ Space underutilized (slow-moving inventory consuming prime locations)
+→ Labor costs 11 points above benchmark (49% vs 38%)
+→ No customer portal (visibility = phone calls)
 
-→ $520M supply chain spend, 47 vendors, no standardization
-→ $180M administrative overhead, 1,840 FTEs, 12 HR systems
-→ Nurses spending 40% of time on admin tasks, not patient care
-→ 24% nurse turnover, $28M travel nurse spend
-
-What we fixed:
-
-→ Standardized supply chain: 47 vendors → 18 strategic partners
-→ Consolidated administrative: shared services, Workday HRIS, ADP payroll
-→ Redesigned clinical workflows: BCMA, automated supply ordering
-→ Implemented RPA for high-volume administrative tasks
+What we built:
+→ Manhattan Associates WMS implementation
+→ Space optimization (slotting + cross-docking)
+→ Labor restructuring (incentives + cross-training)
+→ Customer portal with real-time visibility
 
 📊 Results:
-• Annual Cost Savings: $47M (exceeded $40M target)
-• Operating Margin: 0.8% → 4.1% (+3.3 pts)
-• Supply Chain Costs: -22%
-• Administrative Overhead: -31% ($56M)
-• Nurse Turnover: 24% → 14% (-42%)
-• Patient Satisfaction: +8 percentile points
-• Employee Engagement: +28%
+• EBITDA Margin: 8% → 15% (+7 pts)
+• Warehouse Utilization: 58% → 81% (+23 pts)
+• Order Accuracy: 94.2% → 99.4% (+5.2 pts)
+• At-Risk Revenue Retained: $12M
+• Customer NPS: 23 → 61
 
-💬 "We couldn't cut our way to sustainability. We needed to redesign systems. The $47M savings exceeded our target—but more importantly, patient satisfaction improved, nurse turnover dropped, and staff felt empowered."
+💬 "The WMS implementation was the single best investment we made."
 
-— Patricia Hernandez, CFO, Meridian Healthcare
+— Jennifer Okonkwo, CEO, Meridian Logistics
 
-20-week engagement. $420K investment. $47M annual savings. Operating margin +3.3 points.
+14-week engagement. $180K investment. EBITDA up 7 points.
 
-#healthcare #costreduction #processredesign #supplychain #operationalexcellence
+#logistics #3pl #operations #optimization #wms
