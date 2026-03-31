@@ -1,49 +1,38 @@
-# Business Growth Strategy Case Study: Thornfield Manufacturing
+# Business Growth Strategy: Apex Manufacturing
 
 ## The Challenge
 
-A $47M precision components manufacturer had flatlined for 5 years—92% capacity utilization, 68% aerospace concentration, margins compressing to 3.2% net. Leadership needed to double revenue but was considering a $20M facility expansion that wasn't necessary or sufficient for growth.
+A $47M precision components manufacturer had plateaued at $45-47M revenue for 5 years. Customer concentration was high (top 3 = 58% of revenue), win rates were low (18% vs. 35% industry benchmark), and there was no strategic planning process. They had tried organic growth initiatives that hadn't worked—a new VP of Sales who didn't pan out, an attempt to break into medical devices that went nowhere, a failed joint venture. Price competition was compressing margins.
 
 ## The Approach
 
-Over 20 weeks, we developed and began executing a comprehensive growth strategy:
+14-week business growth strategy project:
 
-**Phase 1: Strategic Assessment**
-Financial analysis, capacity analysis, market sizing, competitive analysis. We discovered the real problem: 11% of capacity was consumed by low-margin complexity work, and multiple growing markets were untapped.
+**Phase 1: Market Assessment**
+Market sizing, competitive analysis, customer research, opportunity identification. We identified a $4B+ addressable market with underserved segments.
 
 **Phase 2: Growth Strategy Development**
-Four pillars: market diversification (medical devices, industrial equipment), capacity optimization (scheduling and changeover improvements), digital commerce (e-commerce channel), and sales transformation (systematic lead generation).
+Four strategic pillars: customer portfolio diversification, value proposition development, market expansion, operational excellence. We developed differentiated positioning to compete on value, not price.
 
-**Phase 3 & 4: Implementation & Transition**
-ISO 13485 certification achieved, e-commerce platform launched, Salesforce CRM implemented, scheduling optimization program launched, new market customers signed.
+**Phase 3 & 4: Strategic Plan & Implementation**
+3-year strategic plan with financial model, initiative prioritization, governance, and 90-day action plans. HubSpot CRM implemented.
 
 ## The Results
 
-| Metric | Before | After |
-|--------|--------|-------|
-| Annual Revenue | $47M | $71M |
-| Gross Margin | 18% | 24% |
-| EBITDA | $1.5M | $6.2M |
-| Capacity Utilization | 92% | 84% |
-| Aerospace Concentration | 68% | 42% |
-| E-commerce Revenue | $0 | $4.2M |
-
-**Plus:** 11% capacity freed without capital investment
-
-## Tools & Methods
-
-This engagement leveraged:
-- SAP Business One, Salesforce, Tableau (enterprise systems)
-- Shopify Plus, HubSpot (e-commerce and marketing)
-- Mastercam, IQMS (operations and quality)
-- Microsoft 365, Slack, Asana, Notion (collaboration)
+| Metric | Before | After (18 mo) |
+|--------|--------|---------------|
+| Revenue | $47M | $72M |
+| EBITDA | $5.2M (11%) | $11.5M (16%) |
+| Win Rate | 18% | 34% |
+| New Customer Revenue | $2.1M | $18.5M |
+| Customer Concentration | 58% | 44% |
 
 ## Testimonial
 
-"Cayson helped us see that our growth problem wasn't a capacity problem—it was a strategy problem. We had convinced ourselves we needed a $20M expansion to grow. He showed us we had 11% more capacity hiding in our schedules and changeovers. Revenue grew $24M without spending a dollar on capital."
+"Cayson helped us see what we couldn't see about ourselves. We thought we were in a mature market with limited opportunities. He showed us a $4B market with underserved segments, helped us develop a differentiated strategy, and built the capabilities to execute. Eighteen months later, we've grown from $47M to $72M."
 
-— Katherine Thornfield-Cortez, CEO, Thornfield Manufacturing
+— Richard Thornton, CEO, Apex Manufacturing
 
-## Ready to Break Through Your Growth Ceiling?
+## Ready to Develop Your Growth Strategy?
 
-Schedule a consultation to discuss how we can help you develop your company's growth strategy.
+Schedule a consultation to discuss breaking through your revenue plateau.

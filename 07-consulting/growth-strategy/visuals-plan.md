@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document outlines the visual assets required to bring the Thornfield Manufacturing growth strategy case study to life. The visual identity should convey manufacturing professionalism, industrial transformation, and multi-generational business legacy.
+This document outlines the visual assets required to bring the Apex Manufacturing business growth strategy case study to life. The visual identity should convey precision manufacturing expertise, strategic growth, and transformation from plateau to high growth.
 
 ---
 
@@ -15,171 +15,126 @@ This document outlines the visual assets required to bring the Thornfield Manufa
 
 **Content:**
 - 6 key metrics with before/after comparison
-- Revenue growth ($24M increase)
-- Margin improvement (6 points)
-- Capacity freed without capital
-- Market diversification
-- EBITDA transformation
-
-**Design Direction:**
-- Industrial manufacturing aesthetic
-- Dark blue/steel gray primary palette with green for improvement
-- Clean data visualization with bold numbers
-- Professional, heritage-inspiring design
-
-**Layout:**
-```
-┌─────────────────────────────────────────────────────────────┐
-│       THORNFIELD: BUSINESS GROWTH TRANSFORMATION           │
-│                                                             │
-│  ┌───────────────┐  ┌───────────────┐  ┌───────────────┐  │
-│  │   REVENUE    │  │    GROSS     │  │    EBITDA     │  │
-│  │   GROWTH     │  │   MARGIN     │  │  TRANSFORM   │  │
-│  │ $47M→$71M  │  │  18%→24%   │  │ $1.5M→$6.2M │  │
-│  │    +51%     │  │    +6 pts   │  │    +313%     │  │
-│  └───────────────┘  └───────────────┘  └───────────────┘  │
-│                                                             │
-│  ┌───────────────┐  ┌───────────────┐  ┌───────────────┐  │
-│  │  CAPACITY   │  │   AEROSPACE  │  │  E-COMMERCE  │  │
-│  │   FREED    │  │  CONCENTRATION│  │   REVENUE    │  │
-│  │   11%      │  │   68%→42%   │  │   $0→$4.2M  │  │
-│  │ No Capital │  │    -26 pts   │  │    New       │  │
-│  └───────────────┘  └───────────────┘  └───────────────┘  │
-│                                                             │
-│  20-Week Engagement | $175K Investment | $24M Revenue Gain │
-└─────────────────────────────────────────────────────────────┘
-```
-
-**File Names:**
-- `thornfield_growth_dashboard_social.png`
-- `thornfield_growth_dashboard_presentation.png`
-
----
-
-### 2. Four Pillar Growth Strategy
-**Purpose:** Strategy documents, proposals, presentations
-**Format:** Framework diagram / Strategy visual
-**Dimensions:** 1920x1080px (presentation), 1200x800px (document)
-
-**Content:**
-- 4 pillars: Market Diversification, Capacity Optimization, Digital Commerce, Sales Transformation
-- Key activities under each
-- Integration and sequencing
+- Revenue transformation
+- Win rate improvement
+- Customer diversification
 
 **Design Direction:**
 - Industrial professional aesthetic
-- Color-coded pillars (blue, green, orange, purple)
-- Icons for each pillar
-- Clean, strategic typography
+- Steel blue/orange primary palette with green for growth
+- Clean data visualization with bold numbers
+- Manufacturing and strategic iconography
 
 **Layout:**
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│              4-PILLAR GROWTH STRATEGY                       │
+│       APEX MANUFACTURING: GROWTH TRANSFORMATION            │
 │                                                             │
-│  ┌─────────────┐ ┌─────────────┐ ┌─────────────┐ ┌──────┐│
-│  │   MARKET   │ │   CAPACITY  │ │   DIGITAL   │ │SALES ││
-│  │DIVERSIFY  │ │  OPTIMIZE  │ │  COMMERCE  │ │TRANS.││
-│  │     📈      │ │     ⚙️      │ │     🛒      │ │  📊   ││
-│  ├─────────────┤ ├─────────────┤ ├─────────────┤ ├──────┤│
-│  │ Medical    │ │ Scheduling │ │ E-commerce │ │CRM   ││
-│  │ Device     │ │ Optimize  │ │ Platform  │ │Impl. ││
-│  │ Entry      │ │ SMED      │ │ 2,400 SKUs│ │Lead  ││
-│  │ Industrial │ │ Changeover │ │ Self-serve │ │Gen   ││
-│  │ Expand     │ │ Reduce    │ │ Ordering   │ │ABM   ││
-│  └─────────────┘ └─────────────┘ └─────────────┘ └──────┘│
+│  ┌───────────────┐  ┌───────────────┐  ┌───────────────┐  │
+│  │   REVENUE    │  │   EBITDA     │  │   WIN RATE   │  │
+│  │   $47M→$72M│  │ $5.2M→$11.5M│  │   18%→34%   │  │
+│  │    +53%     │  │    +121%     │  │   +16 pts   │  │
+│  └───────────────┘  └───────────────┘  └───────────────┘  │
 │                                                             │
-│  11% Capacity Freed | 3 New Markets | $4.2M E-commerce       │
+│  ┌───────────────┐  ┌───────────────┐  ┌───────────────┐  │
+│  │NEW CUSTOMERS │  │  CUSTOMER    │  │  REVENUE    │  │
+│  │  $2.1M→$18.5M│ │CONCENTRATION│  │   per EMP   │  │
+│  │    +781%     │  │   58%→44%   │  │ $165K→$240K│ │
+│  │             │  │   -14 pts    │  │    +45%     │  │
+│  └───────────────┘  └───────────────┘  └───────────────┘  │
+│                                                             │
+│  14-Week Strategy | $125K Investment | $25M Revenue Increase │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 **File Names:**
-- `thornfield_4_pillars.png`
-- `thornfield_growth_strategy.png`
+- `apex_dashboard_social.png`
+- `apex_dashboard_presentation.png`
+
+---
+
+### 2. Market Opportunity Visual
+**Purpose:** Strategy documents, proposals, presentations
+**Format:** Market sizing visualization
+**Dimensions:** 1920x1080px (presentation), 1200x800px (document)
+
+**Content:**
+- TAM: $4.2B
+- SAM: $680M
+- SOM: $45M
+- Adjacent markets: $1.2B
+
+**Layout:**
+```
+┌─────────────────────────────────────────────────────────────┐
+│              MARKET OPPORTUNITY: $4B+                       │
+│                                                             │
+│  TAM: $4.2B                                                │
+│  ┌─────────────────────────────────────────────────────┐   │
+│  │                   SAM: $680M                        │   │
+│  │  ┌───────────────────────────────────────────────┐ │   │
+│  │  │           SOM: $45M                          │ │   │
+│  │  │                                               │ │   │
+│  │  │   [Current Position: $47M]                   │ │   │
+│  │  └───────────────────────────────────────────────┘ │   │
+│  └─────────────────────────────────────────────────────┘   │
+│                                                             │
+│  Adjacent Markets: $1.2B (Semiconductor + EV)              │
+└─────────────────────────────────────────────────────────────┘
+```
+
+**File Names:**
+- `apex_market_opportunity.png`
+- `apex_tam_sam.png`
 
 ---
 
 ### 3. Revenue Growth Trajectory
-**Purpose:** Financial presentations, investor materials
+**Purpose:** Investor materials, strategic reviews
 **Format:** Growth trajectory visualization
 **Dimensions:** 1200x800px
 
 **Content:**
-- Revenue before ($47M)
-- Growth curve through engagement
-- Revenue after ($71M)
-- Projected Year 3 ($85M)
-
-**Layout:**
-```
-┌─────────────────────────────────────────────────────────────┐
-│              REVENUE GROWTH TRAJECTORY                      │
-│                                                             │
-│   $85M ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─    │
-│                            ╱                                 │
-│   $71M ─ ─ ─ ─ ─ ─ ─ ─ ─╱                                  │
-│                      ╱                                       │
-│   $54M ─ ─ ─ ─ ─╱                                          │
-│            ╱                                                 │
-│   $47M ─ ─ ─╱                                              │
-│         Start        6-Mo      18-Mo     Year 3              │
-│                                                             │
-│   51% Growth in 18 Months                                  │
-└─────────────────────────────────────────────────────────────┘
-```
+- 5 years flat at $45-47M
+- Strategy engagement
+- 18 months to $72M
+- Projected $100M+ trajectory
 
 **File Names:**
-- `thornfield_revenue_growth.png`
+- `apex_revenue_trajectory.png`
 
 ---
 
-### 4. Capacity Optimization Visual
-**Purpose:** Operations presentations, efficiency reports
-**Format:** Before/after comparison
+### 4. Customer Diversification
+**Purpose:** Risk presentations, strategy documents
+**Format:** Pie chart / concentration visualization
 **Dimensions:** 1200x800px
 
 **Content:**
-- Capacity utilization before/after (92% → 84%)
-- OEE improvement (62% → 78%)
-- Changeover time reduction (4.2 hrs → 1.8 hrs)
-- No capital required
+- Before: 58% concentration (top 3)
+- After: 44% concentration (top 3)
+- New customer growth
 
 **File Names:**
-- `thornfield_capacity_optimization.png`
-
----
-
-### 5. Market Diversification Visual
-**Purpose:** Board presentations, strategic reviews
-**Format:** Market mix transformation
-**Dimensions:** 1200x800px
-
-**Content:**
-- Aerospace concentration reduction (68% → 42%)
-- Medical device growth (8% → 22%)
-- Industrial equipment growth (15% → 24%)
-- E-commerce new (0% → 12%)
-
-**File Names:**
-- `thornfield_market_diversification.png`
+- `apex_customer_diversification.png`
 
 ---
 
 ## Platform-Specific Visuals
 
 ### LinkedIn Carousel (9 slides)
-**Slide 1:** Title — "How Thornfield Manufacturing Grew Revenue 51%"
-**Slide 2:** The challenge — 5 years flat at $47M, 92% capacity
-**Slide 3:** What we found — hidden capacity, untapped markets
-**Slide 4:** The approach — 4-pillar growth strategy
-**Slide 5:** Market diversification
-**Slide 6:** Capacity optimization
-**Slide 7:** E-commerce launch
-**Slide 8:** Financial results
-**Slide 9:** $175K investment, $24M return + CTA
+**Slide 1:** Title — "How Apex Manufacturing Grew 53% in 18 Months"
+**Slide 2:** The challenge — 5 years flat, 58% customer concentration, 18% win rate
+**Slide 3:** What we found — $4B market with underserved segments
+**Slide 4:** The approach — 4 strategic pillars
+**Slide 5:** Value proposition development
+**Slide 6:** Customer acquisition system
+**Slide 7:** Market expansion strategy
+**Slide 8:** Results — all metrics
+**Slide 9:** $125K investment, $25M revenue increase + CTA
 
 **Format:** 1080x1350px per slide
-**File Name:** `thornfield_linkedin_carousel.zip`
+**File Name:** `apex_linkedin_carousel.zip`
 
 ---
 
@@ -190,89 +145,85 @@ This document outlines the visual assets required to bring the Thornfield Manufa
 - Challenge statement
 - Approach summary
 - 6 key metrics
-- $24M revenue growth callout
+- PE recapitalization callout
 - Testimonial quote
 - CTA
 
 **Format:** Letter size, PDF
-**File Name:** `thornfield_onepager.pdf`
+**File Name:** `apex_onepager.pdf`
 
 ---
 
 ## Manufacturing-Specific Visual Elements
 
-### Family Business Legacy
+### Precision Manufacturing Context
+- Modern CNC machining imagery
+- Aerospace and defense applications
+- Quality certifications and precision
+- Industrial professional aesthetic
+- Technology-enabled manufacturing
+
+### Strategic Growth
 **Visual Concept:**
-- Third-generation to fourth-generation transition
-- Heritage and modernization balance
-- Professional manufacturing aesthetic
-
-**Key Messages:**
-- 40-year reputation for quality
-- Third-generation family leadership
-- Fourth-generation transition in progress
-
----
-
-### Precision Manufacturing
-**Visual Concept:**
-- CNC machining operations
-- Quality inspection
-- Precision components
-- Modern facility
+- Industrial to strategic journey
+- Plateau breaking visualization
+- Growth trajectory charts
+- Strategic planning frameworks
+- Capability building
 
 **Key Metrics:**
-- OEE: 62% → 78%
-- First-pass yield: 94.2% → 97.8%
-- On-time delivery: 91% → 98%
+- Revenue: $47M → $72M
+- Win rate: 18% → 34%
+- EBITDA margin: 11% → 16%
 
----
-
-### E-Commerce Transformation
+### Value Proposition Impact
 **Visual Concept:**
-- Digital commerce platform
-- Online ordering experience
-- Self-service customer journey
+- Price competition → value competition
+- Total value vs. unit price
+- ROI calculator visualization
+- Margin expansion
 
 **Key Metrics:**
-- E-commerce revenue: $0 → $4.2M
-- E-commerce customers: 0 → 187
-- Average order value: $4.2K
+- Gross margin: 32% → 38%
+- Price discount: 15% → 6%
+- Average deal size: $180K → $420K
 
 ---
 
 ## Photography/Imagery Direction
 
-### Manufacturing Context
-- Modern precision manufacturing facility
-- CNC machining operations
-- Quality control inspection
-- Clean, organized shop floor
-- Professional manufacturing environment
-- Third-generation family leadership
+### Precision Manufacturing Context
+- Modern CNC machining centers
+- Aerospace precision components
+- Quality inspection and measurement
+- Clean industrial environments
+- Engineering and technical teams
+- Advanced manufacturing technology
 
 ### Stock Recommendations
-- Unsplash: "precision manufacturing", "CNC machining", "manufacturing facility", "quality control", "family business"
-- Avoid: outdated factory imagery, dirty/chaotic shop floors, overly industrial gritty images
+- Unsplash: "CNC machining", "precision manufacturing", "aerospace manufacturing", "metalworking", "industrial machinery", "manufacturing facility"
+- Avoid: outdated manufacturing imagery, overly manual labor imagery, dirty shop floors
 
 ---
 
 ## Icon Library
 
-### Manufacturing & Industrial Icons
-- Gear/cog (operations/processes)
-- Chart/metrics (performance/improvement)
-- Factory (manufacturing)
-- Target (precision/goals)
-- Dollar/currency (revenue/financial)
-- Globe/world (market diversification)
-- Rocket (growth/launch)
-- Calendar/clock (scheduling/efficiency)
-- Users/people (team/sales)
-- Shield (quality/certification)
-- Truck (logistics/e-commerce)
-- Building (facility/expansion)
-- Trophy (success/achievement)
+### Manufacturing & Strategy Icons
+- Gear/cog (manufacturing, operations)
+- Rocket (growth, trajectory)
+- Target (win rate, goals)
+- Chart/metrics (performance, KPIs)
+- Dollar/currency (revenue, margins)
+- Users/people (customers, team)
+- Building/factory (manufacturing)
+- Airplane (aerospace)
+- Shield (quality, certifications)
+- Layers/stack (strategy, tiers)
+- Calendar/clock (time, cycles)
+- Map/location (market expansion)
+- Magnet (customer acquisition)
+- Trophy (competitive wins)
+- Trophy (success, milestones)
 
 **Format:** SVG or PNG at 64x64, 128x128, 256x256
 
@@ -281,11 +232,11 @@ This document outlines the visual assets required to bring the Thornfield Manufa
 ## Brand Guidelines
 
 ### Color Palette
-- Primary: #1e3a5f (dark navy blue)
-- Secondary: #475569 (steel gray)
-- Accent Green: #22c55e (improvement/success)
-- Accent Blue: #3b82f6 (growth/diversification)
-- Accent Orange: #f59e0b (energy/optimization)
+- Primary: #1e3a5f (deep navy)
+- Secondary: #2d5a87 (steel blue)
+- Accent Orange: #f97316 (energy, growth, trajectory)
+- Accent Green: #22c55e (improvement, success)
+- Alert Red: #ef4444 (before, problem)
 - Background Light: #f8fafc (light gray)
 - Background Dark: #0f172a
 - Text Primary: #0f172a
@@ -299,10 +250,11 @@ This document outlines the visual assets required to bring the Thornfield Manufa
 
 ### Visual Style
 - Industrial professional aesthetic
+- Precision and quality connotation
 - Data-forward storytelling
 - Before/after comparisons with clear improvement
-- Manufacturing and industrial iconography
-- Heritage and legacy messaging for family business
+- Manufacturing and strategic iconography
+- Growth trajectory emphasis
 
 ---
 
@@ -311,24 +263,24 @@ This document outlines the visual assets required to bring the Thornfield Manufa
 ```
 visuals/
 ├── hero/
-│   ├── thornfield_growth_dashboard_social.png
-│   ├── thornfield_growth_dashboard_presentation.png
-│   └── thornfield_revenue_growth.png
+│   ├── apex_dashboard_social.png
+│   ├── apex_dashboard_presentation.png
+│   └── apex_revenue_trajectory.png
 ├── diagrams/
-│   ├── thornfield_4_pillars.png
-│   ├── thornfield_capacity_optimization.png
-│   ├── thornfield_market_diversification.png
-│   ├── thornfield_e_commerce.png
-│   └── thornfield_sales_transformation.png
+│   ├── apex_market_opportunity.png
+│   ├── apex_tam_sam.png
+│   ├── apex_customer_diversification.png
+│   ├── apex_win_rate_improvement.png
+│   └── apex_value_proposition.png
 ├── social/
-│   ├── thornfield_linkedin_carousel.zip
-│   └── thornfield_twitter_card.png
+│   ├── apex_linkedin_carousel.zip
+│   └── apex_twitter_card.png
 ├── templates/
-│   ├── thornfield_case_study_pitch.pptx
-│   ├── thornfield_onepager.pdf
-│   └── thornfield_proposal_deck.pptx
+│   ├── apex_case_study_pitch.pptx
+│   ├── apex_onepager.pdf
+│   └── apex_strategy_deck.pptx
 └── icons/
-    └── manufacturing_icons.svg
+    └── manufacturing_strategy_icons.svg
 ```
 
 ---
@@ -336,10 +288,10 @@ visuals/
 ## Animation Guidelines
 
 ### Website Hero
-- Revenue number builds from $47M to $71M
-- Margin percentage animates up
-- Capacity metric animates down (improvement)
-- Subtle industrial transitions
+- Revenue builds from $47M to $72M
+- Win rate animates from 18% to 34%
+- EBITDA grows from $5.2M to $11.5M
+- Subtle manufacturing transitions
 
 ### Slide Transitions
 - Fade transitions between slides

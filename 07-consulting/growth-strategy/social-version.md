@@ -1,33 +1,32 @@
-# Business Growth Strategy Results: $24M Revenue Increase
+# Manufacturing Growth Strategy: 53% Revenue Growth in 18 Months
 
-🏭 Thornfield Manufacturing was stuck at $47M for 5 years. 92% capacity. 68% aerospace concentration. 3.2% net margin. Considering $20M facility expansion.
+🏭 Apex Manufacturing was a $47M precision components manufacturer stuck at $45-47M for 5 years. Customer concentration 58%, win rate 18%, no strategic plan. Price competition compressing margins.
 
 Here's what we found:
 
-→ 11% of capacity consumed by low-margin complexity work
-→ Multiple growing markets completely untapped
-→ $8-12M e-commerce opportunity ignored
-→ Sales team of 4 relying entirely on relationships
+→ $4B+ addressable market they weren't fully serving
+→ Win rate 18% vs. 35% industry benchmark (value prop gap)
+→ No CRM, no sales process, no market intelligence
+→ Customer concentration 58% = existential risk
 
-What we fixed:
+What we built:
 
-→ Scheduling optimization (freed 11% capacity, no capital)
-→ Market diversification (aerospace 68%→42%, medical/industrial added)
-→ E-commerce launch ($4.2M in Year 1)
-→ Salesforce CRM + systematic lead generation
+→ "Precision Solutions" differentiated value proposition
+→ Customer acquisition playbook and CRM (HubSpot)
+→ Market expansion strategy (semiconductor, EV)
+→ 3-year strategic plan with governance
 
-📊 Results:
-• Revenue: $47M → $71M (+51%)
-• Gross Margin: 18% → 24% (+6 pts)
-• EBITDA: $1.5M → $6.2M (+313%)
-• Capacity: freed 11% without capital
-• Aerospace: 68% → 42% of revenue
-• E-commerce: $0 → $4.2M
+📊 Results (18 months):
+• Revenue: $47M → $72M (+53%)
+• EBITDA: $5.2M → $11.5M (+121%)
+• Win Rate: 18% → 34% (+16 pts)
+• New Customer Revenue: $2.1M → $18.5M (+781%)
+• Customer Concentration: 58% → 44% (-14 pts)
 
-💬 "Revenue grew $24M without spending a dollar on capital. That's the kind of thinking that changes a company."
+💬 "Cayson helped us see what we couldn't see about ourselves. He showed us a $4B market with underserved segments, helped us develop a differentiated strategy, and built the capabilities to execute. Eighteen months later, we've grown from $47M to $72M."
 
-— Katherine Thornfield-Cortez, CEO, Thornfield Manufacturing
+— Richard Thornton, CEO, Apex Manufacturing
 
-20-week engagement. $175K investment. $24M revenue increase.
+14-week strategy engagement. $125K investment. $25M revenue increase.
 
-#manufacturing #growthstrategy #operationalexcellence #medtech #aerospace
+#manufacturing #growthstrategy #aerospace #precisionmachining #businessstrategy

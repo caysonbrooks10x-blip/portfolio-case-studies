@@ -1,39 +1,36 @@
-# Thornfield Manufacturing: Business Growth Strategy
+# Apex Manufacturing: Business Growth Strategy
 
 ## The Situation
 
-A $47M precision components manufacturer had flatlined for 5 years—92% capacity, 68% aerospace concentration, margins compressing. Leadership needed to double revenue but had no clear path and was considering a $20M facility expansion.
+A $47M precision components manufacturer had plateaued at $45-47M revenue for 5 years. Customer concentration was high (top 3 = 58% of revenue), win rates were low (18% vs. 35% benchmark), and there was no strategic planning process. Margins were compressing due to price competition.
 
 ## The Approach
 
-20-week strategic planning and growth strategy engagement:
+14-week business growth strategy project:
 
-1. **Strategic Assessment** — Financial analysis, capacity analysis, market sizing, competitive analysis
-2. **Growth Strategy Development** — 4 pillars: market diversification, capacity optimization, digital commerce, sales transformation
-3. **Implementation Support** — ISO 13485 certification, e-commerce launch, Salesforce CRM, scheduling optimization
-4. **Transition Support** — Dashboard implementation, board reporting, leadership transition planning
+1. **Market Assessment** — Market sizing, competitive analysis, customer research, opportunity identification
+2. **Growth Strategy Development** — 4 strategic pillars: customer diversification, value proposition, market expansion, operational excellence
+3. **Strategic Plan Development** — 3-year financial model, initiative prioritization, resource planning, governance
+4. **Implementation Support** — HubSpot CRM, strategic hires, launch initiatives, governance established
 
 ## The Results
 
-| Metric | Before | After |
-|--------|--------|-------|
-| Annual Revenue | $47M | $71M |
-| Gross Margin | 18% | 24% |
-| EBITDA | $1.5M | $6.2M |
-| Capacity Utilization | 92% | 84% |
-| Aerospace Concentration | 68% | 42% |
-| E-commerce Revenue | $0 | $4.2M |
-
-**Plus:** 11% capacity freed without capital investment
+| Metric | Before | After (18 mo) |
+|--------|--------|----------------|
+| Revenue | $47M | $72M |
+| EBITDA | $5.2M (11%) | $11.5M (16%) |
+| Win Rate | 18% | 34% |
+| New Customer Revenue | $2.1M | $18.5M |
+| Customer Concentration | 58% | 44% |
 
 ## The Tools
 
-SAP Business One, Salesforce, Tableau, Shopify Plus, Mastercam, HubSpot, Microsoft 365, Slack, Asana, Notion
+HubSpot CRM, LinkedIn Sales Navigator, ZoomInfo, NetSuite ERP, Tableau, Smartsheet, Microsoft 365, Statista, IBISWorld
 
 ## Investment
 
-$175,000 fixed-fee | 20 weeks | 2-person team
+$125,000 fixed-fee | 14 weeks | 2-person team
 
 ---
 
-*"Revenue grew $24M without spending a dollar on capital. That's the kind of thinking that changes a company."* — Katherine Thornfield-Cortez, CEO, Thornfield Manufacturing
+*"Eighteen months later, we've grown from $47M to $72M, won customers we'd never competed for before, and positioned the company for a successful recapitalization."* — Richard Thornton, CEO, Apex Manufacturing

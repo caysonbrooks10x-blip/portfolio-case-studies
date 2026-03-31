@@ -1,362 +1,479 @@
-# Business Growth Strategy: Deliverables Inventory
+# Business Growth Strategy: Deliverables
 
-## Phase 1: Strategic Assessment — Deliverables
-
-### 1. Strategic Assessment Report
-**Description:** Comprehensive diagnostic of current business and market position.
-**Pages:** 55 pages
-**Contents:**
-- Executive summary
-- Company overview and history
-- Business model assessment
-- Financial performance analysis
-- Market position assessment
-- Competitive landscape
-- Growth constraints identification
-- Strategic options analysis
-**Owner:** Lead Strategy Consultant
-**Tools:** Excel, Tableau, Notion
-**Sign-off:** CEO, Board
+## Apex Manufacturing Engagement
 
 ---
 
-### 2. Market Opportunity Analysis
-**Description:** Deep-dive analysis of growth markets.
-**Pages:** 45 pages
-**Contents:**
-- Total addressable market sizing
-- Medical device segment analysis
-- Industrial equipment segment analysis
-- Aerospace defense sub-segment analysis
-- E-commerce market opportunity
-- International market assessment
-- Competitive entry analysis
-- Market prioritization framework
-**Owner:** Lead Strategy Consultant, Manufacturing Operations Consultant
-**Tools:** Excel, market research databases
-**Sign-off:** CEO
+## Phase 1: Market Assessment & Opportunity Identification
+
+### 1.1 Market Assessment Report
+**Description:** Comprehensive analysis of market landscape and opportunities
+**Components:**
+- Market sizing (TAM, SAM, SOM)
+- Market segmentation analysis
+- Growth trend analysis by segment
+- Regulatory landscape assessment
+- Technology trends impact analysis
+- Market entry barrier analysis
+
+**Format:** 45-page report + presentation
+**Owner:** Cayson Brooks, Market Research Analyst
+**Reviewer:** Richard Thornton
 
 ---
 
-### 3. Capacity Optimization Study
-**Description:** Analysis of capacity constraints and optimization opportunities.
-**Pages:** 35 pages
-**Contents:**
-- Current capacity utilization analysis
-- Machine-by-machine utilization
-- Scheduling efficiency assessment
-- Changeover time analysis
-- Product mix analysis
-- Low-margin work identification
-- Optimization scenarios
-- Investment requirements
-**Owner:** Manufacturing Operations Consultant
-**Tools:** ERP data, Excel, Mastercam
-**Sign-off:** VP Operations
+### 1.2 Competitive Intelligence Report
+**Description:** Analysis of competitive landscape and competitive positioning
+**Components:**
+- Competitor mapping (15+ competitors)
+- Competitive positioning analysis
+- Win/loss analysis (internal data)
+- Competitive pricing analysis
+- Competitive capability assessment
+- Competitive threat assessment
+
+**Format:** 30-page report + competitive matrix
+**Owner:** Market Research Analyst
+**Reviewer:** Thomas Park, Richard Thornton
 
 ---
 
-### 4. Customer Profitability Analysis
-**Description:** Analysis of customer-level profitability.
-**Pages:** 30 pages
-**Contents:**
-- Revenue and margin by customer
-- Customer segmentation by profitability
-- Volume and complexity analysis
-- Relationship value assessment
-- Strategic account identification
-- Exit candidates identification
-**Owner:** Lead Strategy Consultant
-**Tools:** ERP data, Excel, Salesforce
-**Sign-off:** CEO, VP Sales
+### 1.3 Customer Research Summary
+**Description:** Analysis of customer needs, pain points, and decision criteria
+**Components:**
+- Customer interview synthesis (12 interviews)
+- Unmet needs identification
+- Pain point prioritization
+- Decision criteria analysis
+- Customer value chain mapping
+- Customer satisfaction drivers
+
+**Format:** 25-page report + interview summaries
+**Owner:** Cayson Brooks
+**Reviewer:** Thomas Park, Richard Thornton
 
 ---
 
-### 5. Competitive Positioning Assessment
-**Description:** Analysis of competitive landscape and positioning.
-**Pages:** 30 pages
-**Contents:**
-- Competitor identification and mapping
-- Capabilities comparison
-- Pricing analysis
-- Market share assessment
-- Competitive advantages
-- Vulnerability identification
-- Positioning opportunities
-**Owner:** Lead Strategy Consultant
-**Tools:** Market research, competitor intelligence
-**Sign-off:** CEO
-
----
-
-## Phase 2: Growth Strategy Development — Deliverables
-
-### 6. 5-Year Growth Strategy
-**Description:** Comprehensive growth strategy document.
-**Pages:** 60 pages
-**Contents:**
-- Vision and strategic objectives
-- Growth targets (5-year)
-- Market expansion strategy
-- Capacity strategy
-- Digital commerce strategy
-- Sales transformation strategy
-- Investment requirements
+### 1.4 Growth Opportunity Landscape
+**Description:** Ranked analysis of growth opportunities
+**Components:**
+- Opportunity listing (20+ opportunities)
+- Opportunity sizing and attractiveness
+- Capability fit assessment
 - Risk assessment
-- Implementation priorities
-**Owner:** Lead Strategy Consultant
-**Tools:** Notion, Excel, PowerPoint
-**Sign-off:** CEO, Board
+- Prioritization matrix
+- Market entry requirements
+
+**Format:** Prioritized matrix + opportunity cards
+**Owner:** Cayson Brooks
+**Reviewer:** Richard Thornton, Leadership Team
 
 ---
 
-### 7. Market Entry Plans
-**Description:** Detailed plans for each target market.
-**Pages:** 40 pages
-**Contents:**
-- Medical device market entry plan
-- Industrial equipment expansion plan
-- Aerospace defense sub-segment plan
-- Certification requirements
-- Target account lists
-- Sales approach
+### 1.5 Strategic Options Analysis
+**Description:** Analysis of strategic options for growth
+**Components:**
+- Strategic option identification
+- Option evaluation (size, attractiveness, fit, risk)
+- Option comparison matrix
+- Recommended strategic direction
+- Resource implications
+- Timeline implications
+
+**Format:** Analysis document + workshop output
+**Owner:** Cayson Brooks
+**Reviewer:** Richard Thornton
+
+---
+
+### 1.6 CEO Workshop: Strategic Priorities
+**Description:** Facilitated workshop to align on strategic priorities
+**Components:**
+- Market insights presentation
+- Competitive positioning discussion
+- Strategic options evaluation
+- Priority selection and alignment
+- Resource allocation discussion
+- Next steps commitment
+
+**Format:** Workshop facilitation + output summary
+**Owner:** Cayson Brooks
+**Reviewer:** Richard Thornton, Leadership Team
+
+---
+
+## Phase 2: Growth Strategy Development
+
+### 2.1 Growth Strategy Document
+**Description:** Comprehensive growth strategy with 4 pillars and 12 initiatives
+**Components:**
+- Executive summary
+- Vision and strategic intent
+- Strategic pillars (4 pillars)
+- Initiative descriptions (12 initiatives)
+- Initiative timelines
+- Initiative owners and teams
 - Investment requirements
-- Timeline and milestones
-**Owner:** Lead Strategy Consultant, VP Sales
-**Tools:** Notion, Salesforce
-**Sign-off:** CEO
+- Expected outcomes
+
+**Format:** 40-page strategy document
+**Owner:** Cayson Brooks
+**Reviewer:** Richard Thornton, Leadership Team
 
 ---
 
-### 8. Capacity Optimization Roadmap
-**Description:** Implementation plan for capacity improvements.
-**Pages:** 25 pages
-**Contents:**
-- Scheduling optimization plan
-- Changeover reduction program (SMED)
-- Product mix management process
-- Customer mix optimization
-- Expected capacity release
-- Implementation timeline
+### 2.2 Value Proposition Framework
+**Description:** Differentiated value proposition and messaging framework
+**Components:**
+- Current state assessment
+- Differentiation opportunities
+- Value proposition architecture
+- Messaging framework (by segment)
+- Proof points and evidence
+- ROI calculator tool design
+- Sales enablement materials
+
+**Format:** Framework document + sales playbook
+**Owner:** Cayson Brooks
+**Reviewer:** Thomas Park
+
+---
+
+### 2.3 Market Expansion Business Cases
+**Description:** Business cases for 2 adjacent market entries
+**Components:**
+- Semiconductor equipment market entry business case
+- Electric vehicle components market entry business case
+- Market sizing and attractiveness
+- Competitive landscape analysis
+- Customer needs assessment
+- Capability gap analysis
 - Investment requirements
-- Success metrics
-**Owner:** Manufacturing Operations Consultant
-**Tools:** ERP, Excel, Asana
-**Sign-off:** VP Operations
+- Revenue projections (3 scenarios)
+- Risk assessment
+
+**Format:** 2 business case documents (30 pages each)
+**Owner:** Cayson Brooks, Market Research Analyst
+**Reviewer:** Richard Thornton, Leadership Team
 
 ---
 
-### 9. E-Commerce Strategy
-**Description:** Strategy for digital commerce channel.
-**Pages:** 30 pages
-**Contents:**
-- E-commerce opportunity assessment
-- Platform selection criteria
-- Product catalog strategy
-- Pricing strategy for e-commerce
-- Fulfillment and logistics
-- Integration requirements
-- Investment requirements
-- Revenue projections
-**Owner:** Lead Strategy Consultant
-**Tools:** Shopify Plus research, ERP analysis
-**Sign-off:** CEO, VP Operations
+### 2.4 Customer Acquisition Playbook
+**Description:** Sales playbook for customer acquisition
+**Components:**
+- Target account identification methodology
+- Account prioritization framework
+- Outreach strategy and scripts
+- Discovery question guide
+- Solution presentation framework
+- Proposal framework
+- Negotiation playbooks
+- Account management framework
+
+**Format:** Playbook document + digital resources
+**Owner:** Cayson Brooks
+**Reviewer:** Thomas Park
 
 ---
 
-### 10. Sales Transformation Plan
-**Description:** Plan for sales capability build-out.
-**Pages:** 35 pages
-**Contents:**
-- Current sales assessment
-- Target customer profile
-- Consultative selling methodology
-- CRM implementation plan
-- Lead generation strategy
-- Account-based marketing program
-- Sales team expansion plan
-- Compensation structure
-**Owner:** VP Sales, Lead Strategy Consultant
-**Tools:** Salesforce, HubSpot
-**Sign-off:** CEO
-
----
-
-### 11. Capital Allocation Framework
-**Description:** Framework for strategic investment decisions.
-**Pages:** 20 pages
-**Contents:**
-- Investment priorities
-- Capital requirements by initiative
-- Return expectations
-- Risk-adjusted analysis
-- Board reporting framework
-- Decision criteria
-**Owner:** CEO, CFO
-**Tools:** Excel
-**Sign-off:** Board
-
----
-
-## Phase 3: Implementation Support — Deliverables
-
-### 12. ISO 13485 Certification
-**Description:** Medical device quality management certification.
-**Contents:**
-- Certification gap analysis
-- Quality documentation development
-- Process improvements
-- Audit preparation
-- Certification audit support
-**Owner:** VP Operations, Quality Manager
-**Tools:** IQMS, quality management systems
-**Sign-off:** VP Operations
-
----
-
-### 13. E-Commerce Platform Launch
-**Description:** Live e-commerce channel.
-**Contents:**
-- Platform selection and setup
-- Product catalog development (2,400 SKUs)
-- ERP integration
-- Payment and fulfillment setup
-- Launch marketing
-- Performance monitoring
-**Owner:** VP Operations, Marketing
-**Tools:** Shopify Plus, SAP Business One
-**Sign-off:** CEO
-
----
-
-### 14. Salesforce CRM Implementation
-**Description:** Operational CRM system.
-**Contents:**
-- CRM configuration
-- Data migration
-- Process automation
-- Team training
-- Integration with ERP
-- Go-live support
-**Owner:** VP Sales, Lead Consultant
-**Tools:** Salesforce
-**Sign-off:** VP Sales
-
----
-
-### 15. Scheduling Optimization Implementation
-**Description:** Production scheduling improvements.
-**Contents:**
-- Scheduling system configuration
-- Rules and constraints setup
-- Team training
-- Process documentation
-- Performance monitoring
-**Owner:** VP Operations
-**Tools:** Maritime, SAP
-**Sign-off:** VP Operations
-
----
-
-### 16. Consultative Selling Training
-**Description:** Sales methodology training.
-**Contents:**
-- Methodology development
+### 2.5 Sales Process and CRM Design
+**Description:** HubSpot CRM configuration and sales process design
+**Components:**
+- Sales process mapping
+- Stage definitions and criteria
+- CRM field design
+- Workflow automation design
+- Dashboard and reporting design
 - Training curriculum
-- Role-play sessions
-- Coaching framework
-- Certification tracking
-**Owner:** VP Sales, External Trainer
-**Tools:** Salesforce, Zoom
-**Sign-off:** VP Sales
+- Adoption metrics
+
+**Format:** Process maps + HubSpot configuration + training
+**Owner:** Cayson Brooks
+**Reviewer:** Thomas Park
 
 ---
 
-## Phase 4: Transition Support — Deliverables
+### 2.6 Operational Roadmap for Growth
+**Description:** Operational investments required to support growth
+**Components:**
+- Capacity assessment (current vs. required)
+- Equipment investment plan
+- ERP implementation plan (NetSuite)
+- Supplier partnership development
+- Quality management enhancements
+- Talent acquisition plan
+- Operational KPIs
 
-### 17. Growth Dashboard
-**Description:** Real-time performance monitoring.
-**Contents:**
-- KPI framework
-- Dashboard configuration
-- Data integrations
+**Format:** Roadmap document + investment model
+**Owner:** Cayson Brooks, Michael Foster
+**Reviewer:** Richard Thornton, Michael Foster
+
+---
+
+## Phase 3: Strategic Plan Development
+
+### 3.1 3-Year Strategic Plan (2024-2026)
+**Description:** Comprehensive 3-year strategic plan
+**Components:**
+- Strategic context and situation analysis
+- Vision and strategic intent
+- 3-year goals and metrics
+- Initiative roadmap (by year)
+- Resource allocation plan
+- Capital investment plan
+- Risk mitigation strategies
+- Governance model
+
+**Format:** 50-page strategic plan + executive summary
+**Owner:** Cayson Brooks
+**Reviewer:** Richard Thornton, Board of Directors
+
+---
+
+### 3.2 Financial Model (3 Scenarios)
+**Description:** 3-year financial model with conservative, base, and aggressive scenarios
+**Components:**
+- Revenue model (by segment, customer, product)
+- Cost structure model
+- EBITDA and margin projections
+- Cash flow projections
+- Balance sheet projections
+- Scenario comparison (conservative, base, aggressive)
+- Key assumption sensitivity analysis
+- Capital requirement analysis
+
+**Format:** Excel workbook + summary presentation
+**Owner:** Cayson Brooks, Market Research Analyst
+**Reviewer:** Jennifer Walsh, Richard Thornton
+
+---
+
+### 3.3 Initiative Prioritization Matrix
+**Description:** Ranked initiatives with impact and effort analysis
+**Components:**
+- Initiative listing (12 initiatives)
+- Impact scoring (strategic, financial, operational)
+- Effort scoring (time, cost, complexity)
+- ROI calculation for each initiative
+- Prioritization ranking
+- Quick wins vs. strategic investments
+- Implementation sequencing
+
+**Format:** Prioritized matrix + rationale document
+**Owner:** Cayson Brooks
+**Reviewer:** Richard Thornton, Leadership Team
+
+---
+
+### 3.4 Resource Plan
+**Description:** Hiring, capital, and capability development plan
+**Components:**
+- Hiring plan (sales, engineering, operations)
+- Capital investment plan (equipment, technology)
+- Capability development plan (training, certifications)
+- Budget allocation by initiative
+- Timeline for resource deployment
+- Resource risk assessment
+
+**Format:** Plan document + budget spreadsheet
+**Owner:** Cayson Brooks
+**Reviewer:** Richard Thornton, Jennifer Walsh
+
+---
+
+### 3.5 KPI Dashboard Design
+**Description:** Executive and operational KPI dashboard design
+**Components:**
+- KPI framework (strategic, operational, financial)
+- Metric definitions and calculations
+- Dashboard wireframes
+- Reporting cadence
 - Alert thresholds
-- Reporting schedule
-**Owner:** Lead Strategy Consultant
-**Tools:** Tableau, Salesforce
-**Sign-off:** CEO
+- Review meeting structure
+
+**Format:** Dashboard designs (Tableau) + metric definitions
+**Owner:** Cayson Brooks
+**Reviewer:** Richard Thornton, Leadership Team
 
 ---
 
-### 18. Quarterly Business Review Process
-**Description:** Structured review cadence.
-**Pages:** 15 pages
-**Contents:**
-- Review agenda template
-- Data requirements
-- Decision frameworks
-- Action item tracking
-- Board reporting integration
-**Owner:** CEO, Lead Strategy Consultant
-**Tools:** Notion, Tableau
-**Sign-off:** CEO
+### 3.6 Governance Charter
+**Description:** Strategic planning governance and execution model
+**Components:**
+- Governance structure (executive sponsor, steering committee)
+- Meeting cadence (monthly, quarterly, annually)
+- Escalation procedures
+- Decision-making framework
+- Accountability model
+- Strategic review process
+- Plan update process
+
+**Format:** Charter document
+**Owner:** Cayson Brooks
+**Reviewer:** Richard Thornton
 
 ---
 
-### 19. Board Reporting Templates
-**Description:** Standardized board reporting.
-**Contents:**
-- Monthly dashboard
-- Quarterly business review
-- Initiative status reports
-- Financial performance
-- Growth metrics
-**Owner:** CEO, CFO
-**Tools:** Tableau, PowerPoint
-**Sign-off:** Board
-
----
-
-### 20. 18-Month Execution Roadmap
-**Description:** Detailed implementation plan.
-**Pages:** 30 pages
-**Contents:**
-- Initiative timeline
-- Milestone schedule
-- Resource requirements
+### 3.7 Board Presentation Materials
+**Description:** Presentation materials for board approval
+**Components:**
+- Strategic plan executive summary
+- Market opportunity analysis
+- Growth strategy overview
+- Financial projections
+- Investment requirements
 - Risk mitigation
-- Success metrics
-- Monthly targets
-**Owner:** CEO, Lead Strategy Consultant
-**Tools:** Asana, Notion
-**Sign-off:** CEO, Board
+- Recommendation and request
+
+**Format:** 30-slide presentation + appendix
+**Owner:** Cayson Brooks
+**Reviewer:** Richard Thornton
 
 ---
 
-## Deliverable Summary Table
+## Phase 4: Implementation Support
 
-| # | Deliverable | Phase | Pages | Sign-off |
-|---|-------------|-------|-------|----------|
-| 1 | Strategic Assessment Report | 1 | 55 | CEO, Board |
-| 2 | Market Opportunity Analysis | 1 | 45 | CEO |
-| 3 | Capacity Optimization Study | 1 | 35 | VP Ops |
-| 4 | Customer Profitability Analysis | 1 | 30 | CEO, VP Sales |
-| 5 | Competitive Positioning Assessment | 1 | 30 | CEO |
-| 6 | 5-Year Growth Strategy | 2 | 60 | CEO, Board |
-| 7 | Market Entry Plans | 2 | 40 | CEO |
-| 8 | Capacity Optimization Roadmap | 2 | 25 | VP Ops |
-| 9 | E-Commerce Strategy | 2 | 30 | CEO |
-| 10 | Sales Transformation Plan | 2 | 35 | CEO |
-| 11 | Capital Allocation Framework | 2 | 20 | Board |
-| 12 | ISO 13485 Certification | 3 | — | VP Ops |
-| 13 | E-Commerce Platform Launch | 3 | — | CEO |
-| 14 | Salesforce CRM Implementation | 3 | — | VP Sales |
-| 15 | Scheduling Optimization | 3 | — | VP Ops |
-| 16 | Consultative Selling Training | 3 | — | VP Sales |
-| 17 | Growth Dashboard | 4 | — | CEO |
-| 18 | Quarterly Business Review Process | 4 | 15 | CEO |
-| 19 | Board Reporting Templates | 4 | — | Board |
-| 20 | 18-Month Execution Roadmap | 4 | 30 | CEO, Board |
+### 4.1 Initiative Launch Plans
+**Description:** 90-day launch plans for top 3 initiatives
+**Components:**
+- Initiative owner and team
+- 90-day milestones
+- Resource requirements
+- Dependencies and risks
+- Success metrics
+- Quick wins identification
 
-**Total Deliverables:** 20 formal deliverables
-**Total Documentation:** Approximately 600+ pages
+**Format:** 3 initiative plans (5 pages each)
+**Owner:** Cayson Brooks
+**Reviewer:** Initiative owners, Richard Thornton
+
+---
+
+### 4.2 HubSpot CRM Implementation
+**Description:** Configured and operational HubSpot CRM
+**Components:**
+- CRM configuration (fields, workflows, automation)
+- Data migration (customer records, opportunities)
+- Pipeline and stage configuration
+- Dashboard setup
+- User training (Thomas Park + sales team)
+- Go-live support
+
+**Format:** Live operational CRM + training materials
+**Owner:** Cayson Brooks
+**Reviewer:** Thomas Park
+
+---
+
+### 4.3 First Strategic Hire Support
+**Description:** Job description and sourcing for first strategic hire
+**Components:**
+- Strategic account executive job description
+- Sourcing strategy and channels
+- Interview process design
+- Offer framework
+- Onboarding plan
+
+**Format:** Job description + sourcing plan + interview guide
+**Owner:** Cayson Brooks
+**Reviewer:** Richard Thornton, Thomas Park
+
+---
+
+### 4.4 90-Day Action Plans
+**Description:** Detailed 90-day action plans for each pillar
+**Components:**
+- 90-day milestones by pillar
+- Resource allocation
+- Key decisions required
+- Risks and mitigations
+- Success metrics
+
+**Format:** 4 pillar plans (3 pages each)
+**Owner:** Cayson Brooks
+**Reviewer:** Pillar owners, Richard Thornton
+
+---
+
+### 4.5 Executive Alignment Session
+**Description:** Leadership team alignment on strategic plan
+**Components:**
+- Strategic plan review
+- Initiative ownership confirmation
+- Resource commitment sign-off
+- Governance agreement
+- Timeline confirmation
+- Q&A and concerns addressed
+
+**Format:** Facilitated session + output summary
+**Owner:** Cayson Brooks
+**Reviewer:** Richard Thornton, Leadership Team
+
+---
+
+## Supporting Deliverables
+
+### Success Playbook
+**Description:** Lessons learned and best practices from engagement
+**Components:**
+- What worked (and why)
+- What didn't work (and what we changed)
+- Critical success factors
+- Risk mitigation strategies
+- Advice for future strategic planning
+- Manufacturing-specific insights
+
+**Format:** 15-page playbook
+**Owner:** Cayson Brooks
+**Reviewer:** Richard Thornton
+
+---
+
+## Deliverable Summary
+
+| Phase | Deliverables | Format |
+|-------|-------------|--------|
+| Phase 1 | 6 major deliverables | Reports, Matrices, Workshops |
+| Phase 2 | 6 major deliverables | Strategy Documents, Playbooks, Designs |
+| Phase 3 | 7 major deliverables | Plans, Models, Dashboards, Charters |
+| Phase 4 | 5 major deliverables | Plans, CRM, Hire Support |
+| Supporting | 1 playbook | Document |
+| **Total** | **25 deliverables** | |
+
+---
+
+## File Organization
+
+```
+Apex_Manufacturing/
+├── Phase_1_Market_Assessment/
+│   ├── 1.1_Market_Assessment_Report.pdf
+│   ├── 1.2_Competitive_Intelligence_Report.pdf
+│   ├── 1.3_Customer_Research_Summary.pdf
+│   ├── 1.4_Growth_Opportunity_Landscape.xlsx
+│   ├── 1.5_Strategic_Options_Analysis.pdf
+│   └── 1.6_CEO_Workshop_Output.pdf
+├── Phase_2_Strategy_Development/
+│   ├── 2.1_Growth_Strategy_Document.pdf
+│   ├── 2.2_Value_Proposition_Framework.pdf
+│   ├── 2.3_Market_Expansion_Business_Cases/
+│   ├── 2.4_Customer_Acquisition_Playbook.pdf
+│   ├── 2.5_Sales_Process_CRM_Design.pdf
+│   └── 2.6_Operational_Roadmap.pdf
+├── Phase_3_Strategic_Plan/
+│   ├── 3.1_3_Year_Strategic_Plan.pdf
+│   ├── 3.2_Financial_Model.xlsx
+│   ├── 3.3_Initiative_Prioritization_Matrix.xlsx
+│   ├── 3.4_Resource_Plan.pdf
+│   ├── 3.5_KPI_Dashboard_Design.pdf
+│   ├── 3.6_Governance_Charter.pdf
+│   └── 3.7_Board_Presentation.pptx
+├── Phase_4_Implementation/
+│   ├── 4.1_Initiative_Launch_Plans/
+│   ├── 4.2_HubSpot_CRM_Implementation/
+│   ├── 4.3_Strategic_Hire_Support/
+│   ├── 4.4_90_Day_Action_Plans/
+│   └── 4.5_Executive_Alignment_Session.pdf
+└── Supporting/
+    └── Success_Playbook.pdf
+```
