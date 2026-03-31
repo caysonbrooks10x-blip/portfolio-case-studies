@@ -1,39 +1,37 @@
-# Pinnacle Advisory Group: Service Business Scaling Framework
+# Elevate Consulting Group: Service Business Scaling Framework
 
 ## The Situation
 
-A wealth management firm with $2.1B AUM and $18M revenue had hit a ceiling—advisors at full capacity, no scalable systems, and 60% of revenue concentrated in the founder. The business was successful but unscalable.
+A boutique consulting firm with $8.2M revenue was trapped in the founder ceiling—the CEO was involved in 85% of all engagements, couldn't hire consultants fast enough, had no marketing or lead generation (100% referrals), and had no methodology, training program, or scalable business model.
 
 ## The Approach
 
-24-week scaling framework engagement:
+12-week service business scaling framework project:
 
-1. **Business Model Diagnosis** — Financial analysis, client segmentation, advisor productivity, technology audit
-2. **Framework Design** — 4 workstreams: tiered service model, operating system, knowledge management, growth engine
-3. **Implementation** — New service tiers, Orbit deployment, knowledge base, referral program
-4. **Optimization** — Performance monitoring, advisor coaching, succession planning
+1. **Business Model Assessment** — Financial analysis, founder dependency analysis, service offering analysis, competitive positioning
+2. **Scaling Framework Development** — 5 pillars: methodology & IP, service design, demand generation, talent development, operations
+3. **Implementation Roadmap** — Initiative prioritization, resource planning, 12-month roadmap
+4. **Launch Support** — HubSpot CRM, first hires, content marketing, execution governance
 
 ## The Results
 
-| Metric | Before | After |
-|--------|--------|-------|
-| Annual Revenue | $18M | $27M |
-| Revenue per Advisor | $1.0M | $1.35M |
-| Client Referral Rate | 12% | 34% |
-| Client Retention | 91% | 97% |
-| Advisor Turnover | 11% | 3% |
-| Founder Concentration | 60% | 31% |
-
-**Plus:** 3 new service lines generating $3.68M in Year 1
+| Metric | Before | After (18 mo) |
+|--------|--------|---------------|
+| Revenue | $8.2M | $14.8M |
+| Founder Billable Time | 85% | 30% |
+| Consultants | 18 | 42 |
+| Inbound Leads | 0 | 85/mo |
+| Revenue per Consultant | $456K | $550K |
+| EBITDA Margin | 14.6% | 23% |
 
 ## The Tools
 
-Salesforce FSC, Orbit, eMoney, HubSpot, Slack, Asana, Notion, Tamarisk
+HubSpot CRM & Marketing, Mavenlink, Notion, Confluence, Lattice, Greenhouse, QuickBooks, LinkedIn, Slack, Zoom
 
 ## Investment
 
-$125,000 fixed-fee | 24 weeks | 2-person team
+$85,000 fixed-fee | 12 weeks | 2-person team
 
 ---
 
-*"Revenue grew 50% in year one. That's not incremental improvement—that's transformation."* — Marcus Wellington, Founder and CEO, Pinnacle Advisory Group
+*"I was building a job, not a business. The scaling framework helped me build a business that could run without me. Revenue up 80%, my billable time down to 30%."* — Sarah Mitchell, Founder and CEO, Elevate Consulting Group

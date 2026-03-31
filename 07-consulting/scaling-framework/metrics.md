@@ -1,284 +1,321 @@
 # Service Business Scaling: Metrics Reference
 
-## Pinnacle Advisory Group — Key Performance Indicators
+## Elevate Consulting Group — Key Performance Indicators
 
 ---
 
-## 1. Financial Metrics
+## 1. Pre-Engagement Baseline Metrics
 
-### Revenue Metrics
-| Metric | Baseline | 6-Month | 12-Month | Change |
-|--------|----------|---------|----------|--------|
-| Annual Revenue | $18.0M | $22.5M | $27.0M | +50% |
-| Monthly Recurring Revenue | $1.5M | $1.88M | $2.25M | +50% |
-| Revenue per Advisor | $1.00M | $1.15M | $1.35M | +35% |
-| Revenue per Client Household | $52.9K | $61.0K | $69.2K | +31% |
-| New Client Revenue | $1.48M/yr | $2.65M/yr | $3.55M/yr | +140% |
-
-### Profitability Metrics
-| Metric | Baseline | 12-Month | Change |
-|--------|----------|----------|--------|
-| Gross Margin | 78% | 82% | +4 pts |
-| Net Margin | 24% | 31% | +7 pts |
-| EBITDA | $4.32M | $8.37M | +94% |
-| Revenue per FTE | $409K | $540K | +32% |
-
-### AUM Metrics
-| Metric | Baseline | 12-Month | Change |
-|--------|----------|----------|--------|
-| Assets Under Management | $2.1B | $2.4B | +14% |
-| AUM per Advisor | $117M | $120M | +3% |
-| AUM Growth Rate | 4%/yr | 14%/yr | +10 pts |
-
----
-
-## 2. Client Metrics
-
-### Client Base Metrics
-| Metric | Baseline | 12-Month | Change |
-|--------|----------|----------|--------|
-| Client Households | 340 | 390 | +50 new |
-| Average Client Tenure | 6.2 years | 8.1 years | +31% |
-| Client Retention Rate | 91% | 97% | +6 pts |
-| Annual Client Attrition | 9% | 3% | -67% |
-| Households Lost to Attrition | 31/yr | 12/yr | -61% |
-
-### Client Satisfaction Metrics
-| Metric | Baseline | 12-Month | Change |
-|--------|----------|----------|--------|
-| Client Satisfaction Score | 4.3/5.0 | 4.8/5.0 | +12% |
-| Net Promoter Score (NPS) | 47 | 72 | +25 pts |
-| Client Effort Score | 3.8/5.0 | 4.6/5.0 | +21% |
-| Service Quality Rating | 4.1/5.0 | 4.7/5.0 | +15% |
-
-### Client Acquisition Metrics
-| Metric | Baseline | 12-Month | Change |
-|--------|----------|----------|--------|
-| New Client Households/Year | 28 | 67 | +139% |
-| Client Referral Rate | 12% | 34% | +183% |
-| Referral Conversion Rate | 45% | 68% | +51% |
-| Lead-to-Client Rate | 15% | 22% | +47% |
-| Cost per Client Acquisition | $18.5K | $9.2K | -50% |
-
-### Client Concentration Metrics
-| Metric | Baseline | 12-Month | Change |
-|--------|----------|----------|--------|
-| Top 20% Client Revenue Share | 68% | 52% | -16 pts |
-| Revenue Concentration (HHI) | 0.18 | 0.09 | -50% |
-| Largest Client Revenue Share | 8.2% | 4.1% | -50% |
-| Avg Clients per Advisor | 18.9 | 19.5 | +3% |
-
----
-
-## 3. Service Tier Metrics
-
-### Tier Distribution
-| Tier | Baseline | 6-Month | 12-Month | Avg Revenue/HH |
-|------|----------|---------|----------|----------------|
-| Premier | 0 (0%) | 14 (4%) | 28 (7%) | $285K |
-| Elite | 0 (0%) | 38 (10%) | 62 (16%) | $145K |
-| Signature | 340 (100%) | 322 (86%) | 300 (77%) | $52K |
-| Total | 340 | 374 | 390 | $69.2K |
-
-### Tier Adoption Metrics
+### Company Baseline
 | Metric | Value |
 |--------|-------|
-| Clients Upgraded to Higher Tier | 142 |
-| Clients Choosing Tier Downgrade | 8 |
-| Average Tier Migration Time | 3.2 months |
-| Clients Selecting Premier (of offered) | 87% |
-| Premium Pricing Acceptance Rate | 94% |
+| Annual Revenue | $8.2M |
+| Revenue Growth (Prior Year) | 8% |
+| EBITDA | $1.2M |
+| EBITDA Margin | 14.6% |
+| Gross Margin | 52% |
+| Consultants | 18 |
+| Location | Chicago, IL |
+| Founded | 2015 |
+| Years in Operation | 9 |
+
+### Founder Time Allocation
+| Metric | Value |
+|--------|-------|
+| Billable Time | 85% |
+| Business Development | 8% |
+| Hiring & Training | 4% |
+| Strategic | 3% |
+
+### Service Lines
+| Service Line | Revenue | % of Total |
+|--------------|---------|------------|
+| HR Strategy | $6.2M | 76% |
+| Talent Management | $2.0M | 24% |
+| **Total** | **$8.2M** | **100%** |
+
+### Client Metrics
+| Metric | Value |
+|--------|-------|
+| Active Clients | 45 |
+| Client Retention | 95% |
+| Average Contract Value | $182K |
+| Client Lifetime Value | $650K |
+| Net Promoter Score | 62 |
+| Referral Rate | 100% |
+
+### Demand Generation Baseline
+| Metric | Value |
+|--------|-------|
+| Inbound Leads | 0 |
+| Marketing Qualified Leads | 0 |
+| Sales Qualified Leads | 0 |
+| Partnership Referrals | 0 |
+| Content Assets | 5 |
+| Social Followers | 320 |
+
+### Talent Metrics
+| Metric | Value |
+|--------|-------|
+| Total Consultants | 18 |
+| Senior Consultants | 4 |
+| Revenue per Consultant | $456K |
+| Consultant Turnover | 28% |
+| Training Hours per Consultant | 20 hrs |
+| Time to Productivity | 9 months |
+| Billable Utilization | 72% |
+
+### Scalability Metrics
+| Metric | Value |
+|--------|-------|
+| Reusable Frameworks | 0 |
+| Productized Services | 0 |
+| Self-Service Offerings | 0 |
+| Methodology Documentation | 15% |
+| Template Library | 20 |
+| Knowledge Base Articles | 0 |
 
 ---
 
-## 4. Advisor Metrics
+## 2. Post-Engagement Financial Metrics
 
-### Advisor Productivity
-| Metric | Baseline | 12-Month | Change |
-|--------|----------|----------|--------|
-| Advisor Count | 18 | 20 | +11% |
-| Revenue per Advisor | $1.00M | $1.35M | +35% |
-| AUM per Advisor | $117M | $120M | +3% |
-| Clients per Advisor | 18.9 | 19.5 | +3% |
-| Capacity Utilization | 94% | 71% | -23 pts |
-| Billable Hours per Week | 48 | 38 | -21% |
-| Admin Hours per Week | 12 | 6 | -50% |
+### Financial Transformation
+| Metric | Before | After (18 mo) | Change |
+|--------|--------|---------------|--------|
+| Revenue | $8.2M | $14.8M | +80% |
+| Revenue Growth Rate | 8% | 80% (18 mo) | +72 pts |
+| EBITDA | $1.2M | $3.4M | +183% |
+| EBITDA Margin | 14.6% | 23% | +8.4 pts |
+| Gross Margin | 52% | 61% | +9 pts |
+| Revenue per Consultant | $456K | $550K | +21% |
 
-### Advisor Retention
-| Metric | Baseline | 12-Month | Change |
-|--------|----------|----------|--------|
-| Advisor Turnover Rate | 11% | 3% | -8 pts |
-| 3-Year Retention Rate | 67% | 94% | +27 pts |
-| Voluntary Turnover | 8% | 2% | -6 pts |
-| Involuntary Turnover | 3% | 1% | -2 pts |
-| Advisors Who Left | 2/yr | 1/2 yrs | Improved |
+### Revenue by Service Line (18-Month)
+| Service Line | Before | After | Growth |
+|--------------|--------|-------|--------|
+| HR Strategy | $6.2M | $8.4M | +35% |
+| Talent Management | $2.0M | $3.2M | +60% |
+| Organizational Design (New) | — | $3.2M | New |
+| **Total** | **$8.2M** | **$14.8M** | **+80%** |
 
-### Advisor Satisfaction
-| Metric | Baseline | 12-Month | Change |
-|--------|----------|----------|--------|
-| Overall Advisor Satisfaction | 3.6/5.0 | 4.4/5.0 | +22% |
-| System Usability Rating | 3.2/5.0 | 4.3/5.0 | +34% |
-| Work-Life Balance | 3.1/5.0 | 4.1/5.0 | +32% |
-| Compensation Satisfaction | 3.8/5.0 | 4.2/5.0 | +11% |
-| Career Growth Opportunities | 3.4/5.0 | 4.3/5.0 | +26% |
+### Founder Time Allocation (After)
+| Activity | Before | After | Change |
+|----------|--------|-------|--------|
+| Billable Time | 85% | 30% | -55 pts |
+| Business Development | 8% | 15% | +7 pts |
+| Hiring & Training | 4% | 10% | +6 pts |
+| Strategic | 3% | 45% | +42 pts |
 
 ---
 
-## 5. New Service Line Metrics
+## 3. Demand Generation Metrics
 
-### Family Office Services
-| Metric | Year 1 | Year 2 |
-|--------|--------|--------|
-| Clients Enrolled | 28 | 42 |
-| Average Fee per Client | $64.3K | $76.2K |
-| Total Revenue | $1.8M | $3.2M |
-| Client Retention | 96% | 97% |
-| NPS | 78 | 81 |
+### Lead Generation Transformation
+| Metric | Before | After (18 mo) | Change |
+|--------|--------|---------------|--------|
+| Inbound Leads | 0 | 85/month | Created |
+| Marketing Qualified Leads | 0 | 28/month | Created |
+| Sales Qualified Leads | 0 | 12/month | Created |
+| Partnership Referrals | 0 | 18/quarter | Created |
+| Referral Rate | 100% | 68% | -32 pts |
+| Content Assets | 5 | 68 | +1,260% |
 
-### Business Owner Planning
-| Metric | Year 1 | Year 2 |
-|--------|--------|--------|
-| Clients Enrolled | 34 | 52 |
-| Average Fee per Client | $35.3K | $46.2K |
-| Total Revenue | $1.2M | $2.4M |
-| Client Retention | 94% | 96% |
-| Cross-Sell Rate | 42% | 51% |
+### Content Marketing Performance
+| Metric | 3 mo | 6 mo | 12 mo | 18 mo |
+|--------|------|------|-------|-------|
+| Articles Published | 3 | 8 | 18 | 28 |
+| Website Visitors | 1,200/mo | 3,400/mo | 8,200/mo | 14,800/mo |
+| Inbound Leads | 12/mo | 38/mo | 65/mo | 85/mo |
+| Social Followers | 450 | 1,200 | 3,400 | 6,800 |
 
-### Intergenerational Wealth
-| Metric | Year 1 | Year 2 |
-|--------|--------|--------|
-| Clients Enrolled | 22 | 38 |
-| Average Fee per Client | $30.9K | $36.8K |
-| Total Revenue | $680K | $1.4M |
-| Client Retention | 95% | 96% |
-| Referral Rate | 38% | 42% |
+### Partnership Program
+| Metric | 6 mo | 12 mo | 18 mo |
+|--------|------|-------|-------|
+| Active Partners | 4 | 12 | 22 |
+| Partner Referrals | 6/quarter | 14/quarter | 18/quarter |
+| Partner Revenue | $180K | $680K | $1.2M |
 
 ---
 
-## 6. Concentration Risk Metrics
+## 4. Talent Development Metrics
 
-### Revenue Concentration
-| Metric | Baseline | 12-Month | Change |
-|--------|----------|----------|--------|
-| Marcus Wellington Revenue Share | 60% | 31% | -29 pts |
-| Top 3 Advisors Revenue Share | 67% | 34% | -33 pts |
-| Top Advisor Revenue Share | 28% | 14% | -14 pts |
-| Any Single Person Share | 60% | 31% | -29 pts |
+### Team Growth
+| Metric | Before | After (18 mo) | Change |
+|--------|--------|---------------|--------|
+| Total Consultants | 18 | 42 | +133% |
+| Senior Consultants | 4 | 14 | +250% |
+| Principals | 1 | 4 | +300% |
+| Partners | 1 | 2 | +100% |
 
-### Client Concentration
-| Metric | Baseline | 12-Month | Change |
-|--------|----------|----------|--------|
-| Top 10 Clients Revenue Share | 42% | 24% | -18 pts |
-| Top 20 Clients Revenue Share | 68% | 52% | -16 pts |
-| Largest Client Share | 8.2% | 4.1% | -50% |
-| Herfindahl-Hirschman Index | 0.18 | 0.09 | -50% |
+### Talent Performance
+| Metric | Before | After | Change |
+|--------|--------|-------|--------|
+| Revenue per Consultant | $456K | $550K | +21% |
+| Billable Utilization | 72% | 78% | +6 pts |
+| Consultant Turnover | 28% | 12% | -16 pts |
+| Training Hours per Consultant | 20 hrs | 80 hrs | +300% |
+| Time to Productivity | 9 months | 4 months | -56% |
 
----
-
-## 7. Growth Engine Metrics
-
-### Referral Program
-| Metric | Baseline | 12-Month | Change |
-|--------|----------|----------|--------|
-| Referral Rate | 12% | 34% | +183% |
-| Referrals Received | 41 | 133 | +224% |
-| Referral Conversion Rate | 45% | 68% | +51% |
-| Referral Quality Score | 3.8/5.0 | 4.4/5.0 | +16% |
-| Referral Reward Redemption | N/A | 78% | New |
-
-### Content & Thought Leadership
-| Metric | Baseline | 12-Month | Change |
-|--------|----------|----------|--------|
-| LinkedIn Followers | 890 | 3,200 | +260% |
-| Email Newsletter Subscribers | 420 | 1,840 | +338% |
-| Article Views | 2.1K/mo | 18.5K/mo | +781% |
-| Inbound Leads | 3/mo | 14/mo | +367% |
-| Lead-to-Opportunity Rate | 12% | 28% | +133% |
+### Career Path Progressions
+| Level | Before | After | Promotions |
+|-------|--------|-------|------------|
+| Analyst | 4 | 10 | 6 |
+| Consultant | 8 | 16 | 8 |
+| Senior Consultant | 4 | 12 | 8 |
+| Principal | 1 | 4 | 3 |
+| Partner | 1 | 2 | 1 |
 
 ---
 
-## 8. Technology Utilization Metrics
+## 5. Service Scalability Metrics
 
-### Salesforce FSC
-| Metric | Baseline | 12-Month | Change |
-|--------|----------|----------|--------|
-| Feature Utilization | 35% | 78% | +43 pts |
-| Data Completeness | 52% | 91% | +39 pts |
-| Workflow Automation | 8 | 34 | +325% |
-| Report Usage | 12 | 47 | +292% |
-| Integration Points | 3 | 8 | +167% |
+### Methodology Development
+| Metric | Before | After | Change |
+|--------|--------|-------|--------|
+| Reusable Frameworks | 0 | 24 | Created |
+| Productized Services | 0 | 8 | Created |
+| Self-Service Offerings | 0 | 3 | Created |
+| Methodology Documentation | 15% | 85% | +70 pts |
+| Template Library | 20 | 180 | +800% |
+| Knowledge Base Articles | 0 | 120 | Created |
 
-### Orbit Workflow System
-| Metric | Baseline | 12-Month | Change |
-|--------|----------|----------|--------|
-| Workflows Created | 0 | 47 | New |
-| Tasks Automated | 0 | 2,340/mo | New |
-| Advisor Adoption | N/A | 95% | New |
-| Time Saved per Advisor | 0 | 6 hrs/week | New |
-| Process Compliance | N/A | 89% | New |
+### Productized Services Performance
+| Service Package | Price Point | Clients | Revenue |
+|-----------------|-------------|---------|---------|
+| HR Audit Essentials | $15K | 18 | $270K |
+| Talent Assessment Suite | $25K | 12 | $300K |
+| Compensation Design | $35K | 8 | $280K |
+| Org Design Workshop | $45K | 14 | $630K |
+| Leadership Development | $50K | 10 | $500K |
+| HR Technology Selection | $65K | 6 | $390K |
+| Change Management | $75K | 8 | $600K |
+| Strategic HR Advisory | $120K | 4 | $480K |
+| **Total** | | | **$3.45M** |
 
----
-
-## 9. Operating Metrics
-
-### Efficiency Metrics
-| Metric | Baseline | 12-Month | Change |
-|--------|----------|----------|--------|
-| Client Onboarding Time | 14 days | 5 days | -64% |
-| Plan Delivery Time | 21 days | 8 days | -62% |
-| Meeting Prep Time | 45 min | 15 min | -67% |
-| Client Document Processing | 48 hrs | 4 hrs | -92% |
-| Inquiry Response Time | 18 hrs | 2 hrs | -89% |
-
-### Capacity Metrics
-| Metric | Baseline | 12-Month | Change |
-|--------|----------|----------|--------|
-| Available Advisor Capacity | 6% | 29% | +23 pts |
-| Unutilized Client Hours | 340/mo | 890/mo | +162% |
-| Waitlist (clients seeking service) | 0 | 24 | New |
-| Can Accept New Clients | No | Yes | Changed |
+### Self-Service Offerings
+| Offering | Price | Purchases | Revenue |
+|----------|-------|-----------|---------|
+| HR Policy Templates | $499 | 240 | $120K |
+| Compensation Benchmarking | $799 | 180 | $144K |
+| Performance Review Templates | $399 | 320 | $128K |
+| **Total** | | | **$392K** |
 
 ---
 
-## 10. Engagement ROI Metrics
+## 6. Client & Revenue Metrics
 
-### Investment
-| Item | Amount |
-|------|--------|
-| Engagement Fee | $125,000 |
-| Internal Time Investment | 320 hours |
-| Technology Investment | $45,000 |
-| Training Investment | $18,000 |
-| Total Investment | $188,000 |
+### Client Base Growth
+| Metric | Before | After | Change |
+|--------|--------|-------|--------|
+| Active Clients | 45 | 82 | +82% |
+| New Clients (Annual) | 8 | 28 | +250% |
+| Client Retention | 95% | 97% | +2 pts |
+| Average Contract Value | $182K | $224K | +23% |
+| Client Lifetime Value | $650K | $890K | +37% |
 
-### Return
-| Item | Value |
-|------|-------|
-| First-Year Revenue Increase | $9,000,000 |
-| Cost Savings (Year 1) | $1,200,000 |
-| Advisor Retention Savings | $400,000 |
-| Total First-Year Return | $10,600,000 |
-| ROI | 5,638% |
-| Payback Period | 60 days |
+### Revenue Model Evolution
+| Revenue Type | Before | After |
+|---------------|--------|-------|
+| Time-and-Materials | 100% | 62% |
+| Fixed-Price Projects | 0% | 28% |
+| Productized Services | 0% | 8% |
+| Self-Service | 0% | 2% |
 
 ---
 
-## 11. Benchmark Comparisons
+## 7. Operational Metrics
 
-### Industry Benchmarks (Wealth Management)
-| Metric | Pinnacle Baseline | Industry Avg | Pinnacle After |
-|--------|-------------------|--------------|----------------|
-| Revenue per Advisor | $1.00M | $750K | $1.35M |
-| Client Retention | 91% | 92% | 97% |
-| NPS | 47 | 52 | 72 |
-| Client Concentration | 68% | 45% | 52% |
-| AUM Growth Rate | 4% | 6% | 14% |
+### Systems Implementation
+| System | Before | After |
+|--------|--------|-------|
+| CRM | Spreadsheets | HubSpot |
+| Project Management | Spreadsheets | Mavenlink |
+| Performance Management | Annual Reviews | Lattice (continuous) |
+| Knowledge Management | Scattered | Notion |
+| Recruiting | Inconsistent | Greenhouse |
 
-### Performance Rankings
-| Metric | Percentile Before | Percentile After |
-|--------|-------------------|------------------|
-| Revenue per Advisor | 72nd | 94th |
-| Client Retention | 48th | 91st |
-| Advisor Retention | 35th | 96th |
-| NPS | 42nd | 81st |
-| Client Referral Rate | 28th | 92nd |
+### Process Scalability
+| Metric | Before | After | Change |
+|--------|--------|-------|--------|
+| Project Allocation Time | 3 days | 4 hours | -87% |
+| Invoice Processing Time | 5 days | 1 day | -80% |
+| Onboarding Time | 2 weeks | 1 week | -50% |
+| Proposal Development Time | 3 days | 4 hours | -87% |
+
+---
+
+## 8. Investment & ROI
+
+### Engagement Investment
+| Phase | Duration | Investment |
+|-------|----------|------------|
+| Phase 1: Assessment | 3 weeks | $18,000 |
+| Phase 2: Framework Development | 5 weeks | $42,000 |
+| Phase 3: Roadmap | 2 weeks | $15,000 |
+| Phase 4: Launch Support | 2 weeks | $10,000 |
+| **Total** | **12 weeks** | **$85,000** |
+
+### Team Composition
+| Role | Weeks | Count |
+|------|-------|-------|
+| Lead Business Scaling Consultant | 12 | 1 |
+| Marketing Consultant | 8 | 1 |
+
+### Return on Investment
+| Metric | Value |
+|--------|-------|
+| Total Investment | $85,000 |
+| Revenue Increase (18 months) | $6,600,000 |
+| EBITDA Increase (18 months) | $2,200,000 |
+| Gross Profit Increase (18 months) | $4,300,000 |
+| ROI | 7,765% |
+| Payback Period | 4 months |
+
+---
+
+## 9. Industry Benchmarks
+
+### Professional Services Benchmarks
+| Metric | Industry Median | Elevate Before | Elevate After |
+|--------|---------------|----------------|---------------|
+| Revenue Growth | 15%/year | 8% | 45%/year |
+| EBITDA Margin | 18% | 14.6% | 23% |
+| Utilization Rate | 75% | 72% | 78% |
+| Revenue per Consultant | $420K | $456K | $550K |
+| Founder Billable Time | 40% | 85% | 30% |
+
+### Performance vs. Benchmarks
+| Metric | Benchmark | Elevate After | Percentile |
+|--------|-----------|---------------|------------|
+| Revenue Growth | 15%/year | 45%/year | 92nd |
+| EBITDA Margin | 18% | 23% | 84th |
+| Utilization Rate | 75% | 78% | 72nd |
+| Revenue per Consultant | $420K | $550K | 88th |
+| Founder Liberation | 40% | 30% | 78th |
+
+---
+
+## 10. Post-Engagement Traction (18-Month)
+
+### Financial Traction
+| Metric | Start | 6 mo | 12 mo | 18 mo |
+|--------|-------|------|-------|-------|
+| Revenue | $8.2M | $9.8M | $12.4M | $14.8M |
+| EBITDA | $1.2M | $1.8M | $2.6M | $3.4M |
+| Gross Margin | 52% | 55% | 58% | 61% |
+| Founder Billable Time | 85% | 70% | 45% | 30% |
+
+### Demand Generation Traction
+| Metric | 6 mo | 12 mo | 18 mo |
+|--------|------|-------|-------|
+| Inbound Leads | 28/mo | 55/mo | 85/mo |
+| SQLs | 4/mo | 9/mo | 12/mo |
+| New Clients | 6 | 18 | 28 |
+| Referral Rate | 92% | 78% | 68% |
+
+### Talent Traction
+| Metric | 6 mo | 12 mo | 18 mo |
+|--------|------|-------|-------|
+| Total Consultants | 21 | 32 | 42 |
+| Senior Consultants | 5 | 9 | 14 |
+| Turnover Rate | 22% | 16% | 12% |
+| Training Hours | 35 | 55 | 80 |

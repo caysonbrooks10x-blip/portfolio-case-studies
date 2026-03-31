@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document outlines the visual assets required to bring the Pinnacle Advisory Group service business scaling case study to life. The visual identity should convey wealth management professionalism, transformation magnitude, and advisor/client success.
+This document outlines the visual assets required to bring the Elevate Consulting Group service business scaling case study to life. The visual identity should convey consulting professionalism, founder liberation, and business transformation from founder-dependent to scalable.
 
 ---
 
@@ -15,174 +15,84 @@ This document outlines the visual assets required to bring the Pinnacle Advisory
 
 **Content:**
 - 6 key metrics with before/after comparison
-- Revenue growth (50% increase)
-- Advisor productivity improvement
-- Client referral rate transformation
-- New service line impact
-
-**Design Direction:**
-- Premium financial services aesthetic
-- Deep blue primary palette with gold accents
-- Clean data visualization with bold numbers
-- Sophisticated, trust-inspiring design
+- Revenue transformation
+- Founder liberation
+- Team growth
 
 **Layout:**
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│       PINNACLE ADVISORY: SERVICE BUSINESS TRANSFORMATION   │
+│       ELEVATE CONSULTING: SCALING TRANSFORMATION            │
 │                                                             │
 │  ┌───────────────┐  ┌───────────────┐  ┌───────────────┐  │
-│  │   REVENUE    │  │   REVENUE    │  │    CLIENT     │  │
-│  │   GROWTH    │  │   PER ADVISOR│  │   REFERRALS   │  │
-│  │   $18M→$27M │  │   $1.0M→$1.35M│  │   12%→34%    │  │
-│  │    +50%     │  │    +35%     │  │    +183%     │  │
+│  │   REVENUE   │  │   FOUNDER   │  │  CONSULTANTS │  │
+│  │ $8.2M→$14.8M│ │  BILLABLE   │  │   18→42    │  │
+│  │    +80%     │  │  85%→30%   │  │   +133%     │  │
+│  │             │  │  Liberated! │  │             │  │
 │  └───────────────┘  └───────────────┘  └───────────────┘  │
 │                                                             │
 │  ┌───────────────┐  ┌───────────────┐  ┌───────────────┐  │
-│  │    ADVISOR   │  │   FOUNDER     │  │    CLIENT     │  │
-│  │   TURNOVER   │  │  CONCENTRATION│  │   RETENTION  │  │
-│  │   11%→3%    │  │   60%→31%    │  │   91%→97%   │  │
-│  │    -73%     │  │    -48%     │  │    +6 pts    │  │
+│  │  INBOUND   │  │  EBITDA    │  │    NEW      │  │
+│  │  LEADS    │  │  MARGIN   │  │  SERVICE    │  │
+│  │  0→85/mo  │  │  14.6%→23%│  │    LINE     │  │
+│  │           │  │  +8.4 PTS  │  │   $3.2M    │  │
 │  └───────────────┘  └───────────────┘  └───────────────┘  │
 │                                                             │
-│  24-Week Engagement | $125K Investment | 50% Revenue Growth│
+│  12-Week Framework | $85K Investment | 80% Revenue Growth   │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 **File Names:**
-- `pinnacle_scaling_dashboard_social.png`
-- `pinnacle_scaling_dashboard_presentation.png`
+- `elevate_dashboard_social.png`
+- `elevate_dashboard_presentation.png`
 
 ---
 
-### 2. Tiered Service Model Visual
-**Purpose:** Strategy documents, proposals, presentations
-**Format:** Framework diagram / Tier visual
-**Dimensions:** 1920x1080px (presentation), 1200x800px (document)
-
-**Content:**
-- 3 tiers: Premier, Elite, Signature
-- Service features per tier
-- Pricing architecture
-- Client migration flow
-
-**Design Direction:**
-- Premium financial services aesthetic
-- Gold (Premier), Silver (Elite), Bronze (Signature) color coding
-- Modern, clean typography
-- Trust-inspiring professional design
-
-**Layout:**
-```
-┌─────────────────────────────────────────────────────────────┐
-│              PINNACLE SERVICE TIERS                         │
-│                                                             │
-│  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐        │
-│  │  PREMIER    │  │   ELITE     │  │  SIGNATURE  │        │
-│  │    ⭐        │  │    ★        │  │    ★        │        │
-│  ├─────────────┤ ├─────────────┤ ├─────────────┤        │
-│  │ Dedicated   │ │ Senior      │ │ Core        │        │
-│  │ Advisor     │ │ Advisor     │ │ Advisor     │        │
-│  │ Monthly     │ │ Quarterly   │ │ Annual      │        │
-│  │ Strategic   │ │ Planning    │ │ Planning    │        │
-│  │ 24/7        │ │ Unlimited   │ │ Scheduled   │        │
-│  │ Access      │ │ Access      │ │ Access      │        │
-│  │ Family      │ │ Business    │ │ Standard    │        │
-│  │ Office      │ │ Planning    │ │ Planning    │        │
-│  │ $180-400K  │ │ $75-150K   │ │ $35-70K   │        │
-│  └─────────────┘  └─────────────┘  └─────────────┘        │
-│                                                             │
-│  28 Families      62 Families      300 Families            │
-└─────────────────────────────────────────────────────────────┘
-```
-
-**File Names:**
-- `pinnacle_service_tiers.png`
-- `pinnacle_tier_pricing.png`
-
----
-
-### 3. Revenue Growth Trajectory
-**Purpose:** Financial presentations, growth narrative
-**Format:** Growth trajectory visualization
+### 2. Founder Liberation Visual
+**Purpose:** Strategy documents, founder-focused materials
+**Format:** Time allocation visualization
 **Dimensions:** 1200x800px
 
 **Content:**
-- Revenue before ($18M)
-- Growth curve through engagement
-- Revenue after ($27M)
-- Projected Year 2 ($32M)
-
-**Layout:**
-```
-┌─────────────────────────────────────────────────────────────┐
-│              REVENUE GROWTH TRAJECTORY                      │
-│                                                             │
-│   $32M ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─     │
-│                            ╱                               │
-│   $27M ─ ─ ─ ─ ─ ─ ─ ─ ─╱                                 │
-│                      ╱                                     │
-│   $22.5M ─ ─ ─ ─ ─╱                                       │
-│               ╱                                            │
-│   $18M ─ ─ ─╱                                              │
-│         Start        Mid       End        Year 2           │
-│                                                             │
-│   50% Growth in 12 Months                                  │
-└─────────────────────────────────────────────────────────────┘
-```
+- Before: 85% billable, trapped
+- After: 30% billable, strategic focus
+- Before/after time allocation
 
 **File Names:**
-- `pinnacle_revenue_growth.png`
+- `elevate_founder_liberation.png`
 
 ---
 
-### 4. Advisor Productivity Improvement
-**Purpose:** Team presentations, HR reports
-**Format:** Before/after comparison
+### 3. Demand Generation Pipeline
+**Purpose:** Marketing materials, growth visualizations
+**Format:** Lead funnel visualization
 **Dimensions:** 1200x800px
 
 **Content:**
-- Revenue per advisor before/after
-- Capacity utilization improvement
-- Advisor satisfaction scores
-- Turnover rate reduction
+- Inbound leads: 0 → 85/month
+- MQL → SQL conversion
+- Partnership referrals growth
 
 **File Names:**
-- `pinnacle_advisor_metrics.png`
-
----
-
-### 5. Concentration Risk Reduction
-**Purpose:** Board presentations, PE materials
-**Format:** Risk reduction visualization
-**Dimensions:** 1200x800px
-
-**Content:**
-- Founder concentration before (60%)
-- Founder concentration after (31%)
-- Top advisor concentration improvement
-- Firm value protection
-
-**File Names:**
-- `pinnacle_concentration_risk.png`
+- `elevate_demand_generation.png`
 
 ---
 
 ## Platform-Specific Visuals
 
 ### LinkedIn Carousel (9 slides)
-**Slide 1:** Title — "How Pinnacle Advisory Grew Revenue 50%"
-**Slide 2:** The challenge — stuck at $18M, advisor capacity maxed
-**Slide 3:** What we found — time-for-dollars trap
-**Slide 4:** The approach — 4 workstream scaling framework
-**Slide 5:** Tiered service model
-**Slide 6:** Operating system and knowledge management
-**Slide 7:** Financial results
-**Slide 8:** New revenue streams
-**Slide 9:** $125K investment, $9M return + CTA
+**Slide 1:** Title — "How Elevate Consulting Freed the Founder"
+**Slide 2:** The challenge — 85% billable, no marketing, no methodology
+**Slide 3:** What we found — founder ceiling, no leverage
+**Slide 4:** The approach — 5 pillars of scaling
+**Slide 5:** Methodology & IP
+**Slide 6:** Service design & packaging
+**Slide 7:** Demand generation engine
+**Slide 8:** Results — all metrics
+**Slide 9:** $85K investment, 80% growth, founder freed + CTA
 
 **Format:** 1080x1350px per slide
-**File Name:** `pinnacle_linkedin_carousel.zip`
+**File Name:** `elevate_linkedin_carousel.zip`
 
 ---
 
@@ -193,84 +103,92 @@ This document outlines the visual assets required to bring the Pinnacle Advisory
 - Challenge statement
 - Approach summary
 - 6 key metrics
-- 50% revenue growth callout
+- Founder liberation callout
 - Testimonial quote
 - CTA
 
 **Format:** Letter size, PDF
-**File Name:** `pinnacle_onepager.pdf`
+**File Name:** `elevate_onepager.pdf`
 
 ---
 
-## Wealth Management-Specific Visual Elements
+## Consulting-Specific Visual Elements
 
-### Client Journey Transformation
+### Founder Liberation Theme
 **Visual Concept:**
-- Client experience metrics before/after
-- Retention, satisfaction, referral improvement
-- Client success story
+- From trapped to liberated
+- Time allocation transformation
+- Strategic focus emergence
+- Business vs. job distinction
+- Freedom and scalability
 
 **Key Metrics:**
-- Retention: 91% → 97%
-- NPS: 47 → 72
-- Referral rate: 12% → 34%
+- Billable time: 85% → 30%
+- Strategic time: 3% → 45%
+- Revenue: $8.2M → $14.8M
 
----
-
-### Tier Migration Visual
+### Business System Building
 **Visual Concept:**
-- Client distribution before tiering
-- Client distribution after tiering
-- Revenue per tier
+- Methodology multiplication
+- Demand generation engine
+- Talent development pipeline
+- Operational infrastructure
+- Scalable systems
 
 **Key Metrics:**
-- Premier: 0 → 28 clients ($285K avg)
-- Elite: 0 → 62 clients ($145K avg)
-- Signature: 340 → 300 clients ($52K avg)
+- Reusable frameworks: 0 → 24
+- Inbound leads: 0 → 85/mo
+- Consultant turnover: 28% → 12%
 
----
-
-### Growth Engine Components
+### Revenue Growth
 **Visual Concept:**
-- Referral program mechanics
-- Content strategy framework
-- Lead generation funnel
+- Plateau breaking
+- Growth trajectory
+- Multiple revenue streams
+- Leverage creation
+- Scalable model
 
 **Key Metrics:**
-- Referral rate: 12% → 34%
-- Inbound leads: 3 → 14/month
-- Lead-to-client: 15% → 22%
+- Revenue growth: 80%
+- New service line: $3.2M
+- Productized services: 8
 
 ---
 
 ## Photography/Imagery Direction
 
-### Financial Services Context
-- Professional office environment
-- Sophisticated wealth management setting
-- Client advisor meetings (professional, not stock-cheesy)
-- Premium, understated aesthetic
-- Modern financial services imagery
+### Consulting Context
+- Professional office environments
+- Thought leadership settings
+- Team collaboration
+- Strategic discussion
+- Business presentation
+- Leadership and freedom
 
 ### Stock Recommendations
-- Unsplash: "wealth management", "financial advisor", "office meeting", "business professionals"
-- Avoid: outdated finance imagery, overly aggressive trading floor imagery, cheesy handshakes
+- Unsplash: "business consulting", "professional woman", "leadership", "office meeting", "strategy", "growth", "freedom"
+- Avoid: generic stock business imagery, stressed entrepreneurs, overly casual settings
 
 ---
 
 ## Icon Library
 
-### Wealth Management Icons
-- Chart/metrics (performance)
-- Dollar/currency (revenue/wealth)
-- People/users (advisors/clients)
-- Building/office (firm)
-- Target (goals)
-- Shield (protection/security)
-- Growth arrow (investment returns)
-- Gear/cog (processes/systems)
-- Calendar (planning/reviews)
-- Star/premium (tiered service)
+### Service Business & Scaling Icons
+- Rocket (scaling, growth)
+- User/Persona (founder, consultant)
+- Clock/Time (liberation, billable time)
+- Dollar/Currency (revenue, margins)
+- Users/Team (consultants, hiring)
+- Gear/Cog (systems, operations)
+- Chart/Growth (demand generation)
+- Lightbulb (methodology, IP)
+- Package/Box (productized services)
+- Magnet (lead generation)
+- Layers (frameworks, methodology)
+- Target (goals, KPIs)
+- Star (quality, expertise)
+- Home/Building (business, scalable)
+- Puzzle (system, integration)
 
 **Format:** SVG or PNG at 64x64, 128x128, 256x256
 
@@ -279,17 +197,15 @@ This document outlines the visual assets required to bring the Pinnacle Advisory
 ## Brand Guidelines
 
 ### Color Palette
-- Primary: #1e3a5f (deep navy blue)
-- Secondary: #2d5a87 (medium blue)
-- Accent Gold: #d4af37 (premium accent)
-- Accent Green: #22c55e (improvement/success)
-- Background Light: #f8fafc (light gray)
-- Background Dark: #0f172a
-- Text Primary: #0f172a
-- Text Secondary: #475569
-- Premier Tier: #d4af37 (gold)
-- Elite Tier: #94a3b8 (silver)
-- Signature Tier: #78716c (bronze)
+- Primary: #7c3aed (purple/violet)
+- Secondary: #8b5cf6 (lighter purple)
+- Accent Green: #22c55e (growth, success)
+- Accent Blue: #3b82f6 (trust, consulting)
+- Alert Red: #ef4444 (before, problem)
+- Background Light: #faf5ff (light purple tint)
+- Background Dark: #1e1b4b
+- Text Primary: #1e1b4b
+- Text Secondary: #64748b
 
 ### Typography
 - Headlines: Inter Bold / Poppins Bold
@@ -298,11 +214,12 @@ This document outlines the visual assets required to bring the Pinnacle Advisory
 - Font sizes: 48px (hero), 32px (H1), 24px (H2), 18px (body), 14px (caption)
 
 ### Visual Style
-- Premium, sophisticated, trust-inspiring
+- Professional consulting aesthetic
+- Founder liberation theme
 - Data-forward storytelling
 - Before/after comparisons with clear improvement
-- Subtle financial services iconography
-- Professional, understated aesthetic
+- Scaling and growth iconography
+- Transformation narrative
 
 ---
 
@@ -311,24 +228,23 @@ This document outlines the visual assets required to bring the Pinnacle Advisory
 ```
 visuals/
 ├── hero/
-│   ├── pinnacle_scaling_dashboard_social.png
-│   ├── pinnacle_scaling_dashboard_presentation.png
-│   └── pinnacle_revenue_growth.png
+│   ├── elevate_dashboard_social.png
+│   ├── elevate_dashboard_presentation.png
+│   └── elevate_founder_liberation.png
 ├── diagrams/
-│   ├── pinnacle_service_tiers.png
-│   ├── pinnacle_tier_pricing.png
-│   ├── pinnacle_advisor_metrics.png
-│   ├── pinnacle_concentration_risk.png
-│   └── pinnacle_growth_engine.png
+│   ├── elevate_demand_generation.png
+│   ├── elevate_methodology_framework.png
+│   ├── elevate_talent_pipeline.png
+│   └── elevate_revenue_streams.png
 ├── social/
-│   ├── pinnacle_linkedin_carousel.zip
-│   └── pinnacle_twitter_card.png
+│   ├── elevate_linkedin_carousel.zip
+│   └── elevate_twitter_card.png
 ├── templates/
-│   ├── pinnacle_case_study_pitch.pptx
-│   ├── pinnacle_onepager.pdf
-│   └── pinnacle_proposal_deck.pptx
+│   ├── elevate_case_study_pitch.pptx
+│   ├── elevate_onepager.pdf
+│   └── elevate_scaling_deck.pptx
 └── icons/
-    └── wealth_management_icons.svg
+    └── consulting_scaling_icons.svg
 ```
 
 ---
@@ -336,15 +252,15 @@ visuals/
 ## Animation Guidelines
 
 ### Website Hero
-- Revenue number builds from $18M to $27M
-- Advisor productivity animates up
-- Referral rate increases
-- Subtle, professional transitions
+- Revenue builds from $8.2M to $14.8M
+- Billable time decreases from 85% to 30%
+- Consultants grow from 18 to 42
+- Subtle transformation transitions
 
 ### Slide Transitions
 - Fade transitions between slides
 - Charts animate on click
-- Growth trajectory builds over time
+- Founder liberation builds over time
 
 ### Social Media
 - Static optimized images

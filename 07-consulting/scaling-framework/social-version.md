@@ -1,33 +1,35 @@
-# Service Business Scaling Results: 50% Revenue Growth
+# Service Business Scaling: 80% Growth, Founder Freed
 
-💰 Pinnacle Advisory Group had $18M in revenue—but was stuck. Advisors at full capacity, founder 60% of revenue, no scalable systems.
+💼 Elevate Consulting was an $8.2M boutique consulting firm trapped in the founder ceiling. CEO involved in 85% of engagements, no marketing, 100% referrals, no methodology, no training program. Profitable but not scalable.
 
 Here's what we found:
 
-→ Revenue plateaued because every dollar required advisor hours
-→ Client service undifferentiated (everyone got same service)
-→ Knowledge locked in advisors' heads (key person risk)
-→ No systematic client acquisition (100% referral-dependent)
+→ Founder-dependent business model = growth limited to Sarah's capacity
+→ No methodology or reusable IP = every engagement custom-built
+→ 100% referrals = growth limited to Sarah's network
+→ No talent development = can't hire fast enough
+→ All time-and-materials = no leverage, no ceiling break
 
-What we fixed:
+What we built:
 
-→ Tiered service model (Premier/Elite/Signature)
-→ Built operating system for leverage (Orbit workflow)
-→ Created Pinnacle Method knowledge framework
-→ Launched systematic referral program
+→ Proprietary methodology (24 frameworks, reusable)
+→ Productized services (8 fixed-price packages)
+→ Demand generation engine (0 → 85 leads/month)
+→ Talent development system (career path, training, performance)
+→ HubSpot CRM + Mavenlink operations
 
-📊 Results:
-• Revenue: $18M → $27M (+50%)
-• Revenue per Advisor: $1.0M → $1.35M (+35%)
-• Client Referrals: 12% → 34% (+183%)
-• Advisor Turnover: 11% → 3% (-73%)
-• Founder Concentration: 60% → 31% (-48%)
-• New Service Lines: $3.68M in Year 1
+📊 Results (18 months):
+• Revenue: $8.2M → $14.8M (+80%)
+• Founder Billable Time: 85% → 30% (freed!)
+• Consultants: 18 → 42 (+133%)
+• Inbound Leads: 0 → 85/month
+• EBITDA Margin: 14.6% → 23%
+• New Service Line: $3.2M revenue
 
-💬 "Revenue grew 50% in year one. That's not incremental improvement—that's transformation."
+💬 "I was building a job, not a business. Cayson helped me build a business that could run without me. Revenue up 80%, my billable time down to 30%."
 
-— Marcus Wellington, Founder and CEO, Pinnacle Advisory Group
+— Sarah Mitchell, Founder and CEO, Elevate Consulting Group
 
-24-week engagement. $125K investment. 50% revenue growth.
+12-week engagement. $85K investment. 80% revenue growth.
 
-#servicebusiness #scaling #wealthmanagement #consulting #growth
+#consulting #servicesbusiness #scaling #founder #businesstransformation
