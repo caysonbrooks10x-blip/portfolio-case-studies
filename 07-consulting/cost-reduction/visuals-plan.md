@@ -1,177 +1,176 @@
-# Cost Reduction: Visual Assets Plan
+# Cost Reduction + Process Redesign: Visual Assets Plan
 
 ## Overview
 
-This document outlines the visual assets required to bring the Meridian Healthcare Systems cost reduction case study to life. The visual identity should convey healthcare professionalism, transformation magnitude, and patient-centered improvement.
+This document outlines the visual assets required to bring the Meridian Healthcare cost reduction and process redesign case study to life. The visual identity should convey healthcare transformation, operational excellence, and quality improvement alongside cost savings.
 
 ---
 
 ## Primary Visual Assets
 
-### 1. Financial Transformation Dashboard
+### 1. Healthcare Transformation Dashboard
 **Purpose:** Hero visual for website, proposals, social media
 **Format:** Data visualization / Infographic
 **Dimensions:** 1200x628px (social), 1920x1080px (presentation)
 
 **Content:**
-- 6 key financial metrics with before/after comparison
-- Operating margin transformation (6% → 18%)
-- $4.7M cost savings callout
-- 12-point margin improvement visual
-
-**Design Direction:**
-- Professional healthcare aesthetic
-- Blue/teal primary palette with green for improvement
-- Clean data visualization with bold numbers
-- Medical cross or healthcare iconography subtly incorporated
-
-**Layout:**
-```
-┌─────────────────────────────────────────────────────────────┐
-│       MERIDIAN HEALTHCARE: COST TRANSFORMATION             │
-│                                                             │
-│  ┌───────────────┐  ┌───────────────┐  ┌───────────────┐  │
-│  │ OPERATING    │  │   ANNUAL     │  │   DENIAL     │  │
-│  │ MARGIN       │  │   SAVINGS    │  │   RATE       │  │
-│  │   6%→18%    │  │   $4.7M     │  │   18%→7%    │  │
-│  │  +12 pts    │  │             │  │    -61%     │  │
-│  └───────────────┘  └───────────────┘  └───────────────┘  │
-│                                                             │
-│  ┌───────────────┐  ┌───────────────┐  ┌───────────────┐  │
-│  │   WAIT TIME │  │   NO-SHOW   │  │  PATIENT    │  │
-│  │   45→18 min │  │   23%→9%   │  │  SATISFACTION│  │
-│  │     -60%     │  │    -61%     │  │   3.2→4.6   │  │
-│  └───────────────┘  └───────────────┘  └───────────────┘  │
-│                                                             │
-│  16-Week Engagement | $168K Investment | 90-Day Payback     │
-└─────────────────────────────────────────────────────────────┘
-```
-
-**File Names:**
-- `meridian_cost_dashboard_social.png`
-- `meridian_cost_dashboard_presentation.png`
-
----
-
-### 2. 4-Workstream Transformation Model
-**Purpose:** Strategy documents, proposals, presentations
-**Format:** Framework diagram / Workstream visual
-**Dimensions:** 1920x1080px (presentation), 1200x800px (document)
-
-**Content:**
-- 4 workstreams: Revenue Cycle, Staffing, No-Show Reduction, EHR
-- Key activities under each
-- Parallel implementation approach
-- Timeline visualization
+- 6 key metrics with before/after comparison
+- Operating margin transformation
+- Cost savings breakdown
+- Quality improvement indicators
 
 **Design Direction:**
 - Healthcare professional aesthetic
-- Color-coded workstreams (blue, green, purple, orange)
-- Icons for each workstream
-- Modern, clean typography
+- Teal/blue primary palette with green for improvement
+- Clean data visualization with bold numbers
+- Healthcare credibility with transformation energy
 
 **Layout:**
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│              4-WORKSTREAM TRANSFORMATION                    │
+│       MERIDIAN HEALTHCARE: COST REDESIGN TRANSFORMATION  │
 │                                                             │
-│  ┌─────────────┐ ┌─────────────┐ ┌─────────────┐ ┌──────┐│
-│  │  REVENUE   │ │  STAFFING  │ │  NO-SHOW   │ │ EHR  ││
-│  │   CYCLE    │ │ OPTIMIZE   │ │ REDUCTION  │ │OPTIMIZE│
-│  │     💰      │ │     👥      │ │     📅      │ │   ⚙️   ││
-│  ├─────────────┤ ├─────────────┤ ├─────────────┤ ├──────┤│
-│  │ Waystar    │ │ Evidence-  │ │ Multi-chan  │ │Feature│
-│  │ Platform   │ │ Based Model│ │ reminders   │ │enable │
-│  │ Coding     │ │ Float Pools│ │ Wait-list   │ │Clinical│
-│  │ Audit      │ │ Product.   │ │ mgmt        │ │support│
-│  │ Denial Mgmt│ │ Track.     │ │ Same-day    │ │       │
-│  └─────────────┘ └─────────────┘ └─────────────┘ └──────┘│
+│  ┌───────────────┐  ┌───────────────┐  ┌───────────────┐  │
+│  │  OPERATING   │  │   ANNUAL     │  │   SUPPLY     │  │
+│  │  MARGIN      │  │   SAVINGS    │  │   CHAIN      │  │
+│  │  0.8%→4.1% │  │   $47M      │  │   -22%      │  │
+│  │  +3.3 PTS   │  │  Exceeded!   │  │             │  │
+│  └───────────────┘  └───────────────┘  └───────────────┘  │
 │                                                             │
-│  Parallel Implementation | 16-Week Timeline                 │
+│  ┌───────────────┐  ┌───────────────┐  ┌───────────────┐  │
+│  │    NURSE     │  │   PATIENT   │  │  ADMIN FTEs │  │
+│  │   TURNOVER   │  │ SATISFACTION│  │   REDUCED   │  │
+│  │  24%→14%  │  │ +8 PCT PTS │  │   1,840→1,340 │ │
+│  │    -42%     │  │  Improved!   │  │    -500      │  │
+│  └───────────────┘  └───────────────┘  └───────────────┘  │
+│                                                             │
+│  20-Week Engagement | $420K Investment | $47M Annual Savings│
 └─────────────────────────────────────────────────────────────┘
 ```
 
 **File Names:**
-- `meridian_4_workstreams.png`
-- `meridian_transformation_model.png`
+- `meridian_dashboard_social.png`
+- `meridian_dashboard_presentation.png`
 
 ---
 
-### 3. Margin Transformation Visual
-**Purpose:** Financial presentations, PE investor materials
-**Format:** Transformation visualization
+### 2. Cost Savings Breakdown
+**Purpose:** Financial presentations, board materials
+**Format:** Waterfall chart / Cost breakdown
 **Dimensions:** 1200x800px
 
 **Content:**
-- Operating margin before (6%)
-- Improvement journey (12 points)
-- Operating margin after (18%)
-- Industry benchmark comparison
+- Supply chain savings ($114M)
+- Administrative savings ($56M)
+- Clinical productivity savings ($13M)
+- Total: $183M across all categories
 
 **Layout:**
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│              MARGIN TRANSFORMATION                          │
+│              ANNUAL COST SAVINGS: $47M+                     │
 │                                                             │
-│   6%                     +12 pts                    18%   │
-│   ──────────────→─────────────────────────────→─────────  │
-│   Before                 Improvement              After     │
+│  Supply Chain Redesign                                      │
+│  ████████████████████████████████ $18M                       │
+│  (Vendor rationalization, contract optimization)            │
 │                                                             │
-│   Industry Benchmark: 12-15% ✓                            │
+│  Administrative Redesign                                    │
+│  ████████████████████████████████ $16M                       │
+│  (Shared services, automation, FTE optimization)            │
 │                                                             │
-│   $4.7M Annual Savings | $8.8M Revenue Improvement         │
+│  Clinical Workflow Redesign                                 │
+│  ████████████ $13M                                          │
+│  (Documentation, supply management, scheduling)              │
+│                                                             │
+│  ───────────────────────────────────────────────────────   │
+│  TOTAL: $47M sustainable annual savings                    │
+│  (Board mandate: $40M — exceeded by 17%)                   │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 **File Names:**
-- `meridian_margin_transformation.png`
+- `meridian_cost_savings.png`
+- `meridian_savings_breakdown.png`
 
 ---
 
-### 4. No-Show Reduction Journey
-**Purpose:** Patient experience presentations, operational reports
-**Format:** Before/after / Journey visualization
+### 3. Clinical Quality Transformation
+**Purpose:** Quality presentations, clinical stakeholder materials
+**Format:** Improvement visualization
 **Dimensions:** 1200x800px
 
 **Content:**
-- No-show rate before (23%)
-- Interventions that drove improvement
-- No-show rate after (9%)
-- Financial impact
+- Patient satisfaction improvement (HCAHPS)
+- Clinical quality improvement (CMS)
+- Medication error reduction
+- Time with patients improvement
 
 **File Names:**
-- `meridian_noshow_reduction.png`
+- `meridian_quality_improvement.png`
 
 ---
 
-### 5. Claims Denial Waterfall
-**Purpose:** Revenue cycle presentations, financial reports
-**Format:** Waterfall chart / Breakdown
+### 4. Supply Chain Transformation
+**Purpose:** Operations presentations, supply chain materials
+**Format:** Consolidation visualization
 **Dimensions:** 1200x800px
 
 **Content:**
-- Denial rate before (18%)
-- Improvement by category
-- Denial rate after (7%)
-- Financial impact ($ savings)
+- Vendor reduction: 47 → 18
+- Pharmaceutical distributors: 12 → 3
+- Inventory improvement
+- Stockout reduction
+
+**Layout:**
+```
+┌─────────────────────────────────────────────────────────────┐
+│            SUPPLY CHAIN TRANSFORMATION                       │
+│                                                             │
+│  Vendors: 47 → 18 (-62%)                                   │
+│  ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  │
+│                                                             │
+│  Pharma Distributors: 12 → 3 (-75%)                         │
+│  ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  │
+│                                                             │
+│  Inventory Turnover: 4.2x → 8.8x (+110%)                   │
+│  Stockout Rate: 4.2% → 0.8% (-81%)                        │
+│  Contract Compliance: 62% → 94% (+32 pts)                   │
+└─────────────────────────────────────────────────────────────┘
+```
 
 **File Names:**
-- `meridian_denial_reduction.png`
+- `meridian_supply_chain.png`
+
+---
+
+### 5. Clinical Workforce Transformation
+**Purpose:** HR presentations, nursing stakeholder materials
+**Format:** Before/after comparison
+**Dimensions:** 1200x800px
+
+**Content:**
+- Time allocation improvement
+- Nurse turnover reduction
+- Travel nurse spend reduction
+- Burnout score improvement
+
+**File Names:**
+- `meridian_nursing_workforce.png`
 
 ---
 
 ## Platform-Specific Visuals
 
 ### LinkedIn Carousel (9 slides)
-**Slide 1:** Title — "How Meridian Cut Costs AND Improved Patient Care"
-**Slide 2:** The challenge — 6% margin, half the industry benchmark
-**Slide 3:** What we found — 4 major cost drivers
-**Slide 4:** The approach — 4 workstream transformation
-**Slide 5:** Revenue cycle redesign
-**Slide 6:** Staffing and no-show solutions
-**Slide 7:** Financial results
-**Slide 8:** Patient experience improvement
-**Slide 9:** $4.7M impact + CTA
+**Slide 1:** Title — "How Meridian Healthcare Saved $47M Without Cutting Care"
+**Slide 2:** The challenge — margin compressing, board mandate, previous failures
+**Slide 3:** What we found — supply chain fragmentation, admin bloat, clinical burnout
+**Slide 4:** The approach — 4 workstreams, 20 weeks, process redesign
+**Slide 5:** Supply chain redesign
+**Slide 6:** Administrative redesign
+**Slide 7:** Clinical workflow redesign
+**Slide 8:** Results — quality improved alongside costs reduced
+**Slide 9:** $420K investment, $47M savings, +3.3 pts margin + CTA
 
 **Format:** 1080x1350px per slide
 **File Name:** `meridian_linkedin_carousel.zip`
@@ -181,11 +180,11 @@ This document outlines the visual assets required to bring the Meridian Healthca
 ### One-Pager PDF
 **Single Page:** High-impact visual summary
 **Content:**
-- Healthcare organization name and sector
+- Company name and sector
 - Challenge statement
 - Approach summary
 - 6 key metrics
-- $4.7M cost savings callout
+- Quality improvement callout
 - Testimonial quote
 - CTA
 
@@ -196,73 +195,81 @@ This document outlines the visual assets required to bring the Meridian Healthca
 
 ## Healthcare-Specific Visual Elements
 
-### Patient Journey Transformation
+### Clinical Credibility
 **Visual Concept:**
-- Patient experience metrics before/after
-- Wait time, satisfaction, no-show improvement
-- Patient-centered improvement story
+- Healthcare professional aesthetic
+- Quality metrics alongside financial metrics
+- Patient-centered transformation
+- Clinical workflow improvement
+- Evidence-based approach
 
 **Key Metrics:**
-- Wait time: 45 min → 18 min
-- Satisfaction: 3.2 → 4.6/5
-- NPS: 23 → 61
+- Patient satisfaction +8 percentile points
+- Nurse turnover 24% → 14%
+- Time with patients 52% → 68%
 
----
-
-### Revenue Cycle Transformation
+### Financial Transformation
 **Visual Concept:**
-- Claims flow visualization
-- Error rates before/after
-- Financial impact of improvements
+- Cost reduction alongside quality improvement
+- Operating margin improvement
+- Sustainable savings narrative
+- ROI visualization
+- Board-level impact
 
 **Key Metrics:**
-- Denial rate: 18% → 7%
-- Clean claim rate: 72% → 94%
-- Days in A/R: 48 → 29
+- $47M annual savings
+- Operating margin +3.3 points
+- $420K investment, 111x ROI
 
----
-
-### Staff Optimization Impact
+### Staff Empowerment
 **Visual Concept:**
-- Utilization improvement
-- Productivity gains
-- Employee engagement increase
+- Before: burnout, administrative burden
+- After: engagement, focus on patient care
+- Employee satisfaction growth
+- Reduced turnover
+- Empowered clinical staff
 
 **Key Metrics:**
-- Utilization: 62% → 81%
-- Productivity: $98K → $127K
-- Turnover: 22% → 11%
+- Burnout score +29%
+- Employee engagement +28%
+- Voluntary turnover -7 points
 
 ---
 
 ## Photography/Imagery Direction
 
 ### Healthcare Context
-- Modern outpatient clinic environment
-- Professional staff in clinical settings
-- Patient-friendly waiting areas
-- Technology-enabled care delivery
-- Clean, modern healthcare aesthetic
+- Modern hospital environments
+- Clinical staff interaction
+- Technology-enabled healthcare
+- Data-driven decision making
+- Quality improvement initiatives
+- Administrative efficiency
 
 ### Stock Recommendations
-- Unsplash: "healthcare clinic", "medical office", "healthcare workers", "patient care"
-- Avoid: outdated medical imagery, overly clinical or sterile images, stock cheese
+- Unsplash: "hospital", "healthcare", "nurse", "medical technology", "hospital room", "healthcare workers", "hospital hallway"
+- Avoid: outdated medical imagery, overly clinical sterile images, generic stock healthcare, patients in distress
 
 ---
 
 ## Icon Library
 
-### Healthcare Operations Icons
-- Medical cross (healthcare)
-- Stethoscope (clinical)
-- Dollar sign (cost/financial)
-- Chart/metrics (performance)
-- Calendar/clock (scheduling/no-shows)
-- People/users (staff/patients)
-- Gear/cog (processes)
-- Checkmark (quality/completion)
-- Alert/warning (denials/issues)
-- Building (facility/clinic)
+### Healthcare Icons
+- Heart/heartbeat (patient care, clinical)
+- Hospital (health system, facilities)
+- Clipboard/chart (documentation, EHR)
+- Pill/medication (pharmacy, BCMA)
+- Chart/metrics (quality, outcomes)
+- Dollar/currency (cost, savings)
+- People/users (staff, patients)
+- Gear/cog (processes, optimization)
+- Calendar/clock (time, efficiency)
+- Target (quality goals)
+- Shield (patient safety)
+- Rocket (transformation, improvement)
+- Layers/stack (standardization)
+- Truck (supply chain)
+- Building (administration)
 
 **Format:** SVG or PNG at 64x64, 128x128, 256x256
 
@@ -272,11 +279,10 @@ This document outlines the visual assets required to bring the Meridian Healthca
 
 ### Color Palette
 - Primary: #0891b2 (teal/cyan)
-- Secondary: #1e3a5f (dark blue)
-- Accent: #22c55e (improvement green)
-- Success: #10b981 (green)
-- Warning: #f59e0b (amber)
-- Alert: #ef4444 (red for before/negative)
+- Secondary: #0e7490 (darker teal)
+- Accent Green: #22c55e (improvement, savings)
+- Accent Blue: #3b82f6 (quality, trust)
+- Alert Red: #ef4444 (before, problem)
 - Background Light: #f0fdfa (light teal tint)
 - Background Dark: #0f172a
 - Text Primary: #0f172a
@@ -289,11 +295,11 @@ This document outlines the visual assets required to bring the Meridian Healthca
 - Font sizes: 48px (hero), 32px (H1), 24px (H2), 18px (body), 14px (caption)
 
 ### Visual Style
-- Clean, professional, healthcare-appropriate
+- Healthcare professional aesthetic
+- Clinical credibility with transformation energy
 - Data-forward storytelling
-- Before/after comparisons with clear improvement
-- Subtle healthcare iconography
-- Patient-centered improvement narrative
+- Before/after comparisons with quality narrative
+- Healthcare and efficiency iconography
 
 ---
 
@@ -302,23 +308,23 @@ This document outlines the visual assets required to bring the Meridian Healthca
 ```
 visuals/
 ├── hero/
-│   ├── meridian_cost_dashboard_social.png
-│   ├── meridian_cost_dashboard_presentation.png
-│   └── meridian_margin_transformation.png
+│   ├── meridian_dashboard_social.png
+│   ├── meridian_dashboard_presentation.png
+│   └── meridian_cost_savings.png
 ├── diagrams/
-│   ├── meridian_4_workstreams.png
-│   ├── meridian_noshow_reduction.png
-│   ├── meridian_denial_reduction.png
-│   └── meridian_patient_journey.png
+│   ├── meridian_supply_chain.png
+│   ├── meridian_quality_improvement.png
+│   ├── meridian_nursing_workforce.png
+│   └── meridian_admin_transformation.png
 ├── social/
 │   ├── meridian_linkedin_carousel.zip
 │   └── meridian_twitter_card.png
 ├── templates/
 │   ├── meridian_case_study_pitch.pptx
 │   ├── meridian_onepager.pdf
-│   └── meridian_proposal_deck.pptx
+│   └── meridian_board_deck.pptx
 └── icons/
-    └── healthcare_ops_icons.svg
+    └── healthcare_cost_icons.svg
 ```
 
 ---
@@ -326,14 +332,16 @@ visuals/
 ## Animation Guidelines
 
 ### Website Hero
-- Margin percentage builds from 6% to 18%
-- Savings counter animates to $4.7M
-- Subtle pulse on improvement metrics
+- Operating margin builds from 0.8% to 4.1%
+- Savings counter animates to $47M
+- Quality metrics improve alongside
+- Subtle healthcare transitions
 
 ### Slide Transitions
 - Fade transitions between slides
 - Charts animate on click
-- No distracting effects
+- Savings build over time
+- Quality improvement visualizes
 
 ### Social Media
 - Static optimized images

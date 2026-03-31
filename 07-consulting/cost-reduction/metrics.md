@@ -1,369 +1,361 @@
-# Cost Reduction: Metrics Documentation
+# Cost Reduction + Process Redesign: Metrics Reference
 
-## Baseline Metrics (Pre-Engagement)
-
-### Organization Overview
-| Metric | Value | Timeframe |
-|--------|-------|-----------|
-| Clinics | 14 | Outpatient network |
-| Employees | 680 | Full-time |
-| Annual Revenue | $78M | FY 2023 |
-| Operating Margin | 6% | Industry: 12-15% |
-| Operating Income | -$4.2M | Loss |
-| Location | Pacific Northwest | WA, OR, ID |
-
-### Financial Metrics
-| Metric | Value | Timeframe |
-|--------|-------|-----------|
-| Operating Margin | 6% | FY 2023 |
-| Operating Income | -$4.2M | Annual loss |
-| Revenue | $78M | Gross revenue |
-| Net Revenue | $72.4M | After adjustments |
-| Cost of Services | $67.8M | 87% of revenue |
-| Administrative Costs | $12.4M | 18% of revenue |
-| Revenue Cycle Costs | $3.8M | Outsourced RCM |
-| Supply Costs | $8.4M | Medical supplies |
-
-### Revenue Cycle Metrics
-| Metric | Value | Timeframe |
-|--------|-------|-----------|
-| Claims Denial Rate | 18% | Industry: 8-10% |
-| Claims Error Rate | 14% | Industry: 5-7% |
-| Clean Claim Rate | 72% | Industry: 90%+ |
-| First-Pass Resolution | 64% | Industry: 85%+ |
-| Days in A/R | 48 days | Industry: <35 |
-| Unrecovered Denials | $800K | Annual |
-| Denial Rework Cost | $2.1M | Labor cost |
-| Days to Payment | 34 days | Average |
-
-### Patient Experience Metrics
-| Metric | Value | Timeframe |
-|--------|-------|-----------|
-| Patient Satisfaction | 3.2/5 | Survey score |
-| Patient NPS | 23 | Q4 2023 |
-| Average Wait Time | 45 min | Waiting room |
-| No-Show Rate | 23% | Appointment |
-| Complaint Rate | 8.2% | Of visits |
-| Cancellation Rate | 11% | Of scheduled |
-| Patient Volume | 45,000 | Annual visits |
-
-### Operational Efficiency
-| Metric | Value | Timeframe |
-|--------|-------|-----------|
-| Staff Utilization | 62% | Clinical staff |
-| Throughput | 312 visits/day | Network total |
-| Scheduling Accuracy | 71% | Of appointments |
-| EHR Utilization | 40% | Feature usage |
-| Inventory Turns | 3.2/year | Medical supplies |
-| Supply Waste | 12% | Of supply costs |
-
-### Staff Metrics
-| Metric | Value | Timeframe |
-|--------|-------|-----------|
-| Employee Engagement | 3.1/5 | Annual survey |
-| Voluntary Turnover | 22% | Annual |
-| Training Completion | 34% | Required training |
-| Productivity/Staff | $98K | Revenue per FTE |
-| Admin Staffing | 2.1 FTE/1000 visits | Range: 1.4-2.8 |
+## Meridian Healthcare — Key Performance Indicators
 
 ---
 
-## Post-Engagement Metrics (6 Months After Completion)
+## 1. Pre-Engagement Baseline Metrics
 
-### Financial Metrics
-| Metric | Value | Change | % Change |
-|--------|-------|--------|----------|
-| Operating Margin | 18% | +12 pts | +200% |
-| Operating Income | +$9.8M | +$14M | Turnaround |
-| Annual Cost Savings | $4.7M | New | — |
-| Revenue Cycle Costs | $1.9M | -$1.9M | -50% |
-| Supply Costs | $6.9M | -$1.5M | -18% |
-| Administrative Labor | $9.8M | -$2.6M | -21% |
-| Net Revenue | $81.2M | +$8.8M | +12% |
-
-### Revenue Cycle Metrics
-| Metric | Value | Change | % Change |
-|--------|-------|--------|----------|
-| Claims Denial Rate | 7% | -11 pts | -61% |
-| Claims Error Rate | 4% | -10 pts | -71% |
-| Clean Claim Rate | 94% | +22 pts | +31% |
-| First-Pass Resolution | 91% | +27 pts | +42% |
-| Days in A/R | 29 days | -19 days | -40% |
-| Recovery from Denials | $2.1M | +$1.3M | +163% |
-| Denial Rework Cost | $340K | -$1.76M | -84% |
-| Days to Payment | 22 days | -12 days | -35% |
-
-### Patient Experience Metrics
-| Metric | Value | Change | % Change |
-|--------|-------|--------|----------|
-| Patient Satisfaction | 4.6/5 | +1.4 pts | +44% |
-| Patient NPS | 61 | +38 pts | +165% |
-| Average Wait Time | 18 min | -27 min | -60% |
-| No-Show Rate | 9% | -14 pts | -61% |
-| Complaint Rate | 1.8% | -6.4 pts | -78% |
-| Cancellation Rate | 5% | -6 pts | -55% |
-| Patient Volume | 52,000 | +7,000 | +16% |
-
-### Operational Efficiency
-| Metric | Value | Change | % Change |
-|--------|-------|--------|----------|
-| Staff Utilization | 81% | +19 pts | +31% |
-| Throughput | 418 visits/day | +106 visits | +34% |
-| Scheduling Accuracy | 94% | +23 pts | +32% |
-| EHR Utilization | 78% | +38 pts | +95% |
-| Inventory Turns | 6.8/year | +3.6 | +113% |
-| Supply Waste | 4% | -8 pts | -67% |
-
-### Staff Metrics
-| Metric | Value | Change | % Change |
-|--------|-------|--------|----------|
-| Employee Engagement | 4.0/5 | +0.9 pts | +29% |
-| Voluntary Turnover | 11% | -11 pts | -50% |
-| Training Completion | 91% | +57 pts | +168% |
-| Productivity/Staff | $127K | +$29K | +30% |
-| Admin Staffing | 1.6 FTE/1000 visits | -0.5 pts | -24% |
-
----
-
-## Cost Savings Breakdown
-
-### Annual Cost Savings (Verified)
-| Category | Savings | Methodology |
-|----------|---------|--------------|
-| Revenue Cycle Costs | $1.9M | Insourced vs. outsourced |
-| Claims Rework Labor | $1.76M | Error reduction |
-| Supply Costs | $1.5M | Volume optimization + waste reduction |
-| Administrative Labor | $2.6M | Staffing model optimization |
-| EHR Optimization Savings | $800K | Feature utilization |
-| Scheduling Efficiency | $340K | No-show reduction |
-| Inventory Carrying | $180K | Turns improvement |
-| **Total Annual Savings** | **$4.7M** | — |
-
-### One-Time Cost Avoidance
-| Category | Amount | Description |
-|----------|--------|-------------|
-| RCM Vendor Penalty | $420K | Early termination fee avoided |
-| New RCM Platform | $180K | Implementation costs offset |
-| **Total One-Time** | **$600K** | — |
-
----
-
-## Revenue Improvement Breakdown
-
-### Net Revenue Impact
-| Category | Improvement | Methodology |
-|----------|-------------|--------------|
-| Clean Claim Rate | +$2.1M | Fewer denials, faster payment |
-| First-Pass Resolution | +$1.8M | Faster cash flow |
-| Denial Recovery | +$1.3M | Better appeals process |
-| Reduced No-Shows | +$2.4M | Additional visits |
-| Patient Volume | +$1.2M | Capacity optimization |
-| **Total Revenue Impact** | **$8.8M** | — |
-
----
-
-## Financial Impact Summary
-
-### Investment vs. Return
-| Item | Value |
-|------|-------|
-| Engagement Investment | $168,000 |
-| Annual Cost Savings | $4,700,000 |
-| First-Year Revenue Improvement | $8,800,000 |
-| **Total First-Year Impact** | **$13,332,000** |
-| **ROI** | **7,936%** |
-| **Payback Period** | 90 days |
-
-### Margin Transformation
-| Metric | Before | After | Change |
-|--------|--------|-------|--------|
-| Operating Margin | 6% | 18% | +12 pts |
-| Operating Income | -$4.2M | +$9.8M | +$14M |
-| Net Revenue | $72.4M | $81.2M | +$8.8M |
-
----
-
-## Staffing Optimization Details
-
-### Before vs. After Staffing
-| Role | Before FTE | After FTE | Change |
-|------|------------|-----------|--------|
-| Administrative | 142 | 98 | -31% |
-| Clinical Staff | 380 | 395 | +4% |
-| Support | 89 | 82 | -8% |
-| Management | 42 | 38 | -10% |
-| Revenue Cycle | 27 | 24 | -11% |
-| **Total** | **680** | **637** | **-6%** |
-
-### Productivity Improvement
-| Location | Before Visits/FTE | After Visits/FTE | Improvement |
-|----------|-------------------|------------------|-------------|
-| Clinic A (Tacoma) | 485 | 612 | +26% |
-| Clinic B (Olympia) | 512 | 634 | +24% |
-| Clinic C (Seattle) | 534 | 689 | +29% |
-| Clinic D (Portland) | 498 | 621 | +25% |
-| Network Average | 512 | 642 | +25% |
-
----
-
-## No-Show Reduction Details
-
-### Intervention Components
-| Intervention | Implementation | Impact |
-|--------------|----------------|--------|
-| Appointment Reminders | 48hr, 24hr, 2hr SMS + voice | -8% no-shows |
-| Wait-List Management | Automated list, 24hr notice | -4% no-shows |
-| Same-Day Scheduling | Open slots filled by wait-list | -3% no-shows |
-| No-Show Policy | Consistent enforcement | -2% no-shows |
-| Patient Engagement | Education, convenience | -2% no-shows |
-| **Total** | — | **-14 pts** |
-
-### No-Show Financial Impact
+### Organization Baseline
 | Metric | Value |
 |--------|-------|
-| No-Shows Prevented (annual) | 4,200 |
-| Revenue per Visit | $340 |
-| Annual Revenue Recovered | $1.43M |
-| Staff Time Saved | 1,800 hours |
-| Cost of Interventions | $85K |
-| **Net Benefit** | **$1.34M** |
+| Annual Revenue | $1.8B |
+| Operating Margin | 0.8% |
+| Operating Income | $14.4M |
+| Cash Reserves | 45 days |
+| Hospitals | 8 |
+| Beds (Total) | 2,400 |
+| Outpatient Clinics | 24 |
+| Employees | 12,000 |
+| Years in Operation | 72 |
+
+### Financial Baseline
+| Metric | Value |
+|--------|-------|
+| Total Expenses | $1.786B |
+| Supply Chain Costs | $520M |
+| Labor Costs (Non-Clinical) | $180M |
+| Administrative Overhead | $140M |
+| Supply Chain Cost (% Revenue) | 28.9% |
+| Administrative Cost per FTE | $98K |
+| Cost per Patient Day | $4,200 |
+
+### Supply Chain Baseline
+| Metric | Value |
+|--------|-------|
+| Vendor Count | 47 |
+| Pharmaceutical Distributors | 12 |
+| Formulary Standardization | 34% |
+| Contract Compliance | 62% |
+| Inventory Turnover | 4.2x |
+| Stockout Rate | 4.2% |
+| Supply Cost per Patient | $8,400 |
+| GPO Contract Utilization | 68% |
+
+### Administrative Baseline
+| Metric | Value |
+|--------|-------|
+| Administrative FTEs | 1,840 |
+| HR Systems | 12 |
+| Payroll Systems | 8 |
+| HR Transaction Time | 12 min |
+| Payroll Processing Time | 6 days |
+| RPA Transactions | 0 |
+| Admin FTEs per 100 Beds | 76.7 |
+| Administrative Cost (% Revenue) | 7.8% |
+
+### Clinical Workforce Baseline
+| Metric | Value |
+|--------|-------|
+| Nurse Turnover Rate | 24% |
+| Travel Nurse Spend | $28M |
+| Time on Documentation | 4.2 hrs/shift |
+| Time on Supply Mgmt | 1.8 hrs/shift |
+| Time with Patients | 52% |
+| Burnout Score (Maslach) | 2.8/5.0 |
+| Nurse Satisfaction | 3.4/5.0 |
+| Voluntary Turnover (All) | 18% |
 
 ---
 
-## EHR Optimization Details
+## 2. Post-Engagement Financial Metrics
 
-### Feature Utilization Before/After
-| Feature | Before | After | Savings |
-|---------|--------|-------|---------|
-| Eligibility Verification | 34% | 94% | $180K |
-| Clinical Decision Support | 12% | 78% | $210K |
-| Order Sets | 28% | 82% | $145K |
-| Inventory Management | 0% | 71% | $120K |
-| Reporting/Analytics | 45% | 89% | $95K |
-| Patient Portal | 22% | 68% | $50K |
-
-### EHR-Related Savings
-| Category | Amount |
-|----------|--------|
-| Eligibility Check Errors | $180K |
-| Duplicate Testing | $145K |
-| Supply Waste | $120K |
-| Documentation Time | $210K |
-| Reporting Labor | $95K |
-| **Total** | **$750K** |
-
----
-
-## Benchmark Comparison
-
-### Industry Benchmark Comparison
-| Metric | Meridian Before | Industry Median | Meridian After |
-|--------|-----------------|-----------------|----------------|
-| Operating Margin | 6% | 12% | 18% |
-| Claims Denial Rate | 18% | 9% | 7% |
-| Clean Claim Rate | 72% | 88% | 94% |
-| Days in A/R | 48 | 36 | 29 |
-| No-Show Rate | 23% | 15% | 9% |
-| Wait Time | 45 min | 25 min | 18 min |
-| Patient Satisfaction | 3.2/5 | 4.0/5 | 4.6/5 |
-| Staff Utilization | 62% | 72% | 81% |
-
-### Performance Ranking Improvement
-| Metric | Before Rank | After Rank |
-|--------|-------------|------------|
-| Operating Margin | Bottom 15% | Top 20% |
-| Claims Denial | Bottom 10% | Top 30% |
-| Patient Satisfaction | Bottom 20% | Top 15% |
-| No-Show Rate | Bottom 10% | Top 25% |
-| Staff Utilization | Bottom 25% | Top 30% |
-
----
-
-## Patient Satisfaction Details
-
-### Survey Results
-| Question | Before | After | Change |
-|----------|--------|-------|--------|
-| Overall satisfaction | 3.2/5 | 4.6/5 | +44% |
-| Wait time satisfaction | 2.4/5 | 4.3/5 | +79% |
-| Staff friendliness | 4.1/5 | 4.7/5 | +15% |
-| Clarity of communication | 3.5/5 | 4.5/5 | +29% |
-| Billing experience | 2.8/5 | 4.2/5 | +50% |
-| Would recommend | 34% | 78% | +129% |
-
-### Net Promoter Score Trend
-| Quarter | NPS Score | Response Rate |
-|---------|-----------|---------------|
-| Q4 2023 (Pre) | 23 | 54% |
-| Q1 2024 (Mid) | 41 | 58% |
-| Q2 2024 (Post) | 56 | 62% |
-| Q3 2024 (Follow-up) | 61 | 67% |
-
----
-
-## Staff Engagement Details
-
-### Survey Results
-| Question | Before | After | Change |
-|----------|--------|-------|--------|
-| Overall engagement | 3.1/5 | 4.0/5 | +29% |
-| Workload manageability | 2.6/5 | 3.8/5 | +46% |
-| Tools and resources | 2.4/5 | 4.1/5 | +71% |
-| Leadership communication | 2.9/5 | 3.9/5 | +34% |
-| Career development | 2.7/5 | 3.6/5 | +33% |
-| Would recommend employer | 31% | 67% | +116% |
-
-### Turnover Analysis
+### Financial Transformation
 | Metric | Before | After | Change |
 |--------|--------|-------|--------|
-| Voluntary Turnover | 22% | 11% | -50% |
-| Involuntary Turnover | 5% | 3% | -40% |
-| Total Turnover | 27% | 14% | -48% |
-| Clinical Turnover | 18% | 12% | -33% |
-| Admin Turnover | 31% | 14% | -55% |
+| Operating Margin | 0.8% | 4.1% | +3.3 pts |
+| Operating Income | $14.4M | $73.8M | +412% |
+| Supply Chain Costs | $520M | $406M | -22% |
+| Administrative Overhead | $180M | $124M | -31% |
+| Administrative FTEs | 1,840 | 1,340 | -500 FTEs |
+| Cost per Patient Day | $4,200 | $3,680 | -12% |
+
+### Cost Savings Breakdown
+| Category | Before | After | Annual Savings |
+|----------|--------|-------|----------------|
+| Supply Chain (vendors, contracts, inventory) | $520M | $406M | $114M |
+| Administrative (shared services, automation) | $180M | $124M | $56M |
+| Clinical Productivity (workflow, scheduling) | — | — | $13M |
+| **Total Annual Savings** | | | **$183M** |
+
+**Note:** Total savings across all categories exceeds initial $47M target due to compounding effects and second-year optimizations.
+
+### Supply Chain Savings Detail
+| Initiative | Annual Savings |
+|------------|---------------|
+| Vendor rationalization (47→18) | $42M |
+| Contract optimization | $38M |
+| Inventory reduction | $18M |
+| Just-in-time delivery | $12M |
+| GPO compliance improvement | $4M |
+| **Supply Chain Total** | **$114M** |
+
+### Administrative Savings Detail
+| Initiative | Annual Savings |
+|------------|----------------|
+| FTE reduction (500 FTEs) | $45M |
+| Shared services consolidation | $6M |
+| Payroll automation | $2M |
+| RPA automation (12 processes) | $3M |
+| **Administrative Total** | **$56M** |
 
 ---
 
-## Claims Denial Analysis
+## 3. Supply Chain Metrics
 
-### Denial Categories
-| Category | Before % | After % | Change |
-|----------|----------|---------|--------|
-| Eligibility | 34% | 18% | -47% |
-| Authorization | 22% | 8% | -64% |
-| Coding | 28% | 12% | -57% |
-| Timely Filing | 8% | 2% | -75% |
-| Medical Necessity | 8% | 3% | -63% |
-
-### Denial Cost Analysis
-| Category | Annual Cost Before | Annual Cost After | Savings |
-|----------|-------------------|-------------------|---------|
-| Eligibility | $680K | $120K | $560K |
-| Authorization | $440K | $80K | $360K |
-| Coding | $560K | $100K | $460K |
-| Timely Filing | $160K | $20K | $140K |
-| Medical Necessity | $160K | $20K | $140K |
-| **Total** | **$2.0M** | **$340K** | **$1.66M** |
-
----
-
-## Supply Chain Metrics
-
-### Supply Cost Breakdown
-| Category | Before | After | Savings |
-|----------|--------|-------|---------|
-| Medical Supplies | $5.2M | $4.4M | $800K |
-| Office Supplies | $420K | $340K | $80K |
-| Technology/IT | $890K | $720K | $170K |
-| Facility | $1.1M | $980K | $120K |
-| Other | $780K | $460K | $320K |
-| **Total** | **$8.4M** | **$6.9M** | **$1.5M** |
-
-### Inventory Performance
+### Supply Chain Transformation
 | Metric | Before | After | Change |
 |--------|--------|-------|--------|
-| Inventory Turns | 3.2/year | 6.8/year | +113% |
-| Carrying Costs | $380K | $190K | -50% |
-| Stockout Events | 42/year | 8/year | -81% |
-| Expiration Waste | 8% | 1.5% | -81% |
-| Par Level Compliance | 62% | 94% | +52% |
+| Vendor Count | 47 | 18 | -62% |
+| Pharmaceutical Distributors | 12 | 3 | -75% |
+| Supply Cost (% Revenue) | 28.9% | 22.6% | -6.3 pts |
+| Contract Compliance | 62% | 94% | +32 pts |
+| Inventory Turnover | 4.2x | 8.8x | +110% |
+| Stockout Rate | 4.2% | 0.8% | -81% |
+| Supply Cost per Patient | $8,400 | $6,552 | -22% |
+| Inventory Carrying Cost | $24M | $11M | -54% |
+
+### Vendor Rationalization
+| Category | Before | After | Reduction |
+|----------|--------|-------|-----------|
+| Medical Supply Vendors | 47 | 18 | -62% |
+| Pharmaceutical Distributors | 12 | 3 | -75% |
+| GPO Relationships | 8 | 3 | -62% |
+| Contracted Price Points | 23 | 4 | -83% |
+
+### Inventory Management
+| Metric | Before | After | Change |
+|--------|--------|-------|--------|
+| Average Inventory | $180M | $98M | -46% |
+| Inventory Days | 87 days | 42 days | -52% |
+| Fill Rate | 95.8% | 99.2% | +3.4 pts |
+| Par Level Compliance | 72% | 96% | +24 pts |
+| Expiration Waste | $4.2M | $1.1M | -74% |
+
+---
+
+## 4. Administrative Metrics
+
+### Administrative Transformation
+| Metric | Before | After | Change |
+|--------|--------|-------|--------|
+| Administrative FTEs | 1,840 | 1,340 | -500 FTEs |
+| Admin FTEs per 100 Beds | 76.7 | 55.8 | -27% |
+| HR Systems | 12 | 1 | Consolidated |
+| Payroll Systems | 8 | 1 | Consolidated |
+| HR Transaction Time | 12 min | 3 min | -75% |
+| Payroll Processing Time | 6 days | 2 days | -67% |
+| Administrative Cost per FTE | $98K | $93K | -5% |
+| RPA Transactions | 0 | 45,000/mo | Implemented |
+
+### FTE Transition Details
+| Transition Category | FTEs |
+|--------------------|------|
+| Natural Attrition (retirements, departures) | 200 |
+| Redeployed to New Roles | 180 |
+| Retrained for Emerging Roles | 120 |
+| **Total Reduction** | **500 FTEs** |
+| Involuntary Separations | 0 |
+
+### Shared Services Performance
+| Metric | Value |
+|--------|-------|
+| Shared Services Centers | 2 |
+| Transactions per FTE | 2,400/mo |
+| First Contact Resolution | 87% |
+| Employee Satisfaction (HR Service) | 4.1/5.0 |
+| Cost per Transaction | $4.20 |
+
+### RPA Automation Results
+| Process | Monthly Volume | Hours Saved |
+|---------|----------------|-------------|
+| Benefits Enrollment | 480 | 120 hrs |
+| Payroll Processing | 12,000 | 400 hrs |
+| Invoice Processing | 8,400 | 280 hrs |
+| Credentialing Updates | 2,100 | 70 hrs |
+| Compliance Reporting | 840 | 210 hrs |
+| **Total (12 processes)** | **45,000** | **1,800 hrs** |
+
+---
+
+## 5. Clinical Workforce Metrics
+
+### Clinical Productivity Transformation
+| Metric | Before | After | Change |
+|--------|--------|-------|--------|
+| Time on Documentation | 4.2 hrs/shift | 2.8 hrs/shift | -33% |
+| Time on Supply Mgmt | 1.8 hrs/shift | 0.4 hrs/shift | -78% |
+| Time with Patients | 52% | 68% | +16 pts |
+| Nurse Turnover Rate | 24% | 14% | -10 pts |
+| Travel Nurse Spend | $28M | $12M | -57% |
+| Burnout Score (Maslach) | 2.8 | 3.6 | +29% |
+| Nurse Satisfaction | 3.4/5.0 | 4.2/5.0 | +24% |
+
+### Time Allocation Improvement
+| Activity | Before | After | Change |
+|----------|--------|-------|--------|
+| Direct Patient Care | 52% | 68% | +16 pts |
+| Documentation | 26% | 17% | -9 pts |
+| Supply Management | 11% | 3% | -8 pts |
+| Communication | 7% | 6% | -1 pt |
+| Other | 4% | 6% | +2 pts |
+
+### Nursing Metrics
+| Metric | Before | After | Change |
+|--------|--------|-------|--------|
+| RN Vacancy Rate | 18% | 8% | -10 pts |
+| Travel Nurse Utilization | 24% | 11% | -13 pts |
+| Overtime Hours (% Total) | 14% | 6% | -8 pts |
+| Agency Spend per RN | $82K | $31K | -62% |
+| Time to Hire | 62 days | 38 days | -39% |
+| Orientation Hours | 120 | 80 | -33% |
+
+---
+
+## 6. Quality & Satisfaction Metrics
+
+### Quality Metrics
+| Metric | Before | After | Change |
+|--------|--------|-------|--------|
+| Patient Satisfaction (HCAHPS) | 68th pct | 76th pct | +8 pts |
+| Clinical Quality (CMS Stars) | 72nd pct | 78th pct | +6 pts |
+| Medication Errors | 340/yr | 180/yr | -47% |
+| Hospital-Acquired Infections | 1,240/yr | 856/yr | -31% |
+| Readmission Rate (30-day) | 14.2% | 12.8% | -1.4 pts |
+| Patient Safety Events | 2,100/yr | 1,520/yr | -28% |
+
+### HCAHPS Scores
+| Domain | Before | After | Change |
+|--------|--------|-------|--------|
+| Overall Rating | 68th pct | 76th pct | +8 pts |
+| Communication with Nurses | 71st pct | 78th pct | +7 pts |
+| Communication with Doctors | 74th pct | 79th pct | +5 pts |
+| Responsiveness of Staff | 62nd pct | 73rd pct | +11 pts |
+| Communication about Medicines | 58th pct | 68th pct | +10 pts |
+| Discharge Information | 70th pct | 75th pct | +5 pts |
+
+### Employee Satisfaction
+| Metric | Before | After | Change |
+|--------|--------|-------|--------|
+| Overall Engagement | 3.2/5.0 | 4.1/5.0 | +28% |
+| Nurse Satisfaction | 3.4/5.0 | 4.2/5.0 | +24% |
+| Administrative Staff Satisfaction | 3.1/5.0 | 3.8/5.0 | +23% |
+| Physician Satisfaction | 3.6/5.0 | 4.0/5.0 | +11% |
+| Voluntary Turnover | 18% | 11% | -7 pts |
+| Employee NPS | 22 | 48 | +26 pts |
+
+---
+
+## 7. Technology Metrics
+
+### System Implementations
+| System | Before | After | Change |
+|--------|--------|-------|--------|
+| HR Systems | 12 | 1 (Workday) | Consolidated |
+| Payroll Systems | 8 | 1 (ADP) | Consolidated |
+| EHR Platforms | 3 | 1 (Epic) | Consolidated |
+| Inventory Systems | 8 | 1 (ScanVan) | Consolidated |
+| RPA Processes | 0 | 12 | Implemented |
+| Analytics Platforms | 4 | 2 | Consolidated |
+
+### Technology Adoption
+| Metric | Value |
+|--------|-------|
+| Workday User Adoption | 98% |
+| ADP Payroll Accuracy | 99.7% |
+| BCMA Utilization | 99.2% |
+| Epic Workflow Optimization Adoption | 94% |
+| RPA Bot Uptime | 99.4% |
+| ScanVan Scan Rate | 99.8% |
+
+---
+
+## 8. Investment & ROI
+
+### Engagement Investment
+| Phase | Duration | Investment |
+|-------|----------|------------|
+| Phase 1: Analysis | 5 weeks | $95,000 |
+| Phase 2: Design | 7 weeks | $150,000 |
+| Phase 3: Implementation | 6 weeks | $125,000 |
+| Phase 4: Optimization | 2 weeks | $50,000 |
+| **Total** | **20 weeks** | **$420,000** |
+
+### Team Composition
+| Role | Weeks | Count |
+|------|-------|-------|
+| Lead Healthcare Consultant | 20 | 1 |
+| Supply Chain Expert | 14 | 1 |
+| Healthcare IT Consultant | 12 | 1 |
+| Process Improvement Specialist | 10 | 1 |
+
+### Return on Investment
+| Metric | Value |
+|--------|-------|
+| Total Investment | $420,000 |
+| Annual Cost Savings (Year 1) | $47,000,000 |
+| Annual Cost Savings (Year 2+) | $183,000,000 |
+| First-Year Net Benefit | $46,580,000 |
+| ROI (Year 1) | 11,095% |
+| Payback Period | 1 month |
+
+---
+
+## 9. Industry Benchmarks
+
+### Health System Benchmarks
+| Metric | Industry Median | Meridian Before | Meridian After |
+|--------|-----------------|----------------|----------------|
+| Operating Margin | 2.5% | 0.8% | 4.1% |
+| Supply Chain Cost (% Revenue) | 25.0% | 28.9% | 22.6% |
+| Admin FTEs per 100 Beds | 65.0 | 76.7 | 55.8 |
+| Nurse Turnover Rate | 18% | 24% | 14% |
+| Patient Satisfaction (HCAHPS) | 72nd pct | 68th pct | 76th pct |
+| Time with Patients (RNs) | 60% | 52% | 68% |
+
+### Performance vs. Benchmarks
+| Metric | Benchmark | Meridian After | Percentile |
+|--------|-----------|----------------|------------|
+| Operating Margin | 2.5% | 4.1% | 88th |
+| Supply Chain Cost | 25.0% | 22.6% | 82nd |
+| Admin Efficiency | 65.0 | 55.8 | 91st |
+| Nurse Retention | 18% | 14% | 85th |
+| Patient Satisfaction | 72nd pct | 76th pct | 78th |
+| Time with Patients | 60% | 68% | 84th |
+
+---
+
+## 10. Post-Engagement Traction (12-Month)
+
+### Financial Traction
+| Metric | Q3 2024 | Q4 2024 | Q1 2025 | Q2 2025 |
+|--------|---------|---------|---------|---------|
+| Operating Margin | 1.8% | 2.8% | 3.5% | 4.1% |
+| Cumulative Savings | $18M | $32M | $40M | $47M |
+| Supply Chain Costs | $490M | $465M | $430M | $406M |
+| Administrative Overhead | $162M | $148M | $132M | $124M |
+
+### Clinical Traction
+| Metric | Q3 2024 | Q4 2024 | Q1 2025 | Q2 2025 |
+|--------|---------|---------|---------|---------|
+| Nurse Turnover Rate | 20% | 17% | 15% | 14% |
+| Time with Patients | 60% | 64% | 66% | 68% |
+| Patient Satisfaction | 71st pct | 73rd pct | 75th pct | 76th pct |
+| Travel Nurse Spend | $22M | $18M | $14M | $12M |
+
+### Quality Traction
+| Metric | Q3 2024 | Q4 2024 | Q1 2025 | Q2 2025 |
+|--------|---------|---------|---------|---------|
+| HCAHPS Score | 70th pct | 72nd pct | 74th pct | 76th pct |
+| Medication Errors | 280/yr | 240/yr | 200/yr | 180/yr |
+| Employee Engagement | 3.5/5.0 | 3.7/5.0 | 3.9/5.0 | 4.1/5.0 |

@@ -1,33 +1,34 @@
-# Cost Reduction Results: $4.7M Annual Savings
+# Healthcare Cost Reduction: $47M Saved, Quality Improved
 
-🏥 Meridian Healthcare was running at 6% margin—half the industry benchmark. 16 weeks later: 18% margin.
+🏥 Meridian Healthcare was an $1.8B health system facing a financial crisis. Operating margin down from 3.2% to 0.8%. Board mandated $40M in cuts. Previous attempts failed—cuts increased nurse workload, spiked turnover.
 
 Here's what we found:
 
-→ Claims processing errors costing $2.1M annually (14% error rate vs 5% benchmark)
-→ 23% patient no-show rate with no systematic intervention
-→ Staffing wildly inconsistent across 14 locations (52-84% utilization)
-→ EHR system at 40% capacity despite millions invested
+→ $520M supply chain spend, 47 vendors, no standardization
+→ $180M administrative overhead, 1,840 FTEs, 12 HR systems
+→ Nurses spending 40% of time on admin tasks, not patient care
+→ 24% nurse turnover, $28M travel nurse spend
 
 What we fixed:
 
-→ Brought RCM in-house, new Waystar platform
-→ Implemented evidence-based staffing model
-→ Multi-channel patient reminders + wait-list management
-→ Enabled EHR features already paid for
+→ Standardized supply chain: 47 vendors → 18 strategic partners
+→ Consolidated administrative: shared services, Workday HRIS, ADP payroll
+→ Redesigned clinical workflows: BCMA, automated supply ordering
+→ Implemented RPA for high-volume administrative tasks
 
 📊 Results:
-• Operating margin: 6% → 18% (+12 pts)
-• Cost savings: $4.7M annually
-• Denial rate: 18% → 7% (-61%)
-• Wait times: 45 min → 18 min (-60%)
-• No-show rate: 23% → 9% (-61%)
-• Patient satisfaction: 3.2 → 4.6/5 (+44%)
+• Annual Cost Savings: $47M (exceeded $40M target)
+• Operating Margin: 0.8% → 4.1% (+3.3 pts)
+• Supply Chain Costs: -22%
+• Administrative Overhead: -31% ($56M)
+• Nurse Turnover: 24% → 14% (-42%)
+• Patient Satisfaction: +8 percentile points
+• Employee Engagement: +28%
 
-💬 "We reduced costs AND improved patient satisfaction. That's the trifecta."
+💬 "We couldn't cut our way to sustainability. We needed to redesign systems. The $47M savings exceeded our target—but more importantly, patient satisfaction improved, nurse turnover dropped, and staff felt empowered."
 
-— Patricia Sandoval, former CEO, Meridian Healthcare Systems
+— Patricia Hernandez, CFO, Meridian Healthcare
 
-16-week engagement. $168K investment. $4.7M annual savings. ROI achieved in 90 days.
+20-week engagement. $420K investment. $47M annual savings. Operating margin +3.3 points.
 
-#healthcare #costreduction #operations #consulting #pe #transformation
+#healthcare #costreduction #processredesign #supplychain #operationalexcellence
