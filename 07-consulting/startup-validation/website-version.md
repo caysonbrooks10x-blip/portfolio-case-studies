@@ -1,55 +1,49 @@
-# Startup Validation Case Study: NovaTech Solutions
+# Startup Validation + Product Strategy Case Study: CareSync Health
 
 ## The Challenge
 
-A 14-month-old property tech startup with a technically impressive product and 12 customers was stuck. They had $800K in seed funding, 11 months of runway, and a product that wasn't finding market traction. Growth had stalled at 2-3 new customers per month. They suspected they had a sales problem.
-
-The real issue was deeper: they had built for the wrong customer segment and didn't have validated evidence of product-market fit.
+A health-tech startup with $2.8M seed funding and an impressive AI platform had 3 signed LOIs with health systems—but no pilots had started. The founding team was burning runway without understanding why deals weren't converting. They had 18 months left.
 
 ## The Approach
 
-Over 12 weeks, we conducted a rigorous validation and product strategy engagement:
+Over 12 weeks, we conducted rigorous validation and product strategy work:
 
 **Phase 1: Customer Discovery**
-We interviewed 28 customers, 18 prospects who'd passed on them, and 12 industry experts. We analyzed 14 months of product usage data and tested 8 competitor products. What we found: 80% of their assumptions about their target customer were wrong.
+35+ interviews, decision mapping, value proposition testing. We discovered the real problem: health systems weren't the actual buyer—health plans were. The value proposition was wrong, the pricing was misaligned, and the sales cycle was too long for their runway.
 
-**Phase 2: Strategic Positioning**
-We identified that "Growth-Focused Operators" (15% of their broad market) were actually their best-fit customers—higher retention, higher willingness to pay, clearer decision-making. We reframed their positioning around this segment.
+**Phase 2: Product Strategy Redesign**
+ICP refinement for health plans, feature prioritization, outcome dashboard redesign, go-to-market redesign.
 
-**Phase 3: Product Strategy**
-We implemented an 8-week feature freeze to optimize the core product for the target segment. 67% of the development backlog was for features serving <5% of users.
-
-**Phase 4: Go-to-Market Execution**
-We rebuilt their outbound playbook, designed a referral program, and refined their investor narrative.
+**Phase 3: Pivot Execution**
+Product changes for health plan buyers, sales playbook, Series A materials, investor meetings.
 
 ## The Results
 
 | Metric | Before | After |
 |--------|--------|-------|
-| New Customers/Month | 2.3 | 8.7 |
-| Qualified Leads/Month | 14 | 62 |
-| CAC | $4,200 | $1,600 |
-| Sales Cycle | 47 days | 23 days |
-| 6-Month Retention | 67% | 94% |
-| NPS | 31 | 67 |
-| LTV | $2,100 | $8,400 |
-| MRR | $8,400 | $52,000 |
+| Target Customer | Health Systems | Health Plans |
+| Sales Cycle | 18-24 months | 6-12 months |
+| Product Focus | Technology-led | Outcome-led |
+| Health Plan Pilots | 0 | 8 (within 3 months) |
+| ARR | $0 | $3.2M (within 12 months) |
+| Series A Raised | — | $12M |
 
-**Plus:** $3.2M Series A raised 4 months post-engagement
+**Plus:** 18 health plan partnerships, 380,000 members covered
 
 ## Tools & Methods
 
 This engagement leveraged:
-- Research: Notion, Miro, Airtable, Dovetail
-- Product: Mixpanel, FullStory, Hotjar, Productboard
-- GTM: HubSpot CRM, Intercom, Zapier
+- Productboard, Figma, Jira (product management)
+- Snowflake, Tableau, Looker (data and analytics)
+- HubSpot, Outreach (sales and CRM)
+- Notion, Slack, Zoom (collaboration)
 
 ## Testimonial
 
-"Cayson showed us what the market actually needed. In 12 weeks, he helped us identify that we were targeting the wrong segment and showed us how to build for the right one. The $3.2M Series A we closed four months later? That wouldn't have happened without the validated strategy and clear unit economics we developed together."
+"Cayson saved us from ourselves. We were building what we thought was an incredible product without validating that anyone would actually pay for it. Without his guidance, we would have burned through our runway chasing the wrong market. Instead, we closed a $12M Series A."
 
-— Elena Vasquez, CEO, NovaTech Solutions
+— Dr. Maya Richardson, CEO, CareSync Health
 
-## Ready to Validate Your Startup's Strategy?
+## Ready to Validate Your Startup's Business Model?
 
-Schedule a consultation to discuss how we can help you find product-market fit faster and build a strategy investors will believe in.
+Schedule a consultation to discuss how we can help you find product-market fit before you run out of runway.

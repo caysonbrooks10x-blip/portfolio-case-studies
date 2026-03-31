@@ -1,41 +1,36 @@
-# NovaTech Solutions: Startup Validation & Product Strategy
+# CareSync Health: Startup Validation + Product Strategy
 
 ## The Situation
 
-A 14-month-old property tech startup with 12 customers and $800K in seed funding was struggling to find product-market fit. The founding team had built an impressive product but was targeting the wrong customer segment and didn't understand why growth had stalled.
+A health-tech startup with $2.8M seed funding, impressive AI technology, 3 signed LOIs, but no pilots started. The founding team couldn't understand why deals weren't converting. They had 18 months of runway left.
 
 ## The Approach
 
 12-week validation and product strategy engagement:
 
-1. **Customer Discovery** — 28 customer interviews, 18 prospect interviews, competitive analysis
-2. **Strategic Positioning** — Segment pivot to "Growth-Focused Operators," new messaging framework
-3. **Product Strategy** — 8-week feature freeze, UX optimization, roadmap realignment
-4. **GTM Execution** — Sales playbook redesign, referral program, content strategy
+1. **Customer Discovery & Validation** — 35+ interviews, decision mapping, value proposition testing, pricing validation
+2. **Product Strategy Redesign** — ICP refinement, feature prioritization, go-to-market redesign
+3. **Pivot Execution** — Product changes for health plans, go-to-market launch, Series A materials
 
 ## The Results
 
 | Metric | Before | After |
 |--------|--------|-------|
-| New Customers/Month | 2.3 | 8.7 |
-| Lead Volume | 14/mo | 62/mo |
-| CAC | $4,200 | $1,600 |
-| Sales Cycle | 47 days | 23 days |
-| Retention (6-mo) | 67% | 94% |
-| NPS | 31 | 67 |
-| LTV | $2,100 | $8,400 |
-| MRR | $8,400 | $52,000 |
-
-**Plus:** $3.2M Series A raised 4 months post-engagement
+| Target Customer | Health Systems | Health Plans |
+| Sales Cycle | 18-24 months | 6-12 months |
+| Product Focus | Technology-led | Outcome-led |
+| Health Plan Pilots | 0 | 8 (within 3 months) |
+| ARR | $0 | $3.2M (within 12 months) |
+| Series A Raised | — | $12M |
 
 ## The Tools
 
-Notion, Miro, Airtable, Mixpanel, FullStory, HubSpot, Intercom, Dovetail
+Productboard, Figma, Jira, Snowflake, Tableau, HubSpot, Outreach, Notion, Slack, Zoom, DocuSign
 
 ## Investment
 
-$48,000 fixed-fee | 12 weeks | 2-person team
+$65,000 fixed-fee | 12 weeks | 2-person team
 
 ---
 
-*"Cayson showed us what the market actually needed. The $3.2M Series A we closed four months later wouldn't have happened without the validated strategy."* — Elena Vasquez, CEO, NovaTech Solutions
+*"Cayson saved us from ourselves. Without his guidance, we would have burned through our runway chasing the wrong market. Instead, we closed a $12M Series A."* — Dr. Maya Richardson, CEO, CareSync Health
