@@ -1,25 +1,33 @@
-# Growth Strategy Results: $2.1M Revenue Impact
+# Business Growth Strategy Results: $24M Revenue Increase
 
-🎯 Velocite Systems came to us with a 12% YoY revenue decline. Six months after our engagement, they were growing 23% YoY.
+🏭 Thornfield Manufacturing was stuck at $47M for 5 years. 92% capacity. 68% aerospace concentration. 3.2% net margin. Considering $20M facility expansion.
 
-Here's what we fixed:
+Here's what we found:
 
-→ Positioning drift: Reclaimed "manufacturer-first" differentiation that competitors couldn't match
-→ ICP misalignment: 62% of recent wins were wrong-fit customers; rebuilt scoring model
-→ Go-to-market fragmentation: Unified 3 siloed sales teams under one playbook
-→ Product-market fit erosion: 73% of features adopted by <10% of users; restructured priorities
+→ 11% of capacity consumed by low-margin complexity work
+→ Multiple growing markets completely untapped
+→ $8-12M e-commerce opportunity ignored
+→ Sales team of 4 relying entirely on relationships
 
-📊 Metrics that moved:
-• Win rate: 28% → 47% (+68%)
-• Sales cycle: 103 → 71 days (-31%)
-• Deal size: $127K → $164K (+29%)
-• Churn: 14% → 9%
-• NPS: 23 → 58
+What we fixed:
 
-💬 "Cayson built the internal muscle to execute long after he moved on. The $2.1M revenue impact is real, but the bigger win is we've rebuilt our growth engine."
+→ Scheduling optimization (freed 11% capacity, no capital)
+→ Market diversification (aerospace 68%→42%, medical/industrial added)
+→ E-commerce launch ($4.2M in Year 1)
+→ Salesforce CRM + systematic lead generation
 
-— Marcus Chen, CEO, Velocite Systems
+📊 Results:
+• Revenue: $47M → $71M (+51%)
+• Gross Margin: 18% → 24% (+6 pts)
+• EBITDA: $1.5M → $6.2M (+313%)
+• Capacity: freed 11% without capital
+• Aerospace: 68% → 42% of revenue
+• E-commerce: $0 → $4.2M
 
-16-week engagement. $185K investment. $2.1M annual revenue impact.
+💬 "Revenue grew $24M without spending a dollar on capital. That's the kind of thinking that changes a company."
 
-#growthstrategy #b2b #saas #consulting
+— Katherine Thornfield-Cortez, CEO, Thornfield Manufacturing
+
+20-week engagement. $175K investment. $24M revenue increase.
+
+#manufacturing #growthstrategy #operationalexcellence #medtech #aerospace

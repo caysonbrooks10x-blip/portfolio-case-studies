@@ -1,266 +1,278 @@
-# Growth Strategy: Metrics Documentation
+# Business Growth Strategy: Metrics Reference
 
-## Baseline Metrics (Pre-Engagement)
-
-### Revenue & Pipeline
-| Metric | Value | Timeframe |
-|--------|-------|-----------|
-| Annual Recurring Revenue | $18.0M | FY 2023 |
-| Net New ARR | -$2.16M | YoY (12% decline) |
-| Gross Churn Rate | 14% | Annual |
-| Net Revenue Retention | 86% | Annual |
-| Average Contract Value | $127,000 | All deals |
-| Average Sales Cycle | 103 days | Close-qualified deals |
-| Win Rate | 28% | Against competition |
-| Pipeline Conversion Rate | 12% | MQL to Closed Won |
-| Qualified Pipeline Volume | $28M | Q4 2023 |
-
-### Sales Team Performance
-| Metric | Value | Timeframe |
-|--------|-------|-----------|
-| Sales Team Size | 12 reps | At engagement start |
-| Quota Attainment Rate | 61% | FY 2023 |
-| Sales Rep Ramp Time | 11 months | Average to full quota |
-| Outbound Reps | 4 | Dedicated BDR/SDR |
-| Inbound Leads/Month | 340 | Marketing sourced |
-| Lead-to-MQL Rate | 14% | Marketing qualified |
-| MQL-to-SQL Rate | 8% | Sales qualified |
-| CRM Data Quality Score | 34% | Data completeness |
-
-### Customer Metrics
-| Metric | Value | Timeframe |
-|--------|-------|-----------|
-| Total Customers | 187 | Active accounts |
-| Average NPS | 23 | Q3 2023 survey |
-| Referenceable Customers | 23% | Actively referring |
-| Customer Lifetime Value | $410,000 | Calculated |
-| Logo Churn | 14% | Annual |
-| Revenue Churn | 11% | Annual |
-| Expansion Revenue | 8% | Of total ARR |
-
-### Marketing Metrics
-| Metric | Value | Timeframe |
-|--------|-------|-----------|
-| Monthly Website Visitors | 18,500 | Average |
-| Inbound Leads/Month | 340 | MQLs |
-| Content Assets | 47 | Published |
-| Event Attendance | 280/year | Trade shows + webinars |
-| Brand Search Volume | 1,200/mo | Branded searches |
-
-### Pricing & Discounting
-| Metric | Value | Timeframe |
-|--------|-------|-----------|
-| Average Discount | 27% | All deals |
-| Discount >30% Deals | 34% | Of total deals |
-| Exception Approvals | 23% | Deals requiring escalation |
-| List Price Attachment | 18% | At full list price |
+## Thornfield Manufacturing — Key Performance Indicators
 
 ---
 
-## Post-Engagement Metrics (6 Months After Completion)
+## 1. Financial Metrics
 
-### Revenue & Pipeline
-| Metric | Value | Change | % Change |
-|--------|-------|--------|----------|
-| Annual Recurring Revenue | $21.5M | +$3.5M | +19% |
-| Net New ARR YoY | +23% | From -12% | +35 pts |
-| Gross Churn Rate | 9% | -5 pts | -36% |
-| Net Revenue Retention | 112% | +26 pts | +23% |
-| Average Contract Value | $164,000 | +$37K | +29% |
-| Average Sales Cycle | 71 days | -32 days | -31% |
-| Win Rate | 47% | +19 pts | +68% |
-| Pipeline Conversion Rate | 19% | +7 pts | +58% |
-| Qualified Pipeline Volume | $47M | +$19M | +68% |
+### Revenue Metrics
+| Metric | Baseline | 6-Month | 18-Month | Change |
+|--------|----------|---------|----------|--------|
+| Annual Revenue | $47.0M | $54.2M | $71.0M | +51% |
+| Monthly Recurring Revenue | $3.92M | $4.52M | $5.92M | +51% |
+| E-commerce Revenue | $0 | $1.8M | $4.2M | New |
+| New Market Revenue | $0 | $4.2M | $12.4M | New |
+| Average Order Value | $18K | $24K | $34K | +89% |
+| Revenue per Employee | $138K | $158K | $189K | +37% |
 
-### Sales Team Performance
-| Metric | Value | Change | % Change |
-|--------|-------|--------|----------|
-| Sales Team Size | 14 reps | +2 | +17% |
-| Quota Attainment Rate | 84% | +23 pts | +38% |
-| Sales Rep Ramp Time | 7 months | -4 months | -36% |
-| Outbound Pipeline | 45% | +15 pts | From 30% |
-| Inbound Pipeline | 55% | -15 pts | From 70% |
-| Lead-to-MQL Rate | 21% | +7 pts | +50% |
-| MQL-to-SQL Rate | 17% | +9 pts | +113% |
-| CRM Data Quality Score | 78% | +44 pts | +129% |
+### Profitability Metrics
+| Metric | Baseline | 18-Month | Change |
+|--------|----------|----------|--------|
+| Gross Margin | 18.0% | 24.0% | +6 pts |
+| Net Margin | 3.2% | 8.7% | +5.5 pts |
+| EBITDA | $1.5M | $6.2M | +313% |
+| Revenue per Employee | $138K | $189K | +37% |
+| Operating Cash Flow | $2.1M | $5.8M | +176% |
 
-### Customer Metrics
-| Metric | Value | Change | % Change |
-|--------|-------|--------|----------|
-| Total Customers | 198 | +11 | +6% |
-| Average NPS | 58 | +35 pts | +152% |
-| Referenceable Customers | 51% | +28 pts | +122% |
-| Customer Lifetime Value | $580,000 | +$170K | +41% |
-| Logo Churn | 9% | -5 pts | -36% |
-| Revenue Churn | 7% | -4 pts | -36% |
-| Expansion Revenue | 18% | +10 pts | +125% |
-
-### Marketing Metrics
-| Metric | Value | Change | % Change |
-|--------|-------|--------|----------|
-| Monthly Website Visitors | 24,200 | +5,700 | +31% |
-| Inbound Leads/Month | 520 | +180 | +53% |
-| Content Assets | 68 | +21 | +45% |
-| Event Attendance | 410/year | +130 | +46% |
-| Brand Search Volume | 2,100/mo | +900 | +75% |
-
-### Pricing & Discounting
-| Metric | Value | Change | % Change |
-|--------|-------|--------|----------|
-| Average Discount | 19% | -8 pts | -30% |
-| Discount >30% Deals | 12% | -22 pts | -65% |
-| Exception Approvals | 8% | -15 pts | -65% |
-| List Price Attachment | 31% | +13 pts | +72% |
+### Capacity Metrics
+| Metric | Baseline | 18-Month | Change |
+|--------|----------|----------|--------|
+| Capacity Utilization | 92% | 84% | -8 pts |
+| OEE (Overall Equipment Effectiveness) | 62% | 78% | +16 pts |
+| Changeover Time (Avg) | 4.2 hrs | 1.8 hrs | -57% |
+| Schedule Adherence | 76% | 94% | +18 pts |
+| On-Time Delivery Rate | 91% | 98% | +7 pts |
 
 ---
 
-## Financial Impact Summary
+## 2. Market Diversification Metrics
 
-### Revenue Impact
-| Source | 6-Month Impact | Annual Run Rate |
-|--------|----------------|-----------------|
-| New ARR Growth | +$2.1M | +$4.2M |
-| Reduced Churn | +$360K | +$720K |
-| Expansion Revenue | +$480K | +$960K |
-| Improved Deal Size | +$280K | +$560K |
-| **Total Revenue Impact** | **+$3.22M** | **+$6.44M** |
+### Revenue Mix Transformation
+| Metric | Baseline | 18-Month | Change |
+|--------|----------|----------|--------|
+| Aerospace Revenue | $32.0M | $29.8M | -7% |
+| Aerospace % of Revenue | 68% | 42% | -26 pts |
+| Medical Device Revenue | $3.8M | $15.6M | +311% |
+| Medical Device % of Revenue | 8% | 22% | +14 pts |
+| Industrial Equipment Revenue | $7.0M | $17.0M | +143% |
+| Industrial Equipment % | 15% | 24% | +9 pts |
+| E-commerce Revenue | $0 | $4.2M | New |
+| E-commerce % of Revenue | 0% | 12% | +12 pts |
+| International Revenue | $0.9M | $5.7M | +533% |
+| International % of Revenue | 2% | 8% | +6 pts |
 
-### Cost Savings
-| Category | 6-Month Savings | Annual Run Rate |
-|----------|-----------------|-----------------|
-| Reduced Sales Cycle Costs | $45,000 | $90,000 |
-| Lower Marketing Waste | $32,000 | $64,000 |
-| Reduced Churn Prevention Costs | $28,000 | $56,000 |
-| **Total Cost Savings** | **$105,000** | **$210,000** |
+### New Market Performance
+| Metric | Medical Device | Industrial | Defense |
+|--------|---------------|------------|---------|
+| New Customers | 8 | 6 | 2 |
+| Revenue Year 1 | $8.2M | $6.8M | $2.4M |
+| Gross Margin | 28% | 26% | 32% |
+| Avg Order Value | $42K | $28K | $85K |
+| Sales Cycle | 5.2 months | 3.8 months | 8.4 months |
+| Win Rate | 62% | 58% | 45% |
 
-### ROI Calculation
+---
+
+## 3. E-Commerce Metrics
+
+### Channel Performance
+| Metric | Year 1 | Year 2 |
+|--------|--------|--------|
+| Revenue | $4.2M | $6.8M |
+| Customers | 187 | 342 |
+| Average Order Value | $4.2K | $4.8K |
+| Orders per Month | 834 | 1,183 |
+| Conversion Rate | 2.8% | 3.4% |
+| Gross Margin | 32% | 35% |
+| Customer Acquisition Cost | $180 | $145 |
+| Customer Lifetime Value | $18.5K | $22.4K |
+
+### E-Commerce Customer Breakdown
+| Segment | Customers | Revenue | % of E-com |
+|---------|-----------|---------|------------|
+| Small Manufacturers | 142 | $2.8M | 67% |
+| Prototype Labs | 28 | $620K | 15% |
+| Maintenance/Repair | 12 | $420K | 10% |
+| Other | 5 | $360K | 8% |
+
+---
+
+## 4. Sales & Marketing Metrics
+
+### Sales Team Performance
+| Metric | Baseline | 18-Month | Change |
+|--------|----------|----------|--------|
+| Sales Team Size | 4 | 6 | +50% |
+| Revenue per Salesperson | $11.75M | $11.83M | +1% |
+| Accounts per Salesperson | 23 | 26 | +13% |
+| Sales Cycle (Avg) | 6.5 months | 4.2 months | -35% |
+| Proposal Win Rate | 42% | 56% | +14 pts |
+
+### Lead Generation
+| Metric | Baseline | 18-Month | Change |
+|--------|----------|----------|--------|
+| Leads per Month | 12 | 85 | +608% |
+| Qualified Leads per Month | 6 | 38 | +533% |
+| Lead-to-Opportunity Rate | 50% | 45% | -5 pts |
+| Opportunity-to-Close Rate | 16% | 42% | +26 pts |
+| Overall Lead Conversion | 8% | 19% | +138% |
+| Marketing Influenced Revenue | 8% | 34% | +26 pts |
+
+### Pipeline Metrics
+| Metric | Baseline | 18-Month | Change |
+|--------|----------|----------|--------|
+| Pipeline Value | $8M | $24M | +200% |
+| Pipeline Coverage Ratio | 1.7x | 3.4x | +100% |
+| Avg Deal Size | $85K | $142K | +67% |
+| Deals in Negotiation | 8 | 24 | +200% |
+| Days to Close (Avg) | 195 | 126 | -35% |
+
+### Marketing Performance
+| Metric | Baseline | 18-Month | Change |
+|--------|----------|----------|--------|
+| Website Traffic | 2,100/mo | 8,400/mo | +300% |
+| E-commerce Traffic | N/A | 52,000/mo | New |
+| Content Downloads | 45/mo | 280/mo | +522% |
+| Trade Show Leads | 24/show | 85/show | +254% |
+| LinkedIn Followers | 340 | 2,100 | +518% |
+| Inbound Lead % | 15% | 52% | +37 pts |
+
+---
+
+## 5. Customer Metrics
+
+### Customer Base
+| Metric | Baseline | 18-Month | Change |
+|--------|----------|----------|--------|
+| Total Customers | 180 | 248 | +68 |
+| New Customers per Year | 12 | 42 | +250% |
+| Customer Retention Rate | 87% | 94% | +7 pts |
+| Annual Customer Attrition | 13% | 6% | -7 pts |
+| Top 20% Customer Revenue Share | 68% | 54% | -14 pts |
+| Average Customer Tenure | 8.2 years | 9.4 years | +15% |
+
+### Customer Profitability
+| Metric | Baseline | 18-Month | Change |
+|--------|----------|----------|--------|
+| Avg Revenue per Customer | $261K | $286K | +10% |
+| Avg Margin per Customer | $47K | $69K | +47% |
+| Highest Margin Segment | Defense | Defense | — |
+| Lowest Margin Segment | Aerospace | Aerospace | — |
+| Customer Concentration (Top 10) | 42% | 28% | -14 pts |
+
+---
+
+## 6. Operations & Efficiency Metrics
+
+### Production Metrics
+| Metric | Baseline | 18-Month | Change |
+|--------|----------|----------|--------|
+| Units Produced per Month | 185,000 | 224,000 | +21% |
+| First-Pass Yield | 94.2% | 97.8% | +3.6 pts |
+| Scrap Rate | 2.8% | 1.4% | -50% |
+| Machine Downtime | 12% | 6% | -50% |
+| Avg Lead Time | 18 days | 12 days | -33% |
+| Rush Order % | 22% | 8% | -14 pts |
+
+### Scheduling Metrics
+| Metric | Baseline | 18-Month | Change |
+|--------|----------|----------|--------|
+| Schedule Adherence | 76% | 94% | +18 pts |
+| On-Time Start Rate | 84% | 96% | +12 pts |
+| Changeover Time | 4.2 hrs | 1.8 hrs | -57% |
+| Changeover Frequency | 8/day | 12/day | +50% |
+| Utilization (Scheduled) | 82% | 88% | +6 pts |
+| Utilization (Actual) | 92% | 84% | -8 pts |
+
+### Quality Metrics
+| Metric | Baseline | 18-Month | Change |
+|--------|----------|----------|--------|
+| Customer Rejection Rate | 0.42% | 0.18% | -57% |
+| Internal Scrap Rate | 2.8% | 1.4% | -50% |
+| Warranty Claims | 8/quarter | 3/quarter | -63% |
+| ISO Certifications Maintained | 2 | 3 | +1 |
+| Customer Audits Passed | 4/yr | 8/yr | +100% |
+
+---
+
+## 7. Financial Health Metrics
+
+### Balance Sheet
+| Metric | Baseline | 18-Month | Change |
+|--------|----------|----------|--------|
+| Total Assets | $38M | $42M | +11% |
+| Working Capital | $8.2M | $14.8M | +80% |
+| Current Ratio | 1.4x | 2.1x | +50% |
+| Debt-to-Equity | 0.8x | 0.5x | -38% |
+| Inventory Turnover | 4.2x | 5.8x | +38% |
+| Days Sales Outstanding | 48 | 38 | -21% |
+
+### Cash Flow
+| Metric | Baseline | 18-Month | Change |
+|--------|----------|----------|--------|
+| Operating Cash Flow | $2.1M | $5.8M | +176% |
+| Free Cash Flow | $800K | $4.2M | +425% |
+| Cash Conversion | 53% | 94% | +41 pts |
+| CapEx | $1.2M | $800K | -33% |
+| Dividend Capacity | $0 | $1.8M | New |
+
+---
+
+## 8. Leadership Transition Metrics
+
+### Transition Progress
+| Metric | Baseline | 18-Month | Target |
+|--------|----------|----------|--------|
+| Katherine's Decision Authority | 40% | 85% | 100% |
+| Robert Jr.'s Board Involvement | 100% | 30% | 0% |
+| Fourth-Generation Involvement | 0 | 2 | 5 |
+| Employee Confidence Score | 62% | 84% | 90% |
+| Board Approval Rating (Katherine) | 55% | 88% | 90% |
+
+### Board Performance
+| Metric | Baseline | 18-Month | Change |
+|--------|----------|----------|--------|
+| Board Meetings per Year | 4 | 6 | +2 |
+| Board Agenda Items (Strategic) | 15% | 45% | +30 pts |
+| Board Reporting Quality | 3.2/5 | 4.4/5 | +38% |
+| Family Harmony Score | 6.5/10 | 7.8/10 | +20% |
+
+---
+
+## 9. Engagement ROI Metrics
+
+### Investment
+| Item | Amount |
+|------|--------|
+| Engagement Fee | $175,000 |
+| Internal Time Investment | 420 hours |
+| Technology Investment | $85,000 |
+| Certification Costs | $45,000 |
+| Training Investment | $28,000 |
+| Total Investment | $333,000 |
+
+### Return
 | Item | Value |
 |------|-------|
-| Engagement Investment | $185,000 |
-| 6-Month Revenue Impact | $3,220,000 |
-| 6-Month Cost Savings | $105,000 |
-| **Total 6-Month Impact** | **$3,325,000** |
-| **ROI** | **1,797%** |
-| **Payback Period** | 33 days |
+| First-Year Revenue Increase | $24,000,000 |
+| Margin Improvement (18 months) | $4,700,000 |
+| EBITDA Improvement | $4,700,000 |
+| E-commerce Revenue (Annual Run Rate) | $4,200,000 |
+| Total First-Year Return | $28,700,000 |
+| ROI | 8,618% |
+| Payback Period | 14 months |
 
 ---
 
-## Tool Adoption Metrics
+## 10. Benchmark Comparisons
 
-### Pre-Engagement vs. Post-Engagement
-| Tool | Pre-Usage | Post-Usage | Training Provided |
-|------|-----------|------------|-------------------|
-| HubSpot CRM | Basic | Advanced | 12 hours |
-| Tableau Dashboards | None | 8 dashboards | 8 hours |
-| Gong | Sales only | Full team | 4 hours |
-| Airtable | None | 6 bases | 6 hours |
-| Notion | Fragmented | Unified workspace | 4 hours |
-| Miro | Ad-hoc | Weekly | 3 hours |
+### Industry Benchmarks (Precision Manufacturing)
+| Metric | Thornfield Before | Industry Avg | Thornfield After |
+|--------|------------------|--------------|------------------|
+| Revenue per Employee | $138K | $165K | $189K |
+| Gross Margin | 18% | 22% | 24% |
+| Net Margin | 3.2% | 5.5% | 8.7% |
+| Capacity Utilization | 92% | 78% | 84% |
+| OEE | 62% | 70% | 78% |
+| Customer Retention | 87% | 90% | 94% |
 
-### Data Quality Improvement
-| Metric | Pre | Post |
-|--------|-----|------|
-| Contact Completeness | 34% | 78% |
-| Deal Stage Accuracy | 56% | 91% |
-| Activity Logging | 23% | 84% |
-| Forecast Accuracy | 41% | 79% |
-
----
-
-## Leading Indicators Tracked During Engagement
-
-### Phase 1 (Diagnosis) Indicators
-- Interview completion rate: 100% (34/34)
-- Data source access: 100% (all requested)
-- Stakeholder alignment score: 8.2/10
-
-### Phase 2 (Strategy) Indicators
-- Workshop participation rate: 95%
-- Strategic pillar alignment: 100%
-- Initiative brainstorm ideas: 47
-- Prioritized initiatives: 12
-
-### Phase 3 (Planning) Indicators
-- Functional plan completion: 100%
-- Milestone definition: 100%
-- Risk register items: 15
-- Quick wins identified: 8
-
-### Phase 4 (Execution) Indicators
-- Initiative launch rate: 100%
-- Training completion: 94%
-- Tool adoption rate: 87%
-- Knowledge transfer score: 9.1/10
-
----
-
-## Survey & Feedback Metrics
-
-### Net Promoter Score Trajectory
-| Quarter | NPS Score | Response Rate |
-|---------|-----------|---------------|
-| Q3 2023 (Pre) | 23 | 62% |
-| Q4 2023 (Mid-engagement) | 34 | 58% |
-| Q1 2024 (Post-engagement) | 52 | 71% |
-| Q2 2024 (6-month follow-up) | 58 | 68% |
-
-### Stakeholder Satisfaction
-| Role | Pre-Engagement Sentiment | Post-Engagement Sentiment |
-|------|--------------------------|---------------------------|
-| CEO | 4/10 | 9/10 |
-| CRO | 5/10 | 9/10 |
-| CFO | 6/10 | 8/10 |
-| VP Sales | 4/10 | 8/10 |
-| VP Marketing | 5/10 | 9/10 |
-| VP Customer Success | 6/10 | 9/10 |
-
-### Engagement Experience Rating
-| Metric | Score |
-|--------|-------|
-| Overall Engagement Satisfaction | 9.2/10 |
-| Methodology Rigor | 9.4/10 |
-| Team Quality | 9.6/10 |
-| Knowledge Transfer | 9.1/10 |
-| Would Recommend | 10/10 |
-
----
-
-## Competitive Win Rate Analysis
-
-### Pre-Engagement Win Rates by Competitor
-| Competitor | Win Rate | Sample Size |
-|------------|----------|-------------|
-| SAP | 22% | 45 deals |
-| Oracle | 25% | 38 deals |
-| Microsoft | 31% | 52 deals |
-| Infor | 28% | 41 deals |
-| Epicor | 35% | 47 deals |
-| Sage | 42% | 39 deals |
-| NetSuite | 29% | 56 deals |
-| Acumatica | 38% | 44 deals |
-
-### Post-Engagement Win Rates by Competitor
-| Competitor | Win Rate | Sample Size | Change |
-|------------|----------|-------------|--------|
-| SAP | 41% | 38 deals | +19 pts |
-| Oracle | 44% | 29 deals | +19 pts |
-| Microsoft | 48% | 47 deals | +17 pts |
-| Infor | 52% | 35 deals | +24 pts |
-| Epicor | 58% | 41 deals | +23 pts |
-| Sage | 61% | 34 deals | +19 pts |
-| NetSuite | 51% | 49 deals | +22 pts |
-| Acumatica | 55% | 38 deals | +17 pts |
-
----
-
-## Industry Benchmark Comparison
-
-| Metric | Velocite Pre | Industry Median | Velocite Post |
-|--------|--------------|-----------------|---------------|
-| Win Rate | 28% | 35% | 47% |
-| Sales Cycle | 103 days | 85 days | 71 days |
-| Sales Cycle | 103 days | 85 days | 71 days |
-| Churn Rate | 14% | 10% | 9% |
-| NPS | 23 | 42 | 58 |
-| NRR | 86% | 105% | 112% |
-| Quota Attainment | 61% | 70% | 84% |
+### Performance Rankings
+| Metric | Percentile Before | Percentile After |
+|--------|-------------------|------------------|
+| Revenue per Employee | 32nd | 68th |
+| Gross Margin | 28th | 72nd |
+| Net Margin | 18th | 82nd |
+| OEE | 35th | 84th |
+| Customer Retention | 42nd | 89th |
+| Sales Productivity | 48th | 76th |

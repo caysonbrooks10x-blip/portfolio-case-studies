@@ -1,37 +1,39 @@
-# Velocite Systems: Business Growth Strategy
+# Thornfield Manufacturing: Business Growth Strategy
 
 ## The Situation
 
-Velocite Systems, a $18M ARR B2B SaaS company serving mid-market manufacturers, was experiencing a 12% YoY decline in net new ARR despite a growing market. The PE firm's leadership knew they needed outside perspective to diagnose and fix the underlying issues.
+A $47M precision components manufacturer had flatlined for 5 years—92% capacity, 68% aerospace concentration, margins compressing. Leadership needed to double revenue but had no clear path and was considering a $20M facility expansion.
 
 ## The Approach
 
-16-week comprehensive growth strategy engagement structured in four phases:
+20-week strategic planning and growth strategy engagement:
 
-1. **Strategic Diagnosis** — Deep analysis of 34 stakeholder interviews, 3 years of CRM data, competitive landscape, and customer profitability
-2. **Strategy Development** — 3 Horizons growth model, strategic pillars, positioning blueprint
-3. **Implementation Planning** — 90-day sprint roadmap, RACI matrix, resource allocation
-4. **Execution Support** — Embedded support during initial implementation
+1. **Strategic Assessment** — Financial analysis, capacity analysis, market sizing, competitive analysis
+2. **Growth Strategy Development** — 4 pillars: market diversification, capacity optimization, digital commerce, sales transformation
+3. **Implementation Support** — ISO 13485 certification, e-commerce launch, Salesforce CRM, scheduling optimization
+4. **Transition Support** — Dashboard implementation, board reporting, leadership transition planning
 
 ## The Results
 
-| Metric | Before | After | Change |
-|--------|--------|-------|--------|
-| Net New ARR YoY | -12% | +23% | +$2.1M impact |
-| Win Rate | 28% | 47% | +68% |
-| Sales Cycle | 103 days | 71 days | -31% |
-| Average Deal Size | $127K | $164K | +29% |
-| Customer Churn | 14% | 9% | -36% |
-| NPS | 23 | 58 | +35 pts |
+| Metric | Before | After |
+|--------|--------|-------|
+| Annual Revenue | $47M | $71M |
+| Gross Margin | 18% | 24% |
+| EBITDA | $1.5M | $6.2M |
+| Capacity Utilization | 92% | 84% |
+| Aerospace Concentration | 68% | 42% |
+| E-commerce Revenue | $0 | $4.2M |
+
+**Plus:** 11% capacity freed without capital investment
 
 ## The Tools
 
-Notion, Miro, Airtable, HubSpot, Tableau, Salesforce, Gong, Highspot, Asana
+SAP Business One, Salesforce, Tableau, Shopify Plus, Mastercam, HubSpot, Microsoft 365, Slack, Asana, Notion
 
 ## Investment
 
-$185,000 fixed-fee | 16 weeks | 3-person team
+$175,000 fixed-fee | 20 weeks | 2-person team
 
 ---
 
-*"Cayson built the internal muscle to execute long after he moved on. The $2.1M revenue impact is real, but the bigger win is we've rebuilt our growth engine."* — Marcus Chen, CEO, Velocite Systems
+*"Revenue grew $24M without spending a dollar on capital. That's the kind of thinking that changes a company."* — Katherine Thornfield-Cortez, CEO, Thornfield Manufacturing
