@@ -1,33 +1,33 @@
-# Operations Optimization Results: $2.8M Annual Savings
+# Operations Optimization Results: 31% Productivity Increase
 
-🏭 Granitepeak Manufacturing had 62 years of operational excellence—and decades of accumulated inefficiencies.
+📦 Velocity Logistics was a $128M 3PL with 99.2% on-time delivery—but margins compressing from 24% to 18%. Costs growing faster than revenue.
 
 Here's what we found:
 
-→ Production scheduling was chaos: 47% of jobs had waiting time between operations
-→ Hidden rework loop was costing $890K/year (normalized into the cost structure)
-→ $2.1M in excess/obsolete inventory sitting in the warehouse
-→ On-time delivery had dropped to 78% (customer complaints up 34%)
+→ $4.8M in waste across 4 distribution centers
+→ 5 different WMS systems = zero visibility
+→ No standard processes = variation everywhere
+→ 38% turnover = constant training burden
 
 What we fixed:
 
-→ Implemented visual management scheduling system
-→ Standardized changeover procedures (SMED methodology)
-→ Built quality into the process (poka-yoke fixtures, SPC)
-→ Liquidated excess inventory and optimized reorder points
+→ Standardized SOPs across all DCs
+→ Consolidated to Manhattan Associates WMS
+→ Labor optimization + productivity incentives
+→ Six Sigma quality program
 
-📊 Metrics that moved:
-• Cycle time: 23 days → 17.7 days (-23%)
-• On-time delivery: 78% → 96% (+18 pts)
-• WIP inventory: $4.2M → $2.8M (-34%)
-• First-pass yield: 89% → 97% (+8 pts)
-• Operating margin: 11% → 17% (+6 pts)
-• Quality costs: $890K → $210K (-76%)
+📊 Results:
+• Gross Margin: 18% → 23% (+5 pts)
+• Operational Costs: $8.4M → $4.2M (-50%)
+• EBITDA: $12.8M → $22.6M (+77%)
+• On-Time Delivery: 99.2% → 99.6% (improved!)
+• Labor Cost: 22% → 17% of revenue
+• Turnover: 38% → 21% (-45%)
 
-💬 "Cayson transformed how we think about our business. The $2.8M in annual savings is real, but what matters more is we've built a company that can compete for the next generation."
+💬 "Margins up 5 points, costs down $4.2M, delivery rate improved. That's operational excellence—not cutting corners, eliminating waste."
 
-— Richard Hammersley, CEO, Granitepeak Manufacturing
+— Marcus Webb, CEO, Velocity Logistics
 
-20-week engagement. $145K investment. $2.8M annual savings. 8-month payback.
+16-week engagement. $185K investment. $10M EBITDA improvement.
 
-#operations #manufacturing #lean #optimization #consulting
+#operations #logistics #supplychain #optimization #3pl #warehouse

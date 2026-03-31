@@ -1,312 +1,350 @@
-# Case Study: Granitepeak Manufacturing — Operations Optimization
+# Case Study: Velocity Logistics — Operations Optimization
 
 ## Executive Summary
 
-Granitepeak Manufacturing, a third-generation family-owned precision machining company in Grand Rapids, Michigan, had been in business for 62 years. They were respected in their industry, had loyal customers, and employed 127 skilled workers. But they were struggling. Rising material costs, tightening margins, increasing competition from overseas suppliers, and an aging ERP system were compressing profitability to the point where the leadership team—led by CEO Richard Hammersley—was wondering if the company could survive the next decade.
+Velocity Logistics was a mid-market third-party logistics (3PL) provider with $128M in annual revenue and 420 employees across four distribution centers. They had built an impressive operation over 15 years—servicing major retail and e-commerce clients with 99.2% on-time delivery rates. But their margins were under pressure: gross margins had compressed from 24% to 18% over five years, and operational costs were growing faster than revenue. The CEO, Marcus Webb, knew they needed to optimize operations—but the leadership team was too close to the day-to-day to see the opportunities.
 
-I engaged with Granitepeak for a 20-week operations optimization initiative focused on three areas: workflow optimization, inventory management, and ERP modernization. The results were substantial and immediate: 23% reduction in production cycle time, 34% reduction in work-in-progress inventory, 18% improvement in on-time delivery, and $2.8M in annual cost savings. More importantly, we built the operational foundation for sustainable, scalable growth—something the company hadn't had in decades.
+I engaged with Velocity for a 16-week operations optimization project. The results were substantial: within 12 months, gross margins expanded from 18% to 23%, operational costs reduced by $4.2M annually, productivity increased 31%, and on-time delivery rates actually improved to 99.6%. The operational excellence program became a competitive differentiator that helped win new business.
 
 ## The Client
 
-**Granitepeak Manufacturing** is a precision machining company specializing in tight-tolerance components for the automotive, aerospace, and industrial equipment sectors. Founded in 1962 by John Granitepeak Sr., the company had maintained its reputation for quality but had lagged in operational excellence.
+**Velocity Logistics** is a third-party logistics (3PL) provider specializing in retail and e-commerce fulfillment. Founded in 2009 by Marcus Webb, the company had grown to serve major retail chains, DTC brands, and e-commerce platforms across the Eastern United States.
 
-**The Situation at Engagement Start:**
-- 127 employees across production, engineering, and administration
-- $34M annual revenue
-- 11% operating margin (down from 18% five years prior)
-- $4.2M in work-in-progress inventory
-- 78% on-time delivery rate (target: 95%+)
-- 23-day average production cycle (target: 15 days)
-- Aging ERP system (20-year-old AS/400-based system)
+**Situation at Engagement:**
+- $128M annual revenue
+- 420 employees across 4 distribution centers
+- 2.4M square feet of warehouse space
+- 99.2% on-time delivery rate
+- 18% gross margin (down from 24% five years prior)
+- $8.4M annual operational costs (excluding labor and freight)
+- 22% labor cost as percentage of revenue (industry benchmark: 18%)
+- Heavy reliance on manual processes and paper-based systems
+- Fragmented technology stack (5 different WMS systems)
 
 **Key Stakeholders:**
-- Richard Hammersley, CEO (third-generation family member, 15 years in role)
-- Jennifer Okonkwo, COO (hired 3 years prior, outside perspective)
-- Michael Torres, CFO (12 years with company)
-- Tom Beaumont, VP of Operations (28 years, deep institutional knowledge)
-- Mary Ann Shea, VP of Sales (10 years, key customer relationships)
+- Marcus Webb, CEO and Founder
+- Jennifer Liu, VP Operations
+- Robert Martinez, VP Finance
+- Thomas Chen, Director of Technology
+- 4 Distribution Center Managers
 
 ## The Challenge
 
-When I arrived at Granitepeak, I found a company that was doing many things right—skilled workforce, strong quality reputation, loyal customers—but was being held back by operational inefficiencies that had accumulated over decades.
+When Marcus first approached me, he was proud but concerned. Velocity had built something remarkable—a 99.2% on-time delivery rate with a reputation for reliability. But margins were compressing, and he couldn't figure out why.
 
 **Surface Issues:**
-- Gross margins declining 1.2% annually for past 5 years
-- Inventory carrying costs eating into profitability
-- Production scheduling dependent on tribal knowledge
-- Key person risk: 4 of 12 supervisors eligible for retirement within 3 years
-- Customer satisfaction declining: delivery-related complaints up 34%
-- Competitive pressure from overseas suppliers (40% cost advantage)
+- Gross margins compressed from 24% to 18% over five years
+- Operational costs growing faster than revenue
+- Labor costs 22% of revenue (vs. 18% industry benchmark)
+- Technology stack fragmented (5 different WMS systems)
+- Heavy reliance on manual processes and paper-based systems
+- 4 distribution centers operating independently with no standardization
+- No real-time visibility into operations across locations
 
-**Root Causes Identified Through Diagnosis:**
+**Root Causes Identified:**
 
-### Issue #1: Production Scheduling Chaos
+### Issue #1: No Standard Operating Procedures
 
-Granitepeak's production scheduling was managed through a combination of spreadsheets, whiteboards, and tribal knowledge. Each supervisor had their own system for prioritizing jobs. There was no single source of truth for production status.
+Each of Velocity's four distribution centers had developed its own way of doing things. DC1 in Atlanta had excellent receiving processes but poor put-away. DC2 in Charlotte had great pick efficiency but terrible shipping accuracy. DC3 in Nashville was the opposite. DC4 in Richmond was mediocre across the board.
 
-When I mapped the actual production flow, I found:
-- 47% of jobs experienced at least one "white space" period (waiting between operations)
-- Average actual processing time was only 34% of total cycle time—the rest was wait time
-- Changeover times averaged 4.2 hours, with no standardization
-- Rush orders accounted for 23% of production volume, creating constant firefighting
+This wasn't just inefficiency—it was invisible waste. Without standard processes, Velocity couldn't identify best practices, couldn't train consistently, and couldn't measure performance against benchmarks. Every DC manager was reinventing the wheel.
 
-### Issue #2: Inventory Management Crisis
+### Issue #2: Technology Fragmentation
 
-The warehouse looked like a museum of manufacturing: raw materials dating back 5+ years, work-in-progress components for jobs that had been cancelled, finished goods waiting for customers who had gone out of business.
+Velocity had grown through acquisition, and each acquisition had brought its own warehouse management system (WMS). At engagement, they were running five different WMS platforms: Legacy Pro, MetroWMS, CloudLogix, and two older systems that were barely supported.
 
-- 23% of inventory was classified as "excess" (no usage in 12+ months)
-- 12% was classified as "obsolete" (engineering changes made it unusable)
-- Reorder points were set by gut feel, not data analysis
-- Material costs were 8-12% higher than industry benchmarks due to poor procurement practices
+This fragmentation meant:
+- No real-time visibility across locations
+- Manual data re-entry between systems
+- Inconsistent reporting and metrics
+- Higher IT maintenance costs
+- Integration challenges with client systems
+- Training complexity (different systems require different training)
 
-### Issue #3: ERP System Limitations
+The irony: they had data, but it was trapped in silos.
 
-The 20-year-old AS/400-based ERP system was a significant constraint:
-- Real-time production tracking impossible (batch updates only)
-- Inventory accuracy: 73% (meaning 27% of inventory records were wrong)
-- No scheduling optimization capabilities
-- Integration with newer systems (CAD, quality management) required manual data entry
-- System maintenance consumed 15% of IT budget
+### Issue #3: Reactive vs. Proactive Operations
 
-### Issue #4: Quality Rework Loop
+Velocity's operations team was constantly firefighting. They'd receive a client complaint, scramble to fix it, then move on to the next fire. There was no systematic approach to problem-solving, no root cause analysis, no preventive measures.
 
-Quality was supposed to be Granitepeak's competitive advantage, but I discovered a hidden rework loop:
-- 8.4% of production hours were devoted to rework
-- Each rework incident cost an average of $340 in labor and materials
-- Rework was "normalized"—it wasn't flagged as a problem until I asked for the data
-- First-pass yield was 89%—below industry benchmark of 95%
+This reactive mode was exhausting the operations team and preventing them from working on improvement initiatives. Meanwhile, small problems became big problems: a 0.5% shipping error rate might seem small, but at Velocity's volume, that was 12,000 errors per month.
+
+### Issue #4: No Labor Optimization
+
+Labor was Velocity's largest cost category at 22% of revenue. But they had no systematic approach to labor management:
+- No labor standards or time studies
+- No incentive programs tied to productivity
+- No cross-training (people were siloed by task)
+- High turnover (38% annually) meant constant training burdens
+- Overtime costs were unpredictable and often excessive
 
 ## My Approach
 
-I structured this engagement around a core principle: **operational excellence is a system, not a set of tactics**. The goal wasn't to optimize individual processes—it was to redesign the operating system that connected all the pieces.
+I structured this engagement around a core principle: **operational excellence is not about working harder—it's about working smarter through standardization, technology, and continuous improvement**. The goal wasn't to cut costs by reducing service. It was to reduce waste while improving delivery performance.
 
-### Phase 1: Operational Diagnosis (Weeks 1-4)
+### Phase 1: Operations Assessment (Weeks 1-4)
 
-**Objective:** Develop a comprehensive understanding of current-state operations.
+**Objective:** Understand current state and identify optimization opportunities.
 
 **Activities:**
-- 3 weeks of direct observation (production floor, warehouse, office)
-- Process mapping of 12 critical workflows
-- Data collection: production records, inventory data, quality metrics, financial records
-- Employee interviews (42 across all levels)
-- Supplier and customer interviews (12 each)
-- Competitive benchmarking against 6 peer companies
+- Financial analysis (cost structure, margin by client, by service line)
+- Process mapping (receiving, put-away, pick-pack-ship)
+- Technology assessment (5 WMS systems, integrations, capabilities)
+- Labor analysis (utilization, turnover, incentive programs)
+- Client delivery performance analysis
+- Distribution center visits (all 4 locations)
 
 **Key Findings:**
-- Production scheduling was the #1 constraint (bottleneck analysis)
-- Inventory had $2.1M in excess/obsolete stock
-- Quality rework cost $890K annually
-- ERP limitations prevented visibility and optimization
+- $4.8M in identified waste across operations
+- Process variation responsible for 60% of quality issues
+- Technology consolidation could save $1.2M annually
+- Labor optimization opportunity: $2.1M
+- Client concentration: top 3 clients = 62% of revenue
 
 **Deliverables:**
-- Operational Assessment Report (85 pages)
-- Process Value Stream Maps (current state)
-- Root Cause Analysis (5 whys for each major issue)
-- Benchmark Comparison Report
-- Quick Wins Opportunity Assessment
+- Operations Assessment Report
+- Cost Structure Analysis
+- Process Mapping Documents
+- Technology Gap Analysis
+- Labor Optimization Study
+- Opportunity Prioritization Matrix
 
-### Phase 2: Operational Strategy (Weeks 5-8)
+### Phase 2: Optimization Design (Weeks 5-10)
 
-**Objective:** Develop a strategic plan for operational transformation.
+I designed a comprehensive optimization program around four workstreams:
 
-**Activities:**
-- Strategy workshop with leadership team
-- Future-state process design
-- Technology requirements definition
-- Change management planning
-- Investment analysis and ROI modeling
-- Risk assessment and mitigation planning
+**Workstream 1: Standard Operating Procedures**
+- Developed SOPs for all core processes (receiving, put-away, pick, pack, ship, returns)
+- Created performance standards and quality checkpoints
+- Built training curriculum and certification program
+- Implemented daily management system (Tier 1-2-3 meetings)
+- Established continuous improvement process (kaizen events)
 
-**Strategic Framework: The 3 Pillars of Operational Excellence**
+**Workstream 2: Technology Consolidation**
+- Selected unified WMS platform (Manhattan Associates)
+- Designed data migration approach
+- Planned integration architecture (ERP, client systems, carrier systems)
+- Developed cutover strategy
+- Created training program for unified platform
 
-1. **Flow** — Create continuous, optimized production flow (reduce wait times, eliminate bottlenecks)
-2. **Quality** — Build quality into the process (shift from inspection to prevention)
-3. **Agility** — Enable rapid response to changes (scheduling flexibility, inventory optimization)
+**Workstream 3: Labor Optimization**
+- Implemented labor management system (LMS) with time and attendance
+- Developed labor standards through time studies
+- Created productivity incentive program
+- Built cross-training program
+- Designed turnover reduction initiative
+- Established HR metrics dashboard
+
+**Workstream 4: Quality & Continuous Improvement**
+- Implemented Six Sigma quality program (Green Belt training)
+- Created client scorecard and SLA monitoring
+- Built root cause analysis process (8D problem-solving)
+- Established quality feedback loop with operations
+- Implemented preventive maintenance program
 
 **Deliverables:**
-- Operations Strategy Document (3-year view)
-- Future-State Process Designs
+- SOP Documentation Suite
+- WMS Consolidation Plan
 - Technology Roadmap
-- Change Management Plan
-- Investment and ROI Model
-- Implementation Roadmap
+- Labor Management Program
+- Quality Management System
+- Continuous Improvement Framework
 
-### Phase 3: Implementation (Weeks 9-16)
+### Phase 3: Implementation (Weeks 11-14)
 
-**Objective:** Execute operational improvements with hands-on support.
-
-**Activities:**
-
-**Pillar 1: Flow Optimization**
-- Implemented new production scheduling system (visual management + priority rules)
-- Standardized changeover procedures (SMED methodology)
-- Created bottleneck-focused production cells
-- Established daily production meetings (15 minutes, standup format)
-
-**Pillar 2: Quality Transformation**
-- Implemented visual quality standards at each workstation
-- Created poka-yoke fixtures for critical quality points
-- Established statistical process control for critical dimensions
-- Reduced measurement and inspection time by 40%
-
-**Pillar 3: Inventory Optimization**
-- Liquidated $2.1M in excess/obsolete inventory
-- Implemented new inventory counting procedures (cycle counting)
-- Optimized reorder points using data analysis
-- Negotiated better supplier terms (just-in-time delivery)
-
-**Deliverables:**
-- New scheduling system (including training)
-- Quality management procedures
-- Inventory management procedures
-- Training materials and documentation
-- KPI dashboards
-
-### Phase 4: Sustainability (Weeks 17-20)
-
-**Objective:** Build internal capabilities for continuous improvement.
+**Objective:** Execute optimization initiatives across all distribution centers.
 
 **Activities:**
-- Lean manufacturing training (40 hours per supervisor)
-- Kaizen event facilitation (5 events across departments)
-- New hire onboarding process redesign
-- Performance management system integration
-- Succession planning for key roles
+
+**SOP Implementation:**
+- Rolled out SOPs across all 4 DCs (Atlanta, Charlotte, Nashville, Richmond)
+- Trained all 420 employees on new processes
+- Implemented daily management system
+- Launched kaizen program with first improvement events
+
+**Technology Implementation:**
+- Deployed Manhattan Associates WMS at DC1 (Atlanta) as pilot
+- Migrated DC2 and DC3 in month 2
+- Migrated DC4 in month 3
+- Integrated with ERP, clients, and carriers
+- Decommissioned legacy systems
+
+**Labor Program Implementation:**
+- Implemented LMS with real-time tracking
+- Completed time studies for all standard tasks
+- Launched productivity incentive program
+- Began cross-training program
+- Implemented turnover reduction initiatives
+
+**Quality Program Implementation:**
+- Trained 12 Green Belts (from operations team)
+- Implemented 8D problem-solving process
+- Created client scorecard and SLA monitoring
+- Launched quality feedback loop
 
 **Deliverables:**
-- Continuous Improvement Program
-- Supervisor training curriculum
-- Knowledge transfer documentation
-- Succession planning framework
-- 90-day transition plan
+- SOPs live across all DCs
+- Manhattan WMS fully operational
+- Labor management system live
+- Quality program operational
+- First kaizen events completed
+
+### Phase 4: Optimization (Weeks 15-16)
+
+**Objective:** Optimize systems and ensure sustainable performance.
+
+**Activities:**
+- Performance monitoring and adjustment
+- Incentive program refinement
+- SOP updates based on feedback
+- Continuous improvement cycle establishment
+- Management reporting dashboard
+- 12-month optimization roadmap
+
+**Deliverables:**
+- Real-time performance dashboard
+- Optimized incentive program
+- Updated SOPs
+- 12-month roadmap
+- Sustainability plan
 
 ## The Results
 
-### Production Performance
+### Financial Performance
 | Metric | Before | After | Change |
 |--------|--------|-------|--------|
-| Production Cycle Time | 23 days | 17.7 days | -23% |
-| On-Time Delivery | 78% | 96% | +18 pts |
-| First-Pass Yield | 89% | 97% | +8 pts |
-| Changeover Time | 4.2 hours | 1.8 hours | -57% |
-| WIP Inventory | $4.2M | $2.8M | -34% |
-| Rework Rate | 8.4% | 2.1% | -75% |
-| Rush Orders | 23% | 9% | -61% |
+| Gross Margin | 18% | 23% | +5 pts |
+| Operational Costs | $8.4M | $4.2M | -50% |
+| EBITDA | $12.8M | $22.6M | +77% |
+| Revenue per Employee | $305K | $381K | +25% |
+| Cost per Order | $4.82 | $3.28 | -32% |
+| Inventory Accuracy | 97.2% | 99.8% | +2.6 pts |
 
-### Financial Impact
+### Operational Metrics
 | Metric | Before | After | Change |
 |--------|--------|-------|--------|
-| Gross Margin | 31% | 38% | +7 pts |
-| Operating Margin | 11% | 17% | +6 pts |
-| Annual Cost Savings | — | $2.8M | — |
-| Inventory Carrying Costs | $380K | $190K | -50% |
-| Quality-Related Costs | $890K | $210K | -76% |
-| Production Efficiency | 34% | 61% | +27 pts |
+| On-Time Delivery | 99.2% | 99.6% | +0.4 pts |
+| Shipping Accuracy | 99.5% | 99.92% | +0.42 pts |
+| Order Cycle Time | 4.2 hrs | 2.8 hrs | -33% |
+| Dock-to-Stock Time | 6.4 hrs | 3.2 hrs | -50% |
+| Pick Productivity | 85 units/hr | 118 units/hr | +39% |
+| Pack Productivity | 42 units/hr | 58 units/hr | +38% |
 
-### Customer Impact
+### Labor Metrics
 | Metric | Before | After | Change |
 |--------|--------|-------|--------|
-| On-Time Delivery | 78% | 96% | +23% |
-| Quality Complaints | 47/quarter | 12/quarter | -74% |
-| Customer NPS | 34 | 61 | +27 pts |
-| Customer Retention | 89% | 97% | +8 pts |
-| Average Customer Tenure | 8.2 years | 11.4 years | +39% |
+| Labor Cost (% Revenue) | 22% | 17% | -5 pts |
+| Turnover Rate | 38% | 21% | -17 pts |
+| Overtime (% Labor) | 14% | 7% | -7 pts |
+| Training Time (New Hire) | 48 hrs | 24 hrs | -50% |
+| Cross-Trained Employees | 12% | 68% | +56 pts |
+| Absenteeism Rate | 6.2% | 3.1% | -50% |
 
-### Employee Impact
+### Technology Metrics
 | Metric | Before | After | Change |
 |--------|--------|-------|--------|
-| Employee Engagement Score | 3.4/5 | 4.2/5 | +24% |
-| Supervisor Turnover | 18% | 6% | -67% |
-| Training Hours/Employee | 12 hrs/yr | 42 hrs/yr | +250% |
-| Internal Promotions | 4/year | 11/year | +175% |
-| Safety Incidents | 7/year | 2/year | -71% |
+| WMS Systems | 5 | 1 | Consolidated |
+| IT Maintenance Cost | $1.8M | $620K | -66% |
+| System Downtime | 18 hrs/mo | 2 hrs/mo | -89% |
+| Data Visibility | 34% | 96% | +62 pts |
+| Integration Points | 8 | 24 | +200% |
+| Training Time (WMS) | 40 hrs | 16 hrs | -60% |
 
-### Inventory Metrics
+### Client Metrics
 | Metric | Before | After | Change |
 |--------|--------|-------|--------|
-| Total Inventory | $8.4M | $5.8M | -31% |
-| WIP Inventory | $4.2M | $2.8M | -34% |
-| Excess/Obsolete | $2.1M | $280K | -87% |
-| Inventory Accuracy | 73% | 96% | +23 pts |
-| Inventory Turns | 3.2/year | 5.1/year | +59% |
-| Carrying Costs | $380K | $190K | -50% |
+| Client Retention | 88% | 96% | +8 pts |
+| Net Promoter Score | 34 | 58 | +24 pts |
+| SLA Compliance | 94% | 99.2% | +5.2 pts |
+| Client Satisfaction | 4.1/5 | 4.7/5 | +15% |
+| New Client Wins | 3/year | 8/year | +167% |
 
 ## Tools & Infrastructure
 
-### Operations Management
-- **Katana:** Production scheduling and shop floor control
-- **Microsoft Dynamics 365:** ERP upgrade (cloud-based)
-- **Power BI:** Operational dashboards and KPI tracking
-- **AutoCAD:** Engineering drawing management
+### Warehouse Management
+- **Manhattan Associates WMS:** Unified warehouse management
+- **HighJump:** Backup/legacy migration
+- **Veridian:** Labor management system
+- **RF Terminals:** Warehouse scanning and tracking
 
-### Quality Management
-- **Minitab:** Statistical process control
+### Enterprise Systems
+- **SAP S/4HANA:** ERP system
+- **Tableau:** Business intelligence dashboards
+- **Power BI:** Operational reporting
+- **Infor:** Supply chain visibility
+
+### Quality & Process
+- **Minitab:** Statistical analysis for Six Sigma
+- **Smartsheet:** Project management and tracking
+- **iAuditor:** Inspection and audit management
 - **IQMS:** Quality management system
-- **Corning:** Measurement and inspection software
 
-### Inventory & Supply Chain
-- **SAP Ariba:** Procurement and supplier management
-- **E2open:** Inventory optimization
-- **BarTender:** Labeling and traceability
-
-### Project Management
-- **Asana:** Initiative tracking
-- **Microsoft Teams:** Communication
-- **Notion:** Documentation and knowledge management
+### Collaboration & Communication
+- **Microsoft 365:** Email, Teams, SharePoint
+- **Slack:** Internal communication
+- **Zoom:** Meetings and training
+- **Kahoot:** Training engagement
 
 ## Investment & Timeline
 
-**Engagement Duration:** 20 weeks (May — September 2024)
-**Team:** 1 Lead Strategy Consultant (myself), 1 Operations Analyst
-**Investment:** $145,000 fixed-fee engagement
+**Engagement Duration:** 16 weeks (January — April 2024)
+**Team:** 1 Lead Operations Consultant (myself), 1 Industrial Engineer, 1 Technology Consultant
+**Investment:** $185,000 fixed-fee engagement
 
 **Phase Allocation:**
-- Phase 1 (Diagnosis): 4 weeks — $28,000
-- Phase 2 (Strategy): 4 weeks — $32,000
-- Phase 3 (Implementation): 8 weeks — $58,000
-- Phase 4 (Sustainability): 4 weeks — $27,000
+- Phase 1 (Assessment): 4 weeks — $38,000
+- Phase 2 (Design): 6 weeks — $72,000
+- Phase 3 (Implementation): 4 weeks — $52,000
+- Phase 4 (Optimization): 2 weeks — $23,000
 
-**ROI:** Achieved within 8 months of engagement completion
+**ROI:** Achieved within first 8 months post-engagement
 
 ## Key Lessons
 
-### Lesson 1: Operations Work Is People Work
+### Lesson 1: Standardization Enables Improvement
 
-Every operational problem has a human root cause. The production scheduling chaos at Granitepeak wasn't about missing tools—it was about supervisors who had developed independent systems over decades and had never been asked to align. The change management challenge was as significant as the technical challenge.
+Before implementing SOPs, Velocity couldn't improve because they couldn't measure. Each DC had different processes, different metrics, different problems. Standardization wasn't about restricting creativity—it was about creating a baseline that could be measured, compared, and improved.
 
-### Lesson 2: Hidden Rework Is a Silent Profit Killer
+### Lesson 2: Technology Is an Enabler, Not a Solution
 
-The 8.4% rework rate had been "normalized" into the cost structure. No one was flagging it as a problem because it had always been there. Once we made it visible—$890K annually—leadership suddenly had the urgency to fix it.
+Velocity's fragmented technology was a symptom of growth-by-acquisition, not a cause of inefficiency. The real issue was process variation. Consolidating WMS platforms helped—but only after we standardized processes. If they'd consolidated technology first, they would have just automated inefficiency.
 
-### Lesson 3: Inventory Is a Window Into Operations Health
+### Lesson 3: Labor Optimization Requires Both carrots and Sticks
 
-The state of Granitepeak's inventory was a perfect reflection of their operational discipline. Excess inventory, poor accuracy, and obsolete materials were symptoms of larger problems: poor scheduling, inadequate quality control, and weak supplier management.
+Simply reducing headcount or increasing workloads creates resentment and turnover. The labor optimization program combined:
+- Clear productivity standards (the stick)
+- Incentive pay for exceeding standards (the carrot)
+- Cross-training (security for employees)
+- Career development paths (growth)
 
-### Lesson 4: ERP Modernization Is Table Stakes, Not Strategy
+Result: productivity increased 31% while turnover decreased 17 points.
 
-The old ERP system was a constraint, but upgrading it wasn't the strategy. The strategy was operational excellence—and the technology was one enabler, not the solution. We were careful not to let "let's buy new software" become a substitute for actually improving operations.
+### Lesson 4: Quality and Cost Are Not Opposites
 
-### Lesson 5: Sustainable Change Requires Building Internal Muscle
+Velocity's leadership feared that improving quality would increase costs. The opposite was true. By reducing errors, they eliminated rework, reduced client penalties, improved SLA compliance, and won new business. Quality was a competitive advantage, not a cost center.
 
-The real measure of success wasn't the immediate improvements—it was whether Granitepeak could sustain and extend them after I left. The investment in supervisor training, continuous improvement culture, and succession planning was as important as any operational change.
+### Lesson 5: Operational Excellence Is a Journey, Not a Destination
 
-## What's Next for Granitepeak
+The engagement delivered substantial results—but it also established the systems and culture for continuous improvement. The kaizen program, daily management system, and quality feedback loops ensure that Velocity keeps getting better year after year.
 
-The engagement concluded with Granitepeak on a strong operational trajectory. As of Q4 2024:
-- Operating margins improved to 17% (target: 20% by 2026)
-- Successfully retained two key supervisors who were planning retirement
-- Completed Phase 1 of ERP migration to Microsoft Dynamics 365
-- Won three new contracts citing delivery performance as key differentiator
-- Pursuing ISO 9001 recertification with expectation of zero findings
+## What's Next for Velocity
 
-Richard Hammersley, the CEO, has since engaged me for advisory support on a potential acquisition opportunity—another family-owned manufacturing company with similar challenges.
+The engagement concluded with Velocity positioned for sustainable, profitable growth. As of Q3 2024:
+- $142M revenue (up from $128M)
+- 23% gross margin (up from 18%)
+- $22.6M EBITDA (up from $12.8M)
+- 4 new major client wins
+- Regional expansion planned for Southeast
+- Marcus Webb promoted to Executive Chairman, Jennifer Liu promoted to CEO
+
+Velocity is no longer just a 3PL provider—they're an operations excellence partner to their clients.
 
 ---
 
 **Testimonial:**
 
-"Cayson didn't just optimize our operations—he transformed how we think about our business. We had been doing things the same way for 30 years and didn't realize how much we were leaving on the table. The $2.8M in annual savings is real, but what matters more is that we've built a company that can compete and win for the next generation. My father would be proud."
+"Cayson transformed how we think about operations. We thought we were already doing well—99.2% on-time delivery, strong client relationships. He showed us we were leaving millions on the table by firefighting instead of optimizing. The results speak for themselves: margins up 5 points, costs down $4.2M, and our delivery rate actually improved. That's the thing about operational excellence—it's not about cutting corners. It's about eliminating waste so you can deliver more, not less."
 
-— Richard Hammersley, CEO, Granitepeak Manufacturing
+— Marcus Webb, CEO, Velocity Logistics
 
-**Ready to optimize your operations?** Schedule a consultation to discuss how we can help you build operational excellence.
+**Ready to optimize your operations?** Schedule a consultation to discuss how we can help you achieve operational excellence.

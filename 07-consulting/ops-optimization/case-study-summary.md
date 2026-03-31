@@ -1,37 +1,37 @@
-# Granitepeak Manufacturing: Operations Optimization
+# Velocity Logistics: Operations Optimization
 
 ## The Situation
 
-A 62-year-old precision machining company was facing margin compression, rising competition, and operational inefficiencies that had accumulated over decades. With 127 employees and $34M in revenue, they needed to modernize operations to survive and compete.
+A $128M third-party logistics provider with 4 distribution centers was facing margin compression—from 24% to 18% gross margin over five years. Despite a 99.2% on-time delivery rate, operational costs were growing faster than revenue. Fragmented technology (5 WMS systems), no standard processes, and reactive operations were driving inefficiency.
 
 ## The Approach
 
-20-week operations optimization engagement:
+16-week operations optimization project:
 
-1. **Operational Diagnosis** — Direct observation, process mapping, data analysis, employee interviews
-2. **Operations Strategy** — 3 Pillars framework (Flow, Quality, Agility)
-3. **Implementation** — Scheduling system, quality transformation, inventory optimization
-4. **Sustainability** — Lean training, Kaizen events, succession planning
+1. **Operations Assessment** — Financial analysis, process mapping, technology assessment, labor analysis
+2. **Optimization Design** — 4 workstreams: SOPs, technology consolidation, labor optimization, quality program
+3. **Implementation** — SOPs rolled out, Manhattan WMS deployed, labor management system live
+4. **Optimization** — Performance monitoring, incentive refinement, continuous improvement cycle
 
 ## The Results
 
 | Metric | Before | After |
 |--------|--------|-------|
-| Production Cycle Time | 23 days | 17.7 days |
-| On-Time Delivery | 78% | 96% |
-| WIP Inventory | $4.2M | $2.8M |
-| First-Pass Yield | 89% | 97% |
-| Operating Margin | 11% | 17% |
-| Annual Cost Savings | — | $2.8M |
+| Gross Margin | 18% | 23% |
+| Operational Costs | $8.4M | $4.2M |
+| EBITDA | $12.8M | $22.6M |
+| On-Time Delivery | 99.2% | 99.6% |
+| Labor Cost (% Revenue) | 22% | 17% |
+| Turnover Rate | 38% | 21% |
 
 ## The Tools
 
-Katana, Microsoft Dynamics 365, Power BI, Minitab, SAP Ariba, Asana
+Manhattan Associates WMS, SAP S/4HANA, Veridian LMS, Tableau, Power BI, Minitab, Smartsheet, Microsoft 365, Slack
 
 ## Investment
 
-$145,000 fixed-fee | 20 weeks | 2-person team
+$185,000 fixed-fee | 16 weeks | 3-person team
 
 ---
 
-*"Cayson transformed how we think about our business. The $2.8M in annual savings is real, but what matters more is we've built a company that can compete for the next generation."* — Richard Hammersley, CEO, Granitepeak Manufacturing
+*"Margins up 5 points, costs down $4.2M, delivery rate improved. That's operational excellence—not cutting corners, eliminating waste."* — Marcus Webb, CEO, Velocity Logistics

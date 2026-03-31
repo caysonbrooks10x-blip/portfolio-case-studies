@@ -1,50 +1,48 @@
-# Operations Optimization Case Study: Granitepeak Manufacturing
+# Operations Optimization Case Study: Velocity Logistics
 
 ## The Challenge
 
-A 62-year-old precision machining company was facing margin compression, rising competition, and operational inefficiencies that had accumulated over decades. With 127 employees and $34M in revenue, Granitepeak needed to transform operations to compete in an increasingly global market.
-
-The symptoms were everywhere: declining on-time delivery, rising inventory costs, a hidden rework loop that was bleeding $890K annually, and an aging ERP system that prevented visibility. But the root causes were buried.
+A $128M third-party logistics provider with 4 distribution centers and a 99.2% on-time delivery rate was facing margin compression—from 24% to 18% gross margin over five years. Fragmented technology (5 WMS systems), no standard processes, and reactive operations were driving inefficiency. Operational costs of $8.4M annually were growing faster than revenue.
 
 ## The Approach
 
-Over 20 weeks, we conducted a comprehensive operations optimization engagement:
+Over 16 weeks, we conducted an operations optimization engagement:
 
-**Phase 1: Operational Diagnosis**
-Three weeks of direct observation, process mapping, 42 employee interviews, and data analysis. We identified five interconnected issues: production scheduling chaos, inventory management crisis, ERP limitations, quality rework loop, and change management deficit.
+**Phase 1: Operations Assessment**
+Financial analysis, process mapping, technology assessment, labor analysis across all 4 DCs. We identified $4.8M in waste and fragmentation as the core problems.
 
-**Phase 2: Operations Strategy**
-We developed a strategic framework around 3 Pillars: Flow (continuous, optimized production), Quality (built into the process, not inspected in), and Agility (rapid response to changes). We designed future-state processes and built an investment model projecting $2.5-3.0M in annual savings.
+**Phase 2: Optimization Design**
+Four workstreams: SOP standardization, technology consolidation, labor optimization, and quality program. We developed comprehensive solutions for each.
 
-**Phase 3: Implementation**
-We implemented a visual management scheduling system, standardized changeover procedures using SMED methodology, established daily standup meetings, created poka-yoke fixtures for critical quality points, and liquidated $2.1M in excess/obsolete inventory.
-
-**Phase 4: Sustainability**
-We trained all supervisors in lean fundamentals, facilitated 5 Kaizen events, redesigned the onboarding process, and built succession plans for key roles.
+**Phase 3 & 4: Implementation & Optimization**
+SOPs rolled out across all DCs, Manhattan WMS deployed, labor management system live, quality program operational, continuous improvement cycle established.
 
 ## The Results
 
 | Metric | Before | After |
 |--------|--------|-------|
-| Production Cycle Time | 23 days | 17.7 days |
-| On-Time Delivery | 78% | 96% |
-| WIP Inventory | $4.2M | $2.8M |
-| First-Pass Yield | 89% | 97% |
-| Rework Rate | 8.4% | 2.1% |
-| Operating Margin | 11% | 17% |
-
-**Annual Cost Savings: $2.8M**
+| Gross Margin | 18% | 23% |
+| Operational Costs | $8.4M | $4.2M |
+| EBITDA | $12.8M | $22.6M |
+| On-Time Delivery | 99.2% | 99.6% |
+| Labor Cost (% Revenue) | 22% | 17% |
+| Turnover Rate | 38% | 21% |
 
 ## Tools & Methods
 
-Katana, Microsoft Dynamics 365, Power BI, Minitab, SAP Ariba, Asana, Notion
+This engagement leveraged:
+- Manhattan Associates WMS, SAP S/4HANA (enterprise systems)
+- Veridian LMS, RF Terminals (labor and warehouse tech)
+- Tableau, Power BI (analytics)
+- Minitab, IQMS (quality and process)
+- Smartsheet, Microsoft 365 (collaboration)
 
 ## Testimonial
 
-"Cayson didn't just optimize our operations—he transformed how we think about our business. We had been doing things the same way for 30 years and didn't realize how much we were leaving on the table. The $2.8M in annual savings is real, but what matters more is that we've built a company that can compete and win for the next generation."
+"Cayson transformed how we think about operations. Margins up 5 points, costs down $4.2M, delivery rate actually improved. That's operational excellence—not cutting corners, eliminating waste."
 
-— Richard Hammersley, CEO, Granitepeak Manufacturing
+— Marcus Webb, CEO, Velocity Logistics
 
 ## Ready to Optimize Your Operations?
 
-Schedule a consultation to discuss how we can help you build operational excellence.
+Schedule a consultation to discuss how we can help you achieve operational excellence.

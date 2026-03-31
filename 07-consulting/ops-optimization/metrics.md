@@ -1,363 +1,330 @@
-# Operations Optimization: Metrics Documentation
+# Operations Optimization: Metrics Reference
 
-## Baseline Metrics (Pre-Engagement)
-
-### Company Overview
-| Metric | Value | Timeframe |
-|--------|-------|-----------|
-| Company Age | 62 years | Founded 1962 |
-| Employees | 127 | Full-time |
-| Annual Revenue | $34M | FY 2023 |
-| Operating Margin | 11% | FY 2023 |
-| Gross Margin | 31% | FY 2023 |
-| Location | Grand Rapids, MI | Headquarters |
-
-### Production Performance
-| Metric | Value | Timeframe |
-|--------|-------|-----------|
-| Production Cycle Time | 23 days | Average |
-| On-Time Delivery | 78% | Of orders |
-| First-Pass Yield | 89% | Process yield |
-| Changeover Time | 4.2 hours | Average |
-| WIP Inventory | $4.2M | Work-in-progress |
-| Rush Orders | 23% | Of production volume |
-| Production Efficiency | 34% | Time in value-add vs total |
-| Actual Processing Time | 34% | % of total cycle time |
-
-### Quality Metrics
-| Metric | Value | Timeframe |
-|--------|-------|-----------|
-| Rework Rate | 8.4% | Of production hours |
-| Rework Cost | $890K | Annual |
-| First-Pass Yield | 89% | Industry benchmark: 95% |
-| Customer Complaints | 47 | Per quarter |
-| Warranty Claims | 0.8% | Of revenue |
-| Scrap Rate | 2.1% | Of production |
-
-### Inventory Metrics
-| Metric | Value | Timeframe |
-|--------|-------|-----------|
-| Total Inventory | $8.4M | All inventory |
-| WIP Inventory | $4.2M | Work-in-progress |
-| Raw Material | $2.8M | Raw materials |
-| Finished Goods | $1.4M | Completed |
-| Excess Inventory | 23% | No usage 12+ months |
-| Obsolete Inventory | 12% | Engineering changes |
-| Inventory Accuracy | 73% | Record vs. physical |
-| Inventory Turns | 3.2/year | Industry: 5-6x |
-| Carrying Costs | $380K | Annual |
-
-### Financial Metrics
-| Metric | Value | Timeframe |
-|--------|-------|-----------|
-| Revenue | $34M | Annual |
-| Gross Profit | $10.5M | 31% margin |
-| Operating Income | $3.7M | 11% margin |
-| EBITDA | $4.8M | 14% margin |
-| Cost of Goods Sold | $23.5M | 69% of revenue |
-| Quality Costs | $890K | Annual (8.4% rework) |
-| Material Costs | $12.4M | 52% of COGS |
-| Labor Costs | $8.2M | 35% of COGS |
-
-### Customer Metrics
-| Metric | Value | Timeframe |
-|--------|-------|-----------|
-| Customer Count | 84 | Active accounts |
-| Customer Retention | 89% | Annual |
-| Average Customer Tenure | 8.2 years | Relationship length |
-| Customer NPS | 34 | Q4 2023 survey |
-| Delivery Complaints | 34 | Per quarter |
-| Quality Complaints | 13 | Per quarter |
-| Contract Renewals | 76% | Annual rate |
-
-### Employee Metrics
-| Metric | Value | Timeframe |
-|--------|-------|-----------|
-| Total Employees | 127 | Full-time |
-| Supervisors | 12 | Production supervisors |
-| Employee Engagement | 3.4/5 | Annual survey |
-| Supervisor Turnover | 18% | Annual |
-| Training Hours | 12 hrs/employee | Annual |
-| Internal Promotions | 4/year | Promotion rate |
-| Safety Incidents | 7/year | Recordable incidents |
-| Overtime Hours | 14% | Of total hours |
-
-### Technology & Systems
-| Metric | Value | Timeframe |
-|--------|-------|-----------|
-| ERP System Age | 20 years | AS/400-based |
-| IT Budget | $420K | Annual |
-| System Downtime | 3.2% | Availability |
-| Manual Data Entry | 40% | Of data movement |
-| Inventory Record Errors | 27% | Record accuracy |
+## Velocity Logistics — Key Performance Indicators
 
 ---
 
-## Post-Engagement Metrics (6 Months After Completion)
+## 1. Pre-Engagement Baseline Metrics
 
-### Production Performance
-| Metric | Value | Change | % Change |
-|--------|-------|--------|----------|
-| Production Cycle Time | 17.7 days | -5.3 days | -23% |
-| On-Time Delivery | 96% | +18 pts | +23% |
-| First-Pass Yield | 97% | +8 pts | +9% |
-| Changeover Time | 1.8 hours | -2.4 hrs | -57% |
-| WIP Inventory | $2.8M | -$1.4M | -33% |
-| Rush Orders | 9% | -14 pts | -61% |
-| Production Efficiency | 61% | +27 pts | +79% |
-| Actual Processing Time | 52% | +18 pts | +53% |
+### Company Baseline
+| Metric | Value |
+|--------|-------|
+| Annual Revenue | $128M |
+| Gross Margin | 18% |
+| EBITDA | $12.8M |
+| Net Margin | 3.2% |
+| Employees | 420 |
+| Distribution Centers | 4 |
+| Warehouse Space | 2.4M sq ft |
+| Client Concentration (Top 3) | 62% of revenue |
+| Years in Operation | 15 |
 
-### Quality Metrics
-| Metric | Value | Change | % Change |
-|--------|-------|--------|----------|
-| Rework Rate | 2.1% | -6.3 pts | -75% |
-| Rework Cost | $210K | -$680K | -76% |
-| First-Pass Yield | 97% | +8 pts | +9% |
-| Customer Complaints | 12 | -35 | -74% |
-| Warranty Claims | 0.3% | -0.5 pts | -63% |
-| Scrap Rate | 0.8% | -1.3 pts | -62% |
+### Operational Baseline
+| Metric | Value |
+|--------|-------|
+| On-Time Delivery Rate | 99.2% |
+| Shipping Accuracy | 99.5% |
+| Order Cycle Time | 4.2 hours |
+| Dock-to-Stock Time | 6.4 hours |
+| Pick Productivity | 85 units/hr |
+| Pack Productivity | 42 units/hr |
+| Inventory Accuracy | 97.2% |
+| Cost per Order | $4.82 |
 
-### Inventory Metrics
-| Metric | Value | Change | % Change |
-|--------|-------|--------|----------|
-| Total Inventory | $5.8M | -$2.6M | -31% |
-| WIP Inventory | $2.8M | -$1.4M | -33% |
-| Raw Material | $2.1M | -$0.7M | -25% |
-| Finished Goods | $0.9M | -$0.5M | -36% |
-| Excess Inventory | $180K | -$1.92M | -91% |
-| Obsolete Inventory | $100K | -$908K | -90% |
-| Inventory Accuracy | 96% | +23 pts | +32% |
-| Inventory Turns | 5.1/year | +1.9 | +59% |
-| Carrying Costs | $190K | -$190K | -50% |
+### Financial Baseline
+| Metric | Value |
+|--------|-------|
+| Gross Revenue | $128M |
+| Gross Profit | $23.0M |
+| Gross Margin | 18.0% |
+| Operational Costs | $8.4M |
+| EBITDA | $12.8M |
+| EBITDA Margin | 10.0% |
+| Revenue per Employee | $305K |
+| Cost per Order | $4.82 |
 
-### Financial Metrics
-| Metric | Value | Change | % Change |
-|--------|-------|--------|----------|
-| Revenue | $36.2M | +$2.2M | +6% |
-| Gross Profit | $13.8M | +$3.3M | +31% |
-| Gross Margin | 38% | +7 pts | +23% |
-| Operating Income | $6.2M | +$2.5M | +68% |
-| Operating Margin | 17% | +6 pts | +55% |
-| EBITDA | $7.1M | +$2.3M | +48% |
-| Quality Costs | $210K | -$680K | -76% |
-| Production Efficiency | +27 pts | — | — |
+### Technology Baseline
+| Metric | Value |
+|--------|-------|
+| WMS Systems | 5 |
+| IT Maintenance Cost | $1.8M/year |
+| System Downtime | 18 hrs/month |
+| Data Visibility Across DCs | 34% |
+| Integration Points | 8 |
+| WMS Training Time | 40 hours |
 
-### Customer Metrics
-| Metric | Value | Change | % Change |
-|--------|-------|--------|----------|
-| Customer Retention | 97% | +8 pts | +9% |
-| Average Customer Tenure | 11.4 years | +3.2 yrs | +39% |
-| Customer NPS | 61 | +27 pts | +79% |
-| Delivery Complaints | 8 | -26 | -76% |
-| Quality Complaints | 4 | -9 | -69% |
-| Contract Renewals | 94% | +18 pts | +24% |
-| New Contracts Won | 3 | +2 | +200% |
-
-### Employee Metrics
-| Metric | Value | Change | % Change |
-|--------|-------|--------|----------|
-| Employee Engagement | 4.2/5 | +0.8 pts | +24% |
-| Supervisor Turnover | 6% | -12 pts | -67% |
-| Training Hours | 42 hrs/employee | +30 hrs | +250% |
-| Internal Promotions | 11/year | +7 | +175% |
-| Safety Incidents | 2/year | -5 | -71% |
-| Overtime Hours | 8% | -6 pts | -43% |
-| Knowledge Transfer | 94% | — | — |
+### Labor Baseline
+| Metric | Value |
+|--------|-------|
+| Labor Cost (% Revenue) | 22% |
+| Annual Turnover Rate | 38% |
+| Overtime (% Labor) | 14% |
+| Training Time (New Hire) | 48 hours |
+| Cross-Trained Employees | 12% |
+| Absenteeism Rate | 6.2% |
+| Employees per DC | 105 |
 
 ---
 
-## Cost Savings Summary
+## 2. Post-Engagement Metrics
 
-### Annual Cost Savings (Realized)
-| Category | Savings | Annual Run Rate |
-|----------|---------|----------------|
-| Quality-Related Costs | $680K | Rework elimination |
-| Inventory Carrying | $190K | 50% reduction |
-| Production Efficiency | $1.2M | Labor optimization |
-| Expediting/Rush Orders | $340K | Reduced overtime |
-| Purchasing Optimization | $390K | Better terms |
-| **Total Annual Savings** | **$2.8M** | — |
-
-### Working Capital Release
-| Category | Amount | Type |
-|----------|--------|------|
-| WIP Inventory | $1.4M | Cash release |
-| Excess/Obsolete Liquidation | $1.82M | One-time |
-| **Total Working Capital** | **$3.22M** | — |
-
-### Investment vs. Return
-| Item | Value |
-|------|-------|
-| Engagement Investment | $145,000 |
-| Annual Savings | $2,800,000 |
-| Working Capital Released | $3,220,000 |
-| **Total Value** | **$5,875,000** |
-| **ROI** | **4,053%** |
-| **Payback Period** | 8 weeks |
-
----
-
-## Process Metrics
-
-### Production Scheduling
-| Metric | Before | After |
-|--------|--------|-------|
-| Schedule Adherence | 61% | 89% |
-| Schedule Changes/Day | 12 | 3 |
-| Jobs Waiting | 47% | 12% |
-| Priority Violations | 23% | 2% |
-| White Space Events | 47% | 14% |
-
-### Changeover Performance
-| Metric | Before | After |
-|--------|--------|-------|
-| Average Changeover | 4.2 hrs | 1.8 hrs |
-| Internal Time | 3.1 hrs | 1.1 hrs |
-| External Time | 1.1 hrs | 0.7 hrs |
-| Changeover Range | 2-8 hrs | 0.5-3 hrs |
-| Changeovers/Week | 45 | 52 |
-
-### Quality Inspection
-| Metric | Before | After |
-|--------|--------|-------|
-| Inspection Points | 156 | 89 |
-| Inspection Time/Part | 4.2 min | 2.1 min |
-| First-Pass Yield | 89% | 97% |
-| Defect Escapes | 2.8% | 0.4% |
-| Measurement Error | 1.2% | 0.3% |
-
----
-
-## Inventory Accuracy
-
-### Pre vs. Post Implementation
-| Metric | Before | After |
-|--------|--------|-------|
-| Overall Accuracy | 73% | 96% |
-| Location Accuracy | 68% | 94% |
-| Quantity Accuracy | 81% | 97% |
-| FIFO Compliance | 54% | 91% |
-| Cycle Count Variance | 18% | 3% |
-| Discrepancy Resolution | 3.2 days | 0.5 days |
-
----
-
-## Training & Capability Building
-
-### Training Hours by Role
-| Role | Before | After | Change |
-|------|--------|-------|--------|
-| Supervisors | 20 hrs/yr | 60 hrs/yr | +40 |
-| Production Workers | 8 hrs/yr | 32 hrs/yr | +24 |
-| Quality Technicians | 16 hrs/yr | 48 hrs/yr | +32 |
-| Materials Team | 12 hrs/yr | 40 hrs/yr | +28 |
-| Engineering | 24 hrs/yr | 36 hrs/yr | +12 |
-
-### Certification Rates
-| Certification | Before | After |
-|---------------|--------|-------|
-| Lean Fundamentals | 0% | 100% |
-| Statistical Process Control | 0% | 85% |
-| Kaizen Facilitation | 0% | 40% |
-| Quality Inspector | 60% | 100% |
-| Equipment Operation | 80% | 95% |
-
----
-
-## Competitive Benchmarking
-
-### Industry Comparison
-| Metric | Granitepeak Before | Industry Median | Granitepeak After |
-|--------|-------------------|-----------------|------------------|
-| Cycle Time | 23 days | 18 days | 17.7 days |
-| On-Time Delivery | 78% | 92% | 96% |
-| First-Pass Yield | 89% | 95% | 97% |
-| Inventory Turns | 3.2x | 5.0x | 5.1x |
-| Operating Margin | 11% | 14% | 17% |
-| Quality Costs | 8.4% | 3% | 2.1% |
-| Customer Retention | 89% | 93% | 97% |
-
-### Ranking Improvement
-| Metric | Before Rank | After Rank |
-|--------|-------------|------------|
-| On-Time Delivery | Bottom 15% | Top 10% |
-| First-Pass Yield | Bottom 20% | Top 15% |
-| Inventory Turns | Bottom 25% | Top 30% |
-| Operating Margin | Bottom 30% | Top 25% |
-| Customer Retention | Bottom 20% | Top 10% |
-
----
-
-## Employee Engagement Metrics
-
-### Survey Results
-| Question | Before | After | Change |
-|----------|--------|-------|--------|
-| "I understand how my work impacts the company" | 3.1/5 | 4.4/5 | +42% |
-| "I have the tools I need to do my job" | 2.8/5 | 4.3/5 | +54% |
-| "My supervisor listens to my ideas" | 3.2/5 | 4.5/5 | +41% |
-| "We are always looking for ways to improve" | 2.9/5 | 4.4/5 | +52% |
-| "I see a future for myself here" | 3.5/5 | 4.6/5 | +31% |
-
-### Retention Metrics
-| Metric | Before | After |
-|--------|--------|-------|
-| Voluntary Turnover | 14% | 5% |
-| Involuntary Turnover | 4% | 2% |
-| Total Turnover | 18% | 7% |
-| Key Employee Retention | 89% | 100% |
-| Supervisor Retention | 82% | 94% |
-
----
-
-## Kaizen Event Results
-
-### 5 Kaizen Events Conducted
-| Event | Focus Area | Savings | Time Savings |
-|-------|-----------|---------|--------------|
-| Event 1 | Scheduling System | $180K/yr | 2 hrs/day |
-| Event 2 | Changeover Reduction | $140K/yr | 45 min/setup |
-| Event 3 | Quality Inspection | $90K/yr | 50% faster |
-| Event 4 | Inventory Storage | $120K/yr | 30% space |
-| Event 5 | Shipping/Receiving | $95K/yr | 1 day faster |
-| **Total** | — | **$625K/yr** | — |
-
----
-
-## Technology Adoption
-
-### System Usage Metrics
-| System | Adoption | Before | After |
-|--------|----------|--------|-------|
-| Visual Management Boards | 100% | Manual | Digital |
-| Power BI Dashboards | 100% | None | 8 reports |
-| Katana Scheduling | 100% | Spreadsheets | Full |
-| Cycle Counting | 100% | Annual | Weekly |
-| Quality Checklists | 100% | Paper | Digital |
-
----
-
-## Safety Metrics
-
-### Safety Performance
+### Financial Transformation
 | Metric | Before | After | Change |
 |--------|--------|-------|--------|
-| Recordable Incidents | 7 | 2 | -71% |
-| Lost Time Incidents | 3 | 0 | -100% |
-| Near-Miss Reports | 4 | 18 | +350% |
-| Safety Observations | 12 | 48 | +300% |
-| Safety Training Hours | 4/employee | 12/employee | +200% |
+| Gross Margin | 18% | 23% | +5 pts |
+| Operational Costs | $8.4M | $4.2M | -50% |
+| EBITDA | $12.8M | $22.6M | +77% |
+| EBITDA Margin | 10% | 15.9% | +5.9 pts |
+| Revenue per Employee | $305K | $381K | +25% |
+| Cost per Order | $4.82 | $3.28 | -32% |
+| Net Margin | 3.2% | 8.1% | +4.9 pts |
+
+### Cost Reduction Breakdown
+| Category | Before | After | Savings |
+|----------|--------|-------|---------|
+| Technology (IT Maintenance) | $1.8M | $620K | $1.18M |
+| Labor (productivity gains) | $28.2M | $21.8M | $6.4M |
+| Overtime | $3.9M | $1.5M | $2.4M |
+| Training & Turnover | $1.2M | $480K | $720K |
+| Process Waste | $4.8M | $2.4M | $2.4M |
+| **Total Annual Savings** | | | **$13.08M** |
 
 ---
 
-## Industry Benchmark Comparison
+## 3. Operational Metrics
 
-### Precision Machining Industry
-| Metric | Bottom Quartile | Median | Top Quartile | Granitepeak Post |
-|--------|-----------------|--------|--------------|------------------|
-| OEE | 60% | 72% | 85% | 78% |
-| On-Time Delivery | 85% | 92% | 97% | 96% |
-| First-Pass Yield | 90% | 95% | 98% | 97% |
-| Inventory Turns | 3.0x | 5.0x | 7.0x | 5.1x |
-| Scrap Rate | 3% | 1.5% | 0.5% | 0.8% |
-| Supervisor Turnover | 20% | 12% | 5% | 6% |
+### Productivity Metrics
+| Metric | Before | After | Change |
+|--------|--------|-------|--------|
+| On-Time Delivery | 99.2% | 99.6% | +0.4 pts |
+| Shipping Accuracy | 99.5% | 99.92% | +0.42 pts |
+| Order Cycle Time | 4.2 hrs | 2.8 hrs | -33% |
+| Dock-to-Stock Time | 6.4 hrs | 3.2 hrs | -50% |
+| Pick Productivity | 85 units/hr | 118 units/hr | +39% |
+| Pack Productivity | 42 units/hr | 58 units/hr | +38% |
+| Inventory Accuracy | 97.2% | 99.8% | +2.6 pts |
+| Cost per Order | $4.82 | $3.28 | -32% |
+
+### DC-Specific Metrics
+| DC | On-Time Before | On-Time After | Pick Productivity Before | Pick Productivity After |
+|----|---------------|---------------|--------------------------|------------------------|
+| Atlanta (DC1) | 99.1% | 99.7% | 82 units/hr | 122 units/hr |
+| Charlotte (DC2) | 99.3% | 99.8% | 88 units/hr | 125 units/hr |
+| Nashville (DC3) | 99.0% | 99.6% | 80 units/hr | 112 units/hr |
+| Richmond (DC4) | 99.4% | 99.7% | 90 units/hr | 118 units/hr |
+
+---
+
+## 4. Labor Metrics
+
+### Labor Cost Transformation
+| Metric | Before | After | Change |
+|--------|--------|-------|--------|
+| Labor Cost (% Revenue) | 22% | 17% | -5 pts |
+| Total Labor Cost | $28.2M | $21.8M | -23% |
+| Overtime (% Labor) | 14% | 7% | -7 pts |
+| Overtime Cost | $3.9M | $1.5M | -62% |
+
+### Workforce Metrics
+| Metric | Before | After | Change |
+|--------|--------|-------|--------|
+| Annual Turnover Rate | 38% | 21% | -17 pts |
+| New Hires per Year | 160 | 88 | -45% |
+| Training Time (New Hire) | 48 hrs | 24 hrs | -50% |
+| Cross-Trained Employees | 12% | 68% | +56 pts |
+| Absenteeism Rate | 6.2% | 3.1% | -50% |
+| Employees per DC | 105 | 105 | — |
+
+### Turnover Cost Analysis
+| Metric | Before | After |
+|--------|--------|-------|
+| Turnover Rate | 38% | 21% |
+| Employees Separated | 160 | 88 |
+| Cost per Separation | $7,500 | $7,500 |
+| Annual Turnover Cost | $1.2M | $660K |
+| **Savings** | | **$540K** |
+
+### Incentive Program Results
+| Metric | Value |
+|--------|-------|
+| Employees Eligible | 420 |
+| Participation Rate | 94% |
+| Avg Bonus (% Base) | 8% |
+| Productivity Increase | 31% |
+| Program Cost | $1.8M |
+| Value Created | $6.4M |
+| ROI | 3.6x |
+
+---
+
+## 5. Technology Metrics
+
+### WMS Consolidation Results
+| Metric | Before | After | Change |
+|--------|--------|-------|--------|
+| WMS Systems | 5 | 1 | Consolidated |
+| IT Maintenance Cost | $1.8M | $620K | -66% |
+| System Downtime | 18 hrs/mo | 2 hrs/mo | -89% |
+| Data Visibility | 34% | 96% | +62 pts |
+| Integration Points | 8 | 24 | +200% |
+| WMS Training Time | 40 hrs | 16 hrs | -60% |
+| IT Headcount | 8 | 5 | -38% |
+
+### System Performance
+| Metric | Value |
+|--------|-------|
+| Order Processing Time | 2.1 seconds |
+| Inventory Transaction Time | 1.4 seconds |
+| System Availability | 99.8% |
+| RF Scan Accuracy | 99.97% |
+| Pick Wave Planning Time | 45 minutes |
+| Reporting Generation | Real-time |
+
+---
+
+## 6. Quality Metrics
+
+### Quality Transformation
+| Metric | Before | After | Change |
+|--------|--------|-------|--------|
+| Shipping Errors | 0.5% | 0.08% | -84% |
+| Inventory Discrepancies | 2.8% | 0.2% | -93% |
+| Client SLA Compliance | 94% | 99.2% | +5.2 pts |
+| Damage Rate | 0.4% | 0.12% | -70% |
+| Returns Processing Time | 18 hrs | 6 hrs | -67% |
+
+### Six Sigma Metrics
+| Metric | Value |
+|--------|-------|
+| Green Belts Certified | 12 |
+| DMAIC Projects Completed | 36 |
+| Average DPMO Improvement | 68% |
+| Process Capability (Cpk) | 1.45 |
+| Defects per Million Opportunities | 1,200 |
+
+### Kaizen Event Results
+| Event | Focus Area | Savings | Duration |
+|-------|------------|---------|----------|
+| Event 1 | Receiving Process | $180K | 3 days |
+| Event 2 | Pick Path Optimization | $320K | 3 days |
+| Event 3 | Pack Station Design | $210K | 3 days |
+| Event 4 | Shipping Accuracy | $280K | 3 days |
+| Event 5 | Returns Process | $150K | 3 days |
+| **Total** | | **$1.14M** | **15 days** |
+
+---
+
+## 7. Client Metrics
+
+### Client Retention & Satisfaction
+| Metric | Before | After | Change |
+|--------|--------|-------|--------|
+| Client Retention Rate | 88% | 96% | +8 pts |
+| Net Promoter Score | 34 | 58 | +24 pts |
+| Client Satisfaction (avg) | 4.1/5 | 4.7/5 | +15% |
+| SLA Compliance Rate | 94% | 99.2% | +5.2 pts |
+| Client Complaints | 142/year | 38/year | -73% |
+
+### Business Development
+| Metric | Before | After | Change |
+|--------|--------|-------|--------|
+| New Client Wins (annual) | 3 | 8 | +167% |
+| Proposal Win Rate | 28% | 47% | +19 pts |
+| Average Sales Cycle | 6 months | 4 months | -33% |
+| Pipeline Value | $18M | $42M | +133% |
+| Revenue from New Clients | $3.2M | $11.4M | +256% |
+
+---
+
+## 8. Distribution Center Performance
+
+### DC Comparison (After Optimization)
+| DC | Revenue | Margin | On-Time | Pick Rate | Turnover |
+|----|---------|--------|---------|-----------|----------|
+| Atlanta | $36M | 23.5% | 99.7% | 122/hr | 22% |
+| Charlotte | $34M | 24.1% | 99.8% | 125/hr | 19% |
+| Nashville | $30M | 22.8% | 99.6% | 112/hr | 24% |
+| Richmond | $28M | 22.4% | 99.7% | 118/hr | 20% |
+| **Total/Avg** | **$128M** | **23.2%** | **99.7%** | **119/hr** | **21%** |
+
+---
+
+## 9. Investment & ROI
+
+### Engagement Investment
+| Phase | Duration | Investment |
+|-------|----------|------------|
+| Phase 1: Assessment | 4 weeks | $38,000 |
+| Phase 2: Design | 6 weeks | $72,000 |
+| Phase 3: Implementation | 4 weeks | $52,000 |
+| Phase 4: Optimization | 2 weeks | $23,000 |
+| **Total** | **16 weeks** | **$185,000** |
+
+### Team Composition
+| Role | Weeks | Rate |
+|------|-------|------|
+| Lead Operations Consultant | 16 | Rate |
+| Industrial Engineer | 14 | Rate |
+| Technology Consultant | 8 | Rate |
+
+### Return on Investment
+| Metric | Value |
+|--------|-------|
+| Total Investment | $185,000 |
+| Annual EBITDA Improvement | $9,800,000 |
+| Annual Cost Reduction | $13,080,000 |
+| First-Year Net Benefit | $12,895,000 |
+| ROI | 6,970% |
+| Payback Period | 8 months |
+
+---
+
+## 10. Industry Benchmarks
+
+### 3PL Industry Benchmarks
+| Metric | Industry Median | Velocity Before | Velocity After |
+|--------|-----------------|----------------|----------------|
+| Gross Margin | 20% | 18% | 23% |
+| Labor Cost (% Revenue) | 18% | 22% | 17% |
+| On-Time Delivery | 98.5% | 99.2% | 99.6% |
+| Inventory Accuracy | 98.5% | 97.2% | 99.8% |
+| Order Accuracy | 99.5% | 99.5% | 99.92% |
+| Revenue per Employee | $320K | $305K | $381K |
+
+### Performance vs. Benchmarks
+| Metric | Benchmark | Velocity After | Percentile |
+|--------|-----------|----------------|------------|
+| Gross Margin | 20% | 23% | 82nd |
+| Labor Efficiency | 18% | 17% | 78th |
+| On-Time Delivery | 98.5% | 99.6% | 94th |
+| Inventory Accuracy | 98.5% | 99.8% | 97th |
+| Order Accuracy | 99.5% | 99.92% | 96th |
+| Revenue per Employee | $320K | $381K | 88th |
+
+---
+
+## 11. Post-Engagement Traction (12-Month)
+
+### Financial Traction
+| Metric | Q1 2024 | Q2 2024 | Q3 2024 | Q4 2024 |
+|--------|---------|---------|---------|---------|
+| Revenue | $128M | $132M | $138M | $142M |
+| Gross Margin | 19% | 21% | 22% | 23% |
+| EBITDA | $14.2M | $18.4M | $20.8M | $22.6M |
+| Operational Costs | $7.8M | $6.2M | $5.1M | $4.2M |
+
+### Operational Traction
+| Metric | Q1 2024 | Q2 2024 | Q3 2024 | Q4 2024 |
+|--------|---------|---------|---------|---------|
+| On-Time Delivery | 99.4% | 99.5% | 99.6% | 99.6% |
+| Pick Productivity | 95/hr | 105/hr | 112/hr | 118/hr |
+| Turnover Rate | 32% | 28% | 24% | 21% |
+| Cross-Trained % | 35% | 48% | 58% | 68% |
+
+### Client & Business Development
+| Metric | Q1 2024 | Q2 2024 | Q3 2024 | Q4 2024 |
+|--------|---------|---------|---------|---------|
+| Client Retention | 92% | 94% | 95% | 96% |
+| New Clients | 1 | 2 | 2 | 3 |
+| NPS Score | 42 | 48 | 54 | 58 |
+| Pipeline Value | $22M | $28M | $35M | $42M |

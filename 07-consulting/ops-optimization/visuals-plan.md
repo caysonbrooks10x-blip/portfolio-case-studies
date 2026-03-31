@@ -2,280 +2,262 @@
 
 ## Overview
 
-This document outlines the visual assets required to bring the Granitepeak Manufacturing operations optimization case study to life. The visual identity should convey industrial authenticity, operational rigor, and tangible transformation.
+This document outlines the visual assets required to bring the Velocity Logistics operations optimization case study to life. The visual identity should convey industrial efficiency, supply chain expertise, and operational transformation.
 
 ---
 
 ## Primary Visual Assets
 
-### 1. Before/After Operations Dashboard
+### 1. Operations Transformation Dashboard
 **Purpose:** Hero visual for website, proposals, social media
 **Format:** Data visualization / Infographic
 **Dimensions:** 1200x628px (social), 1920x1080px (presentation)
 
 **Content:**
-- 6 key operational metrics with before/after comparison
-- Cost savings callout ($2.8M)
-- Timeline visualization (20-week engagement)
-- Production-focused imagery
+- 6 key metrics with before/after comparison
+- Gross margin transformation
+- Cost reduction impact
+- Operational improvements
 
 **Design Direction:**
-- Industrial aesthetic (clean, professional)
-- Blue/gray primary palette with green for improvement
-- Clear data visualization with bold numbers
-- Manufacturing context imagery
+- Industrial professional aesthetic
+- Dark blue/steel primary palette with green for improvement
+- Clean data visualization with bold numbers
+- Logistics and supply chain iconography
 
 **Layout:**
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│       GRANITEPEAK MANUFACTURING: OPERATIONS EXCELLENCE    │
+│       VELOCITY LOGISTICS: OPERATIONS TRANSFORMATION       │
 │                                                             │
 │  ┌───────────────┐  ┌───────────────┐  ┌───────────────┐  │
-│  │ CYCLE TIME   │  │ ON-TIME DEL   │  │ FIRST-PASS   │  │
-│  │  23→17.7 days│  │   78%→96%    │  │   89%→97%   │  │
-│  │     -23%     │  │    +18 pts    │  │    +8 pts    │  │
+│  │  GROSS       │  │   COST       │  │   EBITDA     │  │
+│  │  MARGIN      │  │   REDUCTION  │  │   INCREASE   │  │
+│  │   18%→23%  │  │  $8.4M→$4.2M│  │  $12.8M→$22.6M│ │
+│  │    +5 PTS  │  │      -50%     │  │      +77%     │  │
 │  └───────────────┘  └───────────────┘  └───────────────┘  │
 │                                                             │
 │  ┌───────────────┐  ┌───────────────┐  ┌───────────────┐  │
-│  │  WIP INV     │  │   REWORK      │  │   MARGIN      │  │
-│  │ $4.2M→$2.8M │  │   8.4%→2.1%  │  │  11%→17%    │  │
-│  │     -34%     │  │     -75%      │  │    +6 pts    │  │
+│  │    ON-TIME   │  │    PICK      │  │   TURNOVER   │  │
+│  │    DELIVERY  │  │  PRODUCTIVITY│  │     RATE     │  │
+│  │  99.2%→99.6%│  │  85→118/hr  │  │   38%→21%   │  │
+│  │   Improved!  │  │     +39%     │  │     -45%     │  │
 │  └───────────────┘  └───────────────┘  └───────────────┘  │
 │                                                             │
-│  $2.8M Annual Cost Savings | 20-Week Engagement            │
+│  16-Week Engagement | $185K Investment | $9.8M EBITDA Gain  │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 **File Names:**
-- `granitepeak_ops_dashboard_social.png`
-- `granitepeak_ops_dashboard_presentation.png`
+- `velocity_dashboard_social.png`
+- `velocity_dashboard_presentation.png`
 
 ---
 
-### 2. 3 Pillars Framework Diagram
-**Purpose:** Strategy documents, website, proposals
-**Format:** Strategic diagram / Framework visual
-**Dimensions:** 1920x1080px (presentation), 1200x800px (document)
+### 2. Cost Reduction Breakdown
+**Purpose:** Financial presentations, investor materials
+**Format:** Waterfall chart / Cost breakdown
+**Dimensions:** 1200x800px
 
 **Content:**
-- Three pillars: Flow, Quality, Agility
-- Key initiatives under each pillar
-- Visual icons for each element
-- Timeline for implementation
-
-**Design Direction:**
-- Clean corporate consulting aesthetic
-- Color-coded pillars (blue, green, purple)
-- Professional icons for each initiative
-- Modern, clean typography
+- Technology consolidation savings
+- Labor optimization savings
+- Overtime reduction savings
+- Training & turnover savings
+- Process waste reduction
 
 **Layout:**
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│              3 PILLARS OF OPERATIONAL EXCELLENCE           │
+│              ANNUAL COST REDUCTION: $13.08M                 │
 │                                                             │
-│   ┌─────────────┐   ┌─────────────┐   ┌─────────────┐    │
-│   │    FLOW     │   │   QUALITY   │   │   AGILITY   │    │
-│   │      🔄      │   │      ✓      │   │      ⚡      │    │
-│   ├─────────────┤   ├─────────────┤   ├─────────────┤    │
-│   │ Scheduling  │   │ Poka-yoke  │   │ Inventory   │    │
-│   │ SMED        │   │ SPC         │   │ Optimization│    │
-│   │ Production  │   │ Visual      │   │ JIT Supply  │    │
-│   │ Cells       │   │ Standards   │   │ Flexibility │    │
-│   └─────────────┘   └─────────────┘   └─────────────┘    │
+│  Technology Consolidation                                  │
+│  ████████████████████████████ $1.18M                        │
 │                                                             │
-│   20-Week Implementation Timeline                          │
+│  Labor Optimization                                         │
+│  ████████████████████████████████████████ $6.40M           │
+│                                                             │
+│  Overtime Reduction                                         │
+│  ████████████████████ $2.40M                               │
+│                                                             │
+│  Training & Turnover                                         │
+│  ████████ $720K                                             │
+│                                                             │
+│  Process Waste Reduction                                    │
+│  ████████████████████████ $2.40M                           │
+│                                                             │
+│  ───────────────────────────────────────────────────────   │
+│  TOTAL: $13.08M annually                                    │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 **File Names:**
-- `granitepeak_3_pillars.png`
-- `granitepeak_strategy_framework.png`
+- `velocity_cost_reduction.png`
+- `velocity_savings_waterfall.png`
 
 ---
 
-### 3. Production Transformation Timeline
-**Purpose:** Website, proposals, process documentation
-**Format:** Timeline / Process flow
-**Dimensions:** 1920x1080px (presentation)
-
-**Content:**
-- 4 phases (Diagnose, Strategy, Implement, Sustain)
-- Key milestones under each phase
-- 20-week timeline visualization
-- Results achieved at each stage
-
-**File Names:**
-- `granitepeak_timeline_20weeks.png`
-
----
-
-### 4. Inventory Reduction Visualization
-**Purpose:** Financial presentations, proposals, social media
-**Format:** Waterfall chart / Before/after comparison
+### 3. Distribution Center Comparison
+**Purpose:** Operations reports, performance reviews
+**Format:** Comparison chart / Heat map
 **Dimensions:** 1200x800px
 
 **Content:**
-- Inventory levels before ($8.4M)
-- Reduction breakdown (excess, WIP, finished goods)
-- Inventory levels after ($5.8M)
-- Working capital release callout
+- 4 DCs: Atlanta, Charlotte, Nashville, Richmond
+- On-time delivery, pick productivity, turnover, margin
+
+**File Names:**
+- `velocity_dc_comparison.png`
+
+---
+
+### 4. WMS Consolidation Visual
+**Purpose:** Technology presentations, innovation showcases
+**Format:** Consolidation diagram
+**Dimensions:** 1200x800px
+
+**Content:**
+- 5 systems → 1 Manhattan Associates platform
+- Integration points
+- Data visibility improvement
 
 **Layout:**
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│              INVENTORY TRANSFORMATION                       │
+│            TECHNOLOGY CONSOLIDATION: 5 → 1                  │
 │                                                             │
-│   BEFORE                    AFTER                           │
-│   $8.4M                    $5.8M                           │
-│   ─────────                 ─────────                       │
+│  BEFORE:                      AFTER:                        │
+│  ┌─────────┐                 ┌─────────────────┐            │
+│  │ Legacy  │                 │                 │            │
+│  │   Pro   │                 │                 │            │
+│  ├─────────┤                 │                 │            │
+│  │MetroWMS │                 │   MANHATTAN    │            │
+│  ├─────────┤                 │   ASSOCIATES   │            │
+│  │CloudLogix│                 │                 │            │
+│  ├─────────┤                 │      WMS       │            │
+│  │ System4 │                 │                 │            │
+│  ├─────────┤                 │                 │            │
+│  │ System5 │                 │                 │            │
+│  └─────────┘                 └─────────────────┘            │
 │                                                             │
-│   Excess: $1.9M              Excess: $180K                 │
-│   WIP: $4.2M                 WIP: $2.8M                   │
-│   Finished: $1.3M             Finished: $820K               │
-│                                                             │
-│   Working Capital Released: $1.4M                          │
-│   Carrying Costs: -50%                                     │
+│  5 Systems → 1    |    34% → 96% Visibility    |    $1.18M Saved │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 **File Names:**
-- `granitepeak_inventory_reduction.png`
-
----
-
-### 5. Quality Transformation Chart
-**Purpose:** Strategy documents, quality presentations
-**Format:** Bar chart / comparison
-**Dimensions:** 1200x800px
-
-**Content:**
-- Rework rate before/after (8.4% → 2.1%)
-- First-pass yield improvement
-- Cost savings from quality ($680K)
-- Customer complaint reduction
-
-**File Names:**
-- `granitepeak_quality_improvement.png`
-
----
-
-### 6. Value Stream Map (Simplified)
-**Purpose:** Strategy documents, process documentation
-**Format:** Process diagram
-**Dimensions:** 1920x1080px (landscape)
-
-**Content:**
-- Current state value stream (simplified)
-- Future state value stream (simplified)
-- Key improvement areas highlighted
-- Wait time vs. value-add time
-
-**File Names:**
-- `granitepeak_value_stream.png`
+- `velocity_wms_consolidation.png`
 
 ---
 
 ## Platform-Specific Visuals
 
 ### LinkedIn Carousel (9 slides)
-**Slide 1:** Title — "How Granitepeak Transformed Operations"
-**Slide 2:** The challenge — 62-year-old manufacturer facing margin pressure
-**Slide 3:** What we found — scheduling chaos, hidden rework, inventory crisis
-**Slide 4:** The approach — 3 Pillars framework
-**Slide 5:** Phase 1: Diagnosis findings
-**Slide 6:** Phase 2: Strategy development
-**Slide 7:** Results — production performance
-**Slide 8:** Results — financial impact
-**Slide 9:** $2.8M impact + CTA
+**Slide 1:** Title — "How Velocity Logistics Achieved 5 Points of Margin"
+**Slide 2:** The challenge — margins compressing, costs growing, 5 WMS systems
+**Slide 3:** What we found — $4.8M in waste, process variation, no standards
+**Slide 4:** The approach — 4 workstreams, 16 weeks, systemic change
+**Slide 5:** SOP standardization
+**Slide 6:** Technology consolidation
+**Slide 7:** Labor optimization
+**Slide 8:** Results — all metrics
+**Slide 9:** $185K investment, $9.8M EBITDA improvement + CTA
 
 **Format:** 1080x1350px per slide
-**File Name:** `granitepeak_linkedin_carousel.zip`
+**File Name:** `velocity_linkedin_carousel.zip`
 
 ---
 
 ### One-Pager PDF
 **Single Page:** High-impact visual summary
 **Content:**
-- Company name and industry
+- Company name and sector
 - Challenge statement
 - Approach summary
 - 6 key metrics
-- $2.8M cost savings callout
+- Financial impact callout
 - Testimonial quote
 - CTA
 
 **Format:** Letter size, PDF
-**File Name:** `granitepeak_onepager.pdf`
+**File Name:** `velocity_onepager.pdf`
 
 ---
 
-## Manufacturing-Specific Visual Elements
+## Industrial & Logistics Visual Elements
 
-### Before/After Floor Layout
+### Industrial Credibility
 **Visual Concept:**
-- Simplified production floor layout
-- Before: chaotic, disorganized
-- After: organized cells, visual management
+- Warehouse operations imagery
+- Modern logistics technology
+- Data-driven decision making
+- Supply chain flow visualization
+- Professional industrial aesthetic
 
-**Note:** Use illustrative representation, not actual blueprints
+**Key Metrics:**
+- 31% productivity increase
+- 99.6% on-time delivery
+- 50% cost reduction
 
----
-
-### Operational Metrics Dashboard
+### Operational Excellence
 **Visual Concept:**
-- Real-time operational visibility
-- Traffic light status indicators
-- Key KPI displays
+- Before/after transformations
+- Process flow diagrams
+- Quality metrics visualization
+- Continuous improvement culture
+- Industrial professional aesthetic
 
-**Metrics to include:**
-- On-time delivery (current)
-- Production efficiency
-- First-pass yield
-- Inventory accuracy
-- Quality status
+**Key Metrics:**
+- Gross margin +5 points
+- Inventory accuracy 99.8%
+- 12 Green Belts certified
 
----
-
-### Cost Savings Waterfall
+### Business Impact
 **Visual Concept:**
-- Breakdown of $2.8M savings by category
-- Quality costs: $680K
-- Inventory carrying: $190K
-- Production efficiency: $1.2M
-- Expediting: $340K
-- Purchasing: $390K
+- Financial impact visualizations
+- ROI calculations
+- EBITDA improvement
+- Client satisfaction growth
+
+**Key Metrics:**
+- $9.8M EBITDA improvement
+- 77% ROI
+- Client retention 96%
 
 ---
 
 ## Photography/Imagery Direction
 
-### Manufacturing Context
-- Precision machining environment
-- CNC equipment in operation
-- Quality inspection stations
-- Clean, organized production floor
-- Workers in action (safety-compliant)
+### Logistics & Operations Context
+- Modern warehouse operations
+- Technology-enabled logistics
+- Data centers and control rooms
+- Team collaboration
+- Quality inspection
+- Supply chain flow
 
 ### Stock Recommendations
-- Unsplash: "precision machining", "manufacturing facility", "CNC machine", "quality control"
-- Avoid: dirty, cluttered, outdated manufacturing imagery
+- Unsplash: "warehouse", "logistics", "supply chain", "forklift", "distribution center", "shipping containers", "warehouse technology"
+- Avoid: outdated warehouse imagery, overly manual labor imagery, empty facilities
 
 ---
 
 ## Icon Library
 
-### Manufacturing Operations Icons
-- Gear/cog (operations/processes)
-- Chart trending up (improvement)
-- Factory (manufacturing)
-- Quality checkmark (quality)
-- Boxes (inventory)
-- Clock/timer (cycle time)
-- People/users (team/employees)
-- Safety shield (safety)
-- Arrows (flow/optimization)
-- Target (goals/metrics)
+### Logistics & Operations Icons
+- Box/package (shipping, fulfillment)
+- Truck (transportation, delivery)
+- Warehouse (storage, distribution)
+- Forklift (materials handling)
+- Chart/metrics (performance, KPIs)
+- Dollar/currency (cost, savings)
+- Target (accuracy, goals)
+- Gear/cog (processes, optimization)
+- People/users (labor, team)
+- Calendar/clock (time, cycle)
+- Checkmark (quality, compliance)
+- Rocket (growth, velocity)
+- Shield (security, reliability)
+- Layers/stack (technology, integration)
 
 **Format:** SVG or PNG at 64x64, 128x128, 256x256
 
@@ -284,15 +266,15 @@ This document outlines the visual assets required to bring the Granitepeak Manuf
 ## Brand Guidelines
 
 ### Color Palette
-- Primary: #1e3a5f (industrial blue)
-- Secondary: #64748b (slate gray)
-- Accent: #22c55e (improvement green)
-- Background Light: #f8fafc
-- Background Dark: #1e293b
+- Primary: #1e3a5f (deep navy blue)
+- Secondary: #2d5a87 (steel blue)
+- Accent Green: #22c55e (improvement, success)
+- Accent Orange: #f97316 (energy, velocity)
+- Alert Red: #ef4444 (before, problem)
+- Background Light: #f8fafc (light gray)
+- Background Dark: #0f172a
 - Text Primary: #0f172a
 - Text Secondary: #475569
-- Warning: #f59e0b (amber)
-- Alert: #ef4444 (red for before metrics)
 
 ### Typography
 - Headlines: Inter Bold / Poppins Bold
@@ -301,11 +283,11 @@ This document outlines the visual assets required to bring the Granitepeak Manuf
 - Font sizes: 48px (hero), 32px (H1), 24px (H2), 18px (body), 14px (caption)
 
 ### Visual Style
-- Clean, professional, industrial
-- Data-forward storytelling
-- Before/after comparisons
-- Clear metric callouts
-- Subtle manufacturing context
+- Industrial professional aesthetic
+- Clean data visualization
+- Before/after comparisons with clear improvement
+- Logistics and supply chain iconography
+- Metrics-forward storytelling
 
 ---
 
@@ -314,24 +296,23 @@ This document outlines the visual assets required to bring the Granitepeak Manuf
 ```
 visuals/
 ├── hero/
-│   ├── granitepeak_ops_dashboard_social.png
-│   ├── granitepeak_ops_dashboard_presentation.png
-│   └── granitepeak_before_after.png
+│   ├── velocity_dashboard_social.png
+│   ├── velocity_dashboard_presentation.png
+│   └── velocity_cost_reduction.png
 ├── diagrams/
-│   ├── granitepeak_3_pillars.png
-│   ├── granitepeak_timeline_20weeks.png
-│   ├── granitepeak_inventory_reduction.png
-│   ├── granitepeak_quality_improvement.png
-│   └── granitepeak_value_stream.png
+│   ├── velocity_wms_consolidation.png
+│   ├── velocity_dc_comparison.png
+│   ├── velocity_savings_waterfall.png
+│   └── velocity_roi_visual.png
 ├── social/
-│   ├── granitepeak_linkedin_carousel.zip
-│   └── granitepeak_twitter_card.png
+│   ├── velocity_linkedin_carousel.zip
+│   └── velocity_twitter_card.png
 ├── templates/
-│   ├── granitepeak_case_study_pitch.pptx
-│   ├── granitepeak_onepager.pdf
-│   └── granitepeak_proposal_deck.pptx
+│   ├── velocity_case_study_pitch.pptx
+│   ├── velocity_onepager.pdf
+│   └── velocity_operations_deck.pptx
 └── icons/
-    └── manufacturing_ops_icons.svg
+    └── logistics_operations_icons.svg
 ```
 
 ---
@@ -339,14 +320,15 @@ visuals/
 ## Animation Guidelines
 
 ### Website Hero
-- Metrics count up from baseline on scroll
-- Subtle factory animation in background
-- Savings number builds progressively
+- Margin improvement builds from 18% to 23%
+- Cost reduction animates from $8.4M to $4.2M
+- Productivity increase animates from 85 to 118
+- Subtle logistics transitions
 
 ### Slide Transitions
 - Fade transitions between slides
 - Charts animate on click
-- No distracting effects
+- Cost waterfall builds over time
 
 ### Social Media
 - Static optimized images
